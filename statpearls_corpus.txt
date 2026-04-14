@@ -1,0 +1,495 @@
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+Tuberculosis Overview
+Authors
+Ellis H. Tobin1; Debbie Tristram2.
+Affiliations
+1 Clinical Professor of Medicine and Infectious Diseases (retired), Albany Medical College; College of Nanoscale Science and Engineering State University of New York
+2 Albany Medical Center
+Last Update: December 22, 2024.
+Continuing Education Activity
+Tuberculosis (TB) is a significant global health challenge; the World Health Organization has set an ambitious goal to reduce TB incidence by 90% between 2015 and 2035. However, TB diagnosis, treatment, and prevention present considerable difficulties. Before the COVID-19 pandemic, TB was the most prevalent infectious disease worldwide. Mycobacterium tuberculosis, the causative agent of TB, has plagued humanity for millennia. Diagnostic approaches include the Mantoux skin test and the interferon-gamma release assay, which have diagnostic and predictive limitations. Advances such as molecular nucleic acid amplification tests have improved diagnostic accuracy but remain inaccessible in many high-prevalence regions. The ongoing development and implementation of new diagnostic tests aim to enhance TB detection further.
+This activity introduces the epidemiology, pathophysiology, diagnostic approaches, treatments, and prevention of latent and active TB. The treatment of TB involves complex regimens that are challenging to administer. The primary anti-TB antibiotics, developed in the mid-20th century, are essential, but recent approvals of 2 new antibiotics mark a significant advancement. Effective TB prevention and management require a coordinated effort among public health officials, primary care clinicians, and specialists, emphasizing the need for robust public health infrastructure and interprofessional collaboration to achieve global TB control and elimination goals.
+Objectives:
+* Screen high-risk populations for tuberculosis infection using evidence-based screening tools and protocols.
+* Implement current World Health Organization guidelines for the diagnosis of tuberculosis.
+* Assess the effectiveness of tuberculosis treatment by monitoring patient progress and response to therapy.
+* Collaborate with an interprofessional healthcare team to ensure timely reporting and treatment of tuberculosis cases.
+Access free multiple choice questions on this topic.
+Introduction
+Tuberculosis (TB) encompasses a huge topic regarding a common disease that is challenging to diagnose, treat, and prevent. Throughout recorded history, TB has been responsible for more human lives lost than any other infectious disease.[1], [Global tuberculosis report 2024. Geneva: World Health Organization]. TB, caused by Mycobacterium tuberculosis (Mtb), is a preventable disease. The World Health Organization has ambitiously established a goal of a 90% reduction in incidence between 2015 and 2035. Before the SARS-CoV-2 pandemic, TB was the world's most prevalent human disease. Unlike SARS-CoV-2, M tuberculosis has been a human pathogen for millennia. Robert Koch reported his discovery of the Mtb bacterium in 1882, and its complete genome sequence was mapped over 100 years later.[2]
+The diagnostic Mantoux skin test, developed in 1909, remains in use today with minor modifications in reagents and interpretive criteria. Interferon-gamma release assay (IGRA), developed in 2014, offers another approach to TB diagnosis.[3] Both tests possess diagnostic and predictive limitations that require a sophisticated understanding of interpretive criteria. The bacterium is slow-growing, frequently sparse, and often difficult to identify in sputum and tissue samples. The recent introduction of molecular nucleic acid amplification tests (NAATs) has mitigated these challenges in confirmatory TB diagnostics.[4] However, NAATs are not readily available in many parts of the world where TB is most prevalent. When and how to best implement these tests in practice remains a work in progress. New tests to enhance diagnostic accuracy are gradually emerging.[5]   
+The regimens required to treat TB are challenging to administer. The most commonly used anti-TB antibiotics were developed in the mid-20th century and remain the mainstay of therapy. For the first time in over 40 years, 2 new anti-TB antibiotics have recently been approved for treatment.[6] Anti-TB regimens vary depending on the stage and anatomic location of the infection, the immune status and age of the host, the presence of comorbidities, the development of toxicities, drug-drug interactions, and resistance patterns of the bacterium. Resistance of tuberculosis to antibiotics is increasing, and treatment often requires the administration of novel antibiotic combinations that have undergone limited testing in clinical trials. The prolonged duration of therapy needed to eradicate the organism represents an additional challenge. Recently, shorter treatment regimens for latent TB infection have been developed to minimize adverse effects and maximize patient compliance.[7]
+TB prevention remains a worldwide challenge as the disease is easily transmitted, and conditions that favor poverty, overcrowding, and lack of public health infrastructure contribute to the communicability. Nonspecific symptoms such as persistent cough often go unnoticed, resulting in high transmission rates. In the case of active TB, the multiple antibiotics required to eliminate the disease and their prolonged course of administration represent a challenge even in regions with robust public health infrastructure. Indeed, those parts of the world with the highest TB prevalence often lack adequate public health resources. In resource-rich parts of the world where TB is relatively uncommon, many clinicians rarely encounter the disease, are unfamiliar with the clinical manifestations, and lack experience in approaches to diagnosis and management. 
+Etiology
+Members of the Mtb family, also known as the tuberculosis complex, are closely related species capable of causing disease in humans and animals. M tuberculosis is the predominant human pathogen worldwide, although M bovis, M africanum, and M canetii can also infect humans. Mtb are aerobic, non–spore-forming, and nonmotile bacilli. The uniquely high concentration of lipids in the cell wall confers their acid-fast staining property and likely contributes to immunomodulation and virulence.[8] Tuberculosis is a slow-growing organism with a generation time of approximately 20 hours. Visible growth on solid media usually takes from 3 to 8 weeks, contributing to the challenge of establishing a timely diagnosis. Humans are the only known reservoir of M tuberculosis, although other animals may become infected. Genetic variability exists among isolates worldwide and may confer differences in virulence.[9] As intracellular pathogens, they are capable of causing subacute and progressive disease. The bacteria can also remain dormant within infected cells, where they may or may not cause disease. The molecular and immunologic mechanisms responsible for dormancy and reactivation remain unknown and represent an important area of research.[2]
+Epidemiology
+Ninety percent of people infected with TB develop latent infection. Approximately 5% of people infected with TB develop active disease within the first 2 years after infection; an additional 5% develop the infection later. The risk factors associated with the development of active TB are immunocompromised state, tobacco use, and excessive alcohol use. The immunocompromised state may be due to the following:
+* Immune senescence of older age
+* Genetic diseases causing immunodeficiency
+* Human immunodeficiency virus (HIV)
+* Transplantation
+* Prolonged corticosteroid use
+* Cytoreductive chemotherapy
+* Tumor necrosis factor (TNF) antagonists
+* Malnutrition
+* Diabetes
+The WHO publishes an annual report outlining the current epidemiology and progress towards the WHO End TB Strategy goals.[WHO. World TB Report 2023.] In 2022, TB caused 1.3 million deaths worldwide, a decrease from 1.4 million estimated deaths in both 2020 and 2021. TB is the leading cause of mortality in patients with HIV, causing 167,000 deaths in 2022. Approximately 7.5 million people were diagnosed with TB in 2022, 46% of whom live in Southeast Asia, 23% in Africa, and 18% in the Western Pacific. This is the highest number since global TB monitoring began in 1995. About 10.6 million people globally are currently living with active TB, of which 5.8 million are men, 3.5 million are women, and 1.3 million are children. In addition, approximately 25% of the world’s population is infected, of which 5% to 10% develop active TB.[WHO. World TB Report 2024.] 
+In the United States (US), in 2023, the Centers for Disease Control (CDC) reported 9615 new cases of TB (approximately 2.9 cases/100,000 persons), up from 8300 cases in 2022.[10] This 16% increase is in addition to increases seen yearly since 2020, after 27 years of decreasing numbers. The increases occurred across age groups, in US- and non-US-born persons, 40 states, and the District of Columbia. The largest relative increase in case numbers and the rate was in children (ages 5 to 14; 42% and 45%, respectively), although the numbers are small (68 cases). Seventy-six percent of cases are among persons born outside the US, representing a 16% increase. While TB causes a minimal risk among US-born individuals, higher rates exist among Native Hawaiians, Pacific Islanders, American Indians, Alaska Natives, and Black individuals, reflecting persistent public health disparities. Approximately 85% of reported cases are associated with the reactivation of latent TB infection rather than recent transmission. HIV coinfection existed in 5% of patients with TB.
+Within the US and globally, years of progress towards TB eradication have been lost since the COVID-19 pandemic. Due to the focus on diagnosing and treating COVID-19, healthcare professionals in public health and the acute healthcare systems identified fewer cases of latent and active TB.[11] The 2020 decrease in latent and active infections is likely due to these healthcare disruptions. In some jurisdictions, including the US, decreased migration also led to a lower incidence of infections in 2020.[10] Globally, COVID-19 disruptions caused an estimated half million excess deaths due to TB between 2020 and 2022, compared to the number of deaths that would have occurred had pre-pandemic trends continued.
+The increased incidences of latent and active infections since 2021 or 2022 likely reflect a backlog of people whose diagnosis of TB was delayed. Between 1995 and 2014, TB control efforts prevented approximately 300,000 people from developing TB, saving 14.5 billion dollars in costs.[10] Drug-resistant TB is a serious public health concern. Globally, approximately 13% of new cases and 17% of previously treated cases of TB are isoniazid (INH)-resistant and rifampin (RIF)-susceptible.[12] 
+The categories of drug resistance include:
+* Rifampicin-resistant TB (RR-TB)
+* 
+o May be resistant to INH 
+o May be resistant to other TB drugs
+* RIF-susceptible, INH-resistant TB
+* Multidrug-resistant TB (MDR-TB)
+* 
+o Resistant to both RIF and INH
+* Extensively drug-resistant TB (XDR-TB)
+* 
+o Resistant to RIF, INH, a fluoroquinolone, and at least 1 of the second-line injectable drugs, such as capreomycin, kanamycin, and amikacin.
+Drug-resistant TB poses a threat to global public health control efforts. In 2018, the global estimate of MDR-TB was approximately half a million new cases, of which only 30% were started on second-line therapy. The complexity of treatment and management led to establishment of strategies to intensify treatment programs.[13] 
+Pathophysiology
+Tuberculosis bacilli are spread most commonly from person to person by airborne droplet nuclei that remain suspended in the air for several hours. Transmission likelihood increases with increased exposure time in an enclosed space where TB droplet nuclei are present. Inhaled droplet nuclei may or may not establish infection. TB bacilli can also be acquired via ingestion of contaminated milk, and while this route of infection is of historical importance, this is a rare occurrence today. TB bacilli may rarely be contracted through contact with droplet nuclei or fomites with nonintact skin.
+When inhaled, droplet nuclei can land on upper airway mucosa, where the infection is unlikely to be established or reach the alveoli, where pathophysiological processes may begin (see Image. Tuberculosis Pathophysiology Flow Chart). Depending on complex and poorly understood pathogen virulence factors concurrent with host immunomodulatory mechanisms, the bacillus can either be killed, persist in a latent state or progress to active tuberculosis disease. These discreet categorical stages likely represent an oversimplification of a complex and dynamic host-pathogen relationship.[14][15] Moreover, aspects of the long-held conceptual pathophysiological model have been questioned as knowledge about immune mechanisms has evolved.[16]
+Alveolar macrophages are central in the immunomodulatory process. The bacilli are internalized by the macrophages, where they are either killed or establish the primary infection. In the latter case, the bacilli gain access to lung parenchyma and can migrate to pulmonary lymph nodes, where they prime T cells. The primed T cells orchestrate the recruitment of T cells, B cells, monocytes, multinucleated giant cells, dendritic cells, and fibroblasts, forming a granuloma surrounding infected macrophages within the lung parenchyma. The immunologic mechanisms that govern granuloma formation and the life cycle of the tubercle bacillus within the granuloma are poorly understood and represent areas of intensive research.[17][18][19][15] Occasionally, this primary granuloma, a "Ghon focus," and the associated draining hilar or mediastinal lymph nodes can calcify and reach a size visible on a chest x-ray. This radiological finding is termed the "Ranke complex." In children, the intrathoracic lymph nodes can enlarge, obstruct, and erode into bronchi. Also, in immunocompromised adults and children, the Ghon focus may evolve into pneumonia primarily in the lower lung zones where cavitation is uncommon. In young children, this form of progressive primary TB disease can rapidly disseminate in a miliary pattern and cause life-threatening TB meningitis.
+In most immunocompetent adults, the granuloma contains the bacilli, establishing a latent infection. The bacilli may escape immunologic controls and disseminate lymphohematogenously within the lung and to virtually any other organ. Dissemination within the lung favors apical posterior segments. The reason for preferential dissemination to apical lung segments is speculative and attributed to regional differences in oxygen tension, differences in lymphatic flow, and differences in regional pulmonary immune function. The organs most commonly associated with extrapulmonary dissemination include pleura, lymph nodes, kidneys, long bones, vertebrae, and meninges.[20] Mtb bacilli will grow within the organs to which they have disseminated until cellular immunity is established at which time the bacilli become dormant. This occurs 3 to 8 weeks after infection in immunocompetent people. CD4+ and CD8+ T cells appear to play a central role in latency.[16] 
+Latent TB is not necessarily synonymous with Mtb dormancy. People labeled as having latent TB may cycle between periods of dormancy and sub-clinical TB disease.[15] This concept is supported by surveillance studies conducted in regions of high TB endemicity.[21][22]
+If innate and acquired immunity fails to contain Mtb, people will develop active TB disease. Granuloma can undergo caseation necrosis, erode into an airway, and form a cavity within which Mtb bacilli proliferate.[23] The cavity communicates with the airway and is the source of TB transmission. Because of its high concentration of proliferating bacilli, and poorly vascularized inner contents, the cavity represents an environment that promotes the development of drug resistance. Areas of cavitation no longer carry out respiratory functions and are a nidus for opportunistic bacteria and fungi. Lung parenchyma adjacent to cavities becomes fibrotic. Pulmonary blood vessels may begin eroding into cavities, forming a "Rasmussen aneurysm" and causing massive hemoptysis. Not all granuloma cavitate; they can involute and heal due to poorly understood immunological mechanisms. Approximately 5% of recently infected people with TB will develop active disease within the first 2 years after infection. An additional 5% will develop active TB at a later time in their lives. 
+People with active TB disease can be asymptomatic at one end of the clinical spectrum or severely ill at the other end of the spectrum. Specific disease manifestations are a function of the organs involved; the apical posterior segments of the lung are the most commonly involved structures in adults and adolescents. In young children and the elderly, pneumonia involving the lower lobes is common. Constitutional symptoms are nonspecific and often include cough, fever, weight loss, night sweats, and malaise. Asymptomatic TB disease is well described and prevalence has been reported to be quite high when active case finding is performed among high-risk populations.[14][24] 
+Endobronchial TB represents a unique complication resulting from the spread of organisms from a pulmonary cavity, a pneumonic focus, or an adjacent lymph node into the airway. The endobronchial inflammatory process can produce mucosal ulcerations, granulation tissue, edema, and airway narrowing.[25] 
+ The most common mechanism leading to active disease is the reactivation of a latent focus of infection. Previously infected people are generally immune to exogenous reinfection; however, reinfection is possible when exposed to a large inoculum or if an individual is significantly immunocompromised. Determining if a person with a prior history of TB has relapsed due to endogenous reinfection (eg, a failure to eradicate prior infection) or a newly acquired exogenous reinfection is a challenge with important therapeutic and epidemiologic implications.[26]
+Tuberculosis and HIV Coinfection
+The HIV epidemic heralded a new era in the long history of TB, warranting a separate discussion of pathogenesis.[27][28][15][29] Data from the WHO indicates that people living with HIV (PLHIV) are approximately 19 times more likely to develop active TB disease than those without HIV.[12] The initiation of antiretroviral therapy (ART) does not completely restore immunity to baseline. The return of TB-specific CD4+ T cells after initiating ART can also lead to TB-immune reconstitution syndrome. Globally, TB is the leading cause of death in PLHIV; patients in developing countries face the highest burden. Within the first year of Mtb primary infection, PLHIV develop significantly higher rates of progressive primary TB disease than people without HIV. High rates of reactivation and increased susceptibility occur following Mtb exposure in PLHIV. The risks of developing active TB disease increase as CD4+ T lymphocyte counts decline.[15]
+The underlying alterations in immune function that account for these findings in the HIV-TB coinfected population are not well understood.[28] Several hypotheses exist, including:
+* Selective depletion of tuberculosis antigen-specific CD4+ T cells
+* Dysfunction of CD8+ T cells
+* Production of increased tumor necrosis factor
+* HIV alterations in macrophage function
+Observational study results suggest that TB infection accelerates the progression from HIV infection to acquired immunodeficiency syndrome.[28][27] The mechanisms involved are unknown, and several hypotheses exist, including:
+* Accelerated CD4+ T-cell-loss associated with active TB disease
+* Increased HIV replication in blood and tissues induced by the immune response to TB
+* Upregulated HIV replication due to the production of proinflammatory cytokines induced by tuberculosis infection
+The features of TB in PLHIV who have high CD4+ T lymphocyte counts are similar to those of people without HIV. Reactivation of TB is often associated with upper lobe infiltrates and cavitation. Data suggest a correlation between CD4+ T lymphocyte counts and cavitation due to TB; the higher the CD4+ T lymphocyte count, the more likely cavitation.[27] 
+Atypical chest x-ray findings are common in patients coinfected with TB and HIV when CD4+ T lymphocyte counts fall below 200 cells/?L. These findings include:
+* Normal chest x-rays
+* Interstitial nodules
+* Lower and middle lobe infiltrates
+* Intrathoracic lymphadenopathy
+* Pleural effusions
+PLHIV are at greater risk of developing disseminated TB. Disseminated TB in the HIV population is often undiagnosed, based on postmortem studies.[15] To reduce complications and transmission, promptly identifying and treating HIV-TB coinfected individuals is of paramount importance.[30] 
+Histopathology
+Tuberculosis-infected tissue sections processed by hematoxylin and eosin (H&E) staining may reveal nonspecific-appearing necrotizing or non-necrotizing granulomas. A tuberculous granuloma comprises an outer rim of lymphocytes and plasma cells surrounding a peripheral rim of epithelioid histiocytes and multinucleated giant cells. A central region of necrosis, if present, can have a caseous consistency on gross inspection. If abundantly present, acid-fast bacilli may be identified using the Ziehl-Neelsen stain. Greater sensitivity in identifying the organisms may be achieved by fluorescent microscopy using the auramine-rhodamine stain.
+History and Physical
+Constitutional symptoms of TB are nonspecific and often include cough, fever, weight loss, night sweats, and malaise. For clinicians practicing in areas with a high prevalence of TB, it is apt to be high on the differential diagnosis list. In contrast, for clinicians practicing in settings where TB is uncommon, the diagnosis may not be given initial consideration. The diagnosis is often challenging when patients present with extrapulmonary TB. Routine exploration of risk factors, such as a prior TB history, known contacts with exposure, country of origin, foreign travel, family history, occupational and residential exposures, immunosuppression, and immunocompromised status, are key components of the history. Given the high worldwide prevalence of TB, gathering this information during all initial patient contacts will increase the probability of an earlier diagnosis of TB.
+Patients with latent TB are asymptomatic. Patients with early active TB are also often asymptomatic, with no specific physical findings. As early active TB progresses, patients may experience the insidious onset of cough, fever, night sweats, weight loss, and hemoptysis before seeking medical evaluation. Depending on the extent of the disease, the physical findings on lung examination may be normal or demonstrate areas of consolidation, airway inflammation, or cavities. Patients with chronic, extensive, destructive cavities with surrounding fibrosis may develop chest wall deformities due to loss of underlying lung volume.[31] Extrapulmonary TB can involve any organ, resulting in myriad physical findings beyond the scope of this document (see Image. Clinical Features of Extrapulmonary Tuberculosis).
+Evaluation
+Tuberculosis presents a diagnostic challenge to clinicians. The approach to diagnosis depends on whether the patient is being evaluated for latent, active pulmonary, or extrapulmonary TB disease. Signs and symptoms, if present, are nonspecific. The approach to diagnosis depends on prevalence within a population and the resources available within a specific geographic region.[32][5] Ideally, a combination of radiology, microbiology, molecular methods, biomarkers, and the immunologic response to provocative testing establish a diagnosis.
+The sensitivity and specificity of diagnostic tests can vary significantly depending on factors that include pretest probability, immunological status and age of the patient, timing of the test, adherence to proper test procedures, adequacy of specimen collection, and the ability to interpret test results in the context of the patient's risk factors and immune function. See Table. Tuberculosis Tests and Their Advantages and Disadvantages. Radiological images may demonstrate normal to markedly abnormal, nonspecific findings. Without a confirmatory culture or molecular assay, TB is presumptive and based on the degree of clinical suspicion concurrent with surrogate markers of infection. Both under and over-diagnosis occur, depending on the epidemiological setting.[17][32][33][34][35][36]
+Latent Tuberculosis
+Populations that should undergo screening for latent TB infection include the following:
+* People living with HIV
+* Household and other close contacts of individuals with active TB
+* Patients initiating anti-tumor necrosis factor therapy
+* Dialysis patients with end-stage renal disease
+* Patients anticipating organ or bone marrow transplants
+* Patients with silicosis or a history of occupational silica exposure 
+* General populations in areas with an estimated TB prevalence of 0.5% or higher 
+* Patients in subpopulations experiencing structural risk factors for TB (eg, people who are impoverished, unhoused, migrant, internally displaced, incarcerated, Indigenous, or with limited access to healthcare)
+Available options for screening for latent TB are traditional Mantoux and purified protein derivative (PPD) skin tests, IGRA, or newly developed tuberculosis-specific-antigen skin tests (TBSTs) that have similar diagnostic accuracy to IGRA.[37][5] IGRAs are the preferred testing modality for the detection of latent TB in the United States, with tuberculin skin tests (TSTs) as an acceptable alternative if IGRAs are unavailable or deemed too costly. In low- and middle-income countries (LMIC), the WHO endorses TSTs or IGRAs.[5] The choice of a TST or IGRA for detecting latent TB is based on resources and ease of use at the point of care, summarized in the table below.[5][34][37]
+Advantages and Disadvantages of TB Screening Tests in Low and Middle-Income Countries
+The traditional Mantoux and purified protein derivative TSTs most often produce false-negative results in patients tested within several weeks of TB infection or with compromised immunity, including those at the extremes of age, PLHIV, or prescribed immunosuppressive drugs. False-negative results can also occur due to errors during intradermal injection and in the interpretation of the skin test reaction. False-positive results can occur due to misinterpretation of the skin test reaction, prior Bacillus Calmette-Guerin (BCG) vaccine, or prior exposure to nontuberculous mycobacteria. The latter 2 causes are particularly problematic in parts of the world where high TB prevalence has led to the widespread use of BCG vaccination in children.
+The IGRA test does not cross-react with BCG or most nontuberculous mycobacteria strains, resulting in greater specificity. IGRAs are more sensitive than traditional TSTs in patients coinfected with HIV. However, false-negative results can occur in people who are severely immunocompromised. Technical imprecision in processing the blood sample can also result in false-negative results. Indeterminate IGRA results may occur more frequently in children younger than 5 and PLHIV with low CD4+ T lymphocyte counts (<200 cells/?L).[34] Discordant results between skin tests and IGRAs can also occur. In that case, repeat testing may be considered, and the decision to initiate anti-TB therapy will ultimately depend on the strength of clinical suspicion.
+Neither TSTs nor IGRAs can distinguish latent from active TB or predict who will evolve from latent infection to active disease. The clinician must exclude active TB when deciding to initiate therapy for latent TB; failure to do so will promote the emergence of resistant organisms and result in inadequate treatment outcomes. Individuals who have successfully eradicated their TB infection can continue to test positive by TST and IGRA; patients with a remote history of untreated latent TB can have a false negative test.[38] Excellent reviews explore detailed recommendations on latent TB testing strategies in different at-risk populations.[5][34] A user-friendly, web-based, interactive program called the Online TST/IGRA Interpreter can estimate TB infection risk based on TST and IGRA results.[39] The algorithm incorporates individual parameters and calculates a positive predictive value.
+Active Tuberculosis Disease
+A gold standard for diagnosis of active TB is confirmation by culture. However, confirmation is often elusive due to practical difficulties in obtaining adequate sputum, fluid, and tissue specimens, the frequent paucity of organisms, and the organism's slow growth. The diagnosis is often presumptive based on pretest parameters and supporting evidence from imaging, molecular assays, and biomarkers.
+Imaging
+Imaging techniques are optimally considered in the context of the stage of TB. Dynamic pathological processes that create overlapping clinical and radiologic features across stages of disease and the many possible combinations of image findings complicate this simple approach. Conventional chest x-ray remains the initial modality employed for screening and diagnosis. Computed tomography (CT), magnetic resonance imaging (MRI), and positron emission tomography-computed tomography (PET-CT) are employed when necessary to define anatomic involvement with active TB disease. Imaging features of TB are nonspecific and can mimic other diseases. Excellent reviews provide details of imaging modalities for the evaluation of extrapulmonary TB.[40][36]
+* Primary TB
+* 
+o Parenchymal infiltrate or atelectasis, usually in the middle and lower lungs, identified in <10% of cases
+o Intrathoracic lymphadenopathy is seen often in children and PLHIV
+o Residual calcification from the healing of Ghon foci and Ranke complexes
+o Pleural effusion is uncommon, usually unilateral, and seen more often in PLHIV
+o Miliary pattern (progressive primary disease) uncommon; seen predominantly in infants, older adults, and severely immunocompromised patients
+o Normal chest x-ray
+o CT may identify subtle changes not seen on chest x-ray
+* Post-primary TB, including reactivation and reinfection
+o Patchy consolidation, usually of the apical and posterior upper lobe and superior segments of the lower lobe
+o Cavitation seen in 20% to 45% of adult cases; rare in young children and patients who are severely immunocompromised
+o Adenopathy is uncommon in adults but common in young children and PLHIV
+o Tree-in-bud nodular distribution if endobronchial spread best visualized with CT
+o Pleural effusions uncommon
+o Miliary pattern uncommon; seen predominantly in infants, older adults, and severely immunocompromised patients
+o Normal chest x-ray
+o CT may identify subtle changes not seen on chest x-ray
+* HIV-TB coinfection with CD4+ T lymphocyte count <200 cells/?L
+o Intrathoracic lymphadenopathy common
+o Cavitation uncommon
+o Extrapulmonary disease common
+* Chronic TB disease
+o Cavitation
+o Fibrosis
+o Bronchiectasis
+o Bronchopleural fistula uncommon
+X-ray findings in most patients with primary TB show resolution of parenchymal lesions; occasionally, a Ranke complex is the only residual clue to a remote TB diagnosis. People with active TB disease may have a normal chest x-ray. Distinguishing active from inactive disease is always challenging when evaluating chest x-rays with pathologic changes. While clues such as cavity wall thickness, presence or absence of consolidation, fibrosis, pleural effusion, and calcifications may be present, no definitive findings can exclude active disease. CT images generally provide significantly improved sensitivity compared to x-rays for diagnosing TB. A few reports suggest that fludeoxyglucose F 18 (FDG) PET-CT may be useful for assessing response to therapy.[40]    
+Microscopy, Culture, and Molecular Analysis
+A clinical suspicion of active TB requires microbiological investigation. Sputum culture and acid-fast bacilli smear are the conventional and most commonly applied approaches to TB diagnosis. Until recently, staining and culture of sputum, fluid, or tissue samples have been the only available confirmatory diagnostic tests. Automated real-time NAATs and biomarker probes are important to the diagnostic process.[41][42][43]
+Acid-fast bacilli smear microscopy
+The sensitivity of smears ranges from 34% to 80%, limited by the often paucibacillary nature of TB and the inability of some patients to produce an adequate deep expectorated sputum sample.[35] Fluorochrome stains, specimen concentration techniques, and larger sputum samples (?5 mL) can increase stain sensitivity. Respiratory specimens obtained by sputum induction or bronchoscopy improve sensitivity, as may gastric lavage.[44] The value of collecting expectorated sputum samples on 3 separate days to improve sensitivity is debated, particularly in resource-poor settings where this practice is burdensome.[45] A lack of standardization for applying and interpreting staining methods likely contributes to significant variations in practice patterns.[46] Sensitivity is a function of pretest probability; sensitivity is higher in regions with higher TB prevalence. NAAT should be performed on all acid-fast bacilli smear-positive and smear-negative specimens when the clinical suspicion is intermediate or high. In the latter case, a negative NAAT does not rule out a diagnosis of TB.[34]
+Culture
+Culture sensitivity ranges from 80% to 93%, and specificity is approximately 93%.[35] Broth media can detect growth within 2 weeks, whereas solid media can take up to 8 weeks for visible growth. Tuberculosis grown in broth media can undergo rapid drug susceptibility testing (DST) and identification by deoxyribonucleic acid probe methods. In contrast, conventional phenotypic DST methods are time-consuming and resource-intensive.
+Molecular detection methods
+The past 2 decades have brought a remarkable evolution in the approach to TB diagnosis and drug-resistance detection. Molecular methods using NAATs and lateral flow biomarker detection provide rapid results that immediately impact patient care and public health. Several of these tests are capable of simultaneous tuberculosis detection and drug resistance identification.[12] The application of these tests continues to evolve; when, where, and how they are best utilized requires consideration of multiple variables.
+These variables include the following:
+* Prevalence of TB and drug resistance
+* Purpose of testing, eg, population screening, individual diagnosis of active pulmonary or extrapulmonary TB
+* Patient population, eg, adults, children, or PLHIV
+* Testing context, eg, stand-alone or follow-on testing
+* Costs
+* Ease of use
+* Available resources
+* Pretest probability, sensitivity, and specificity
+* Interpretation when discordant with conventional methods
+With discordance, repeat testing may or may not resolve the discrepancy; the degree of clinical suspicion guides the decision regarding the presence or absence of active TB. The assays complement conventional smear and culture methods and, in certain circumstances, can stand alone as diagnostic tools. The WHO published a detailed, consolidated, evidence-based report in 2021 describing the various technologies and providing recommendations for how best to apply them in practice, summarized below (see Image. Classes of Technologies and Associated Products to Diagnose Tuberculosis). 
+The tests are divided into initial diagnostic testing of TB with drug-resistance testing, initial diagnostic testing of TB without drug-resistance testing, and follow-on testing for detection of drug-resistance after TB confirmation. The strength of the WHO recommendations on molecular detection methods will evolve as more evidence of their utility in many settings is generated.[12]
+Initial diagnostic testing of TB with drug-resistance testing
+The Xpert® MTB/RIF (Xpert®) assay and Xpert® MTB/RIF Ultra (Xpert Ultra®) (Cepheid, Sunnyvale, CA, USA) are automated, cartridge-based NAATs that have gained widespread use. They detect rifampin resistance mutations directly from specimens within 2 hours; they are a surrogate marker for multidrug resistance.
+* Xpert 
+o The sensitivity for tuberculosis detection is approximately 70% when a single smear-negative or culture-positive sputum specimen is tested and increases to approximately 90% with testing of 3 consecutive sputum specimens.
+o The specificity is approximately 98%.
+o The sensitivity for detecting rifampin resistance is approximately 96%; the specificity for excluding resistance is approximately 98%.
+* Xpert Ultra
+o The sensitivity is approximately 77%.
+o The specificity is approximately 96%. 
+o The lower specificity of Xpert Ultra compared to Xpert testing is likely due to increased false positives resulting from the detection of nonviable tuberculosis that can occur in people treated for TB within 2 to 5 years.
+o The sensitivity for detecting rifampin resistance is approximately 94%, and the specificity for excluding resistance is approximately 99%.[47]
+The sensitivity of Xpert and Xpert Ultra assays in detecting pulmonary TB in children is lower than in adults, likely due to the difficulty of obtaining adequate sputum samples in children. Both Xpert and Xpert Ultra assays are valuable in detecting tuberculosis from samples obtained at extrapulmonary sites, most notably cerebrospinal fluid and lymph node aspirates. The WHO 2021 update document details the sensitivity and specificity of the test for various extrapulmonary specimens. The WHO recommends using Xpert or Xpert Ultra assays as initial tests in adults and children, including PLHIV, with signs and symptoms of pulmonary TB. The tests can analyze a variety of specimens, including gastric or nasopharyngeal aspirates and stool specimens in children. The WHO also recommends their use as an initial diagnostic test in adults and children suspected of having extrapulmonary TB. For PLHIV suspected of having disseminated TB, the WHO recommends using the Xpert and Xpert Ultra assays on blood.
+The TrueNat® MTB Plus assay (Molbio Diagnostics, India) is a rapid, automated NAAT endorsed by the WHO in 2020. TrueNat accuracy is similar to that of Xpert and Xpert Ultra assays. The TrueNat MTB Plus assay is portable and battery-powered, providing an advantage as a point-of-use technology. However, this platform is relatively new and has less extensive evaluation and experience than Xpert technologies. The new class of moderate-complexity NAAT technologies (eg, BD MAX™ MDR-TB by Becton Dickinson) detects tuberculosis and resistance to rifampicin and isoniazid rapidly, accurately, and in high test volumes. The WHO endorses the tests for initial pulmonary TB and resistance detection, given their speed and relative ease of use compared to conventional culture-based drug susceptibility tests.[12][48]
+Initial diagnostic testing of TB without drug-resistance testing
+The Loopamp™ MTB detection assay (Eiken Chemical Company, Tokyo, Japan) is a TB loop-mediated isothermal amplification (TB-LAMP) test. The test is rapid, relatively simple, and can detect tuberculosis without sophisticated equipment.[49] The WHO endorses TB-LAMP as a replacement for sputum-smear microscopy and a follow-on test for sputum-smear-negative specimens in adults with suspected TB. The assay does not appear to provide added accuracy to sputum-smear microscopy in PLHIV.
+The Determine™ TB LAM lateral flow test (Alere Determine™  TB LAM Ag Alere, MA, USA) detects lipoarabinomannan (LAM), a cell wall component of tuberculosis which is excreted in the urine of people with active TB, using a simple urine lateral flow assay.[50] In practice, LAM assay sensitivity is relatively low in the general population but improves in PLHIV as immunosuppression increases. The WHO endorses Determine TB LAM use for adults and children with HIV with CD4+ T lymphocyte counts of less than 200 cells/?L and with signs and symptoms of pulmonary or extrapulmonary TB (see Image. Classes of Technologies and Associated Products to Diagnose Tuberculosis). In addition, the assays can be used for PLHIV with CD4+ counts of less than 100 cells/?L irrespective of signs and symptoms of TB. A detailed tabulation of pooled sensitivity and specificity data based on CD4+ count is available.[12]
+Follow-on testing for detection of drug resistance after TB confirmation
+The group of low-complexity NAATs for detecting resistance to isoniazid and second-line anti-TB agents are follow-on assays used in settings where multidrug-resistant TB is encountered. Compared to conventional culture-based phenotypic DSTs, the NAATs are automated and rapid. They are currently incapable of determining resistance to some new and repurposed antimicrobial agents, such as bedaquiline and linezolid. The assays utilize sputum or extrapulmonary specimens.[12]
+Line probe assays (LPAs) are rapid molecular diagnostic tests that detect tuberculosis and resistance to several first- and second-line anti-TB agents. LPAs require instrumentation and technical expertise that lend themselves to regional and reference laboratory settings. As reflex tests when rifampin resistance is detected, LPAs identify the presence of resistance genotypes to other anti-TB agents. Compared with the conventional phenotypic culture-based DST, which can take several weeks to perform, the LPAs provide results within several hours. LPAs utilize culture isolates or sputum specimens. LPAs do not provide a definitive diagnosis of MDR-TB but rather provide preliminary DST results requiring conventional phenotypic culture-based DST confirmation.[12][51]
+Tuberculous pleural effusions are challenging to diagnose. Adenosine deaminase (ADA) detection in pleural fluid supports the diagnosis with a pooled sensitivity and specificity of approximately 92% and 90%, respectively. ADA detection is simple and inexpensive to perform and provides a rapid result. Detection of ADA in cerebral spinal fluid for the diagnosis of TB meningitis has a pooled sensitivity and specificity of approximately 85% and 90%. Results from a few studies have suggested the value of ADA levels of peritoneal and pericardial fluid for suspected TB at these sites.[52][53][54]
+Treatment / Management
+Latent Infection
+TSTs and IGRAs cannot predict the progression from latent infection to active disease. Observational studies have demonstrated that the risk of developing active TB is highest during the first 2 years after acquiring infection and that reactivation is rare beyond 10 years after infection. The number needed to treat to prevent 1 case of active TB ranges from 36 in recently infected contacts to 179 in those remotely infected.[38] Treatment of latent TB reduces the likelihood of developing disease in populations at high risk. The evidence is less clear that treating patients at low or intermediate risk reduces the incidence.[34] According to the WHO, the rationale of treating patients with latent TB is based on the "probability that the condition will progress to active TB disease in specific risk groups, on the underlying epidemiology and burden of TB, the feasibility of the intervention, and the likelihood of a broader public health impact."[55] 
+The CDC recommends weekly INH plus rifapentine (3HP) for 3 months as the preferred preventive treatment regimen due to the short duration and decreased incidence of liver toxicity relative to the 6- and 9-month INH regimens (see Image. Recommendations for Regimens to Treat Latent TB infection). Reports of a flu-like syndrome occurring in recipients of the 3HP regimen initially raised concerns. However, a large, multinational trial found that while 11% of participants experienced symptoms of a systemic drug reaction (SDR), this is frequently time-limited within the first month of therapy. Of those experiencing SDR, 48% were able to complete treatment and serious adverse events were rare.[56]
+The WHO guidelines on TB preventive therapy align with the CDC and include an alternative regimen of 1 month of daily rifapentine plus INH. The WHO also recommends that “in settings with high TB transmission, adults and adolescents living with HIV who have an unknown or a positive TST or IGRA and are unlikely to have active TB disease should receive at least 36 months of daily INH preventive therapy.” The latter recommendation applies regardless of immune status and the administration of ART. Currently, no studies provide robust data to help guide TB preventive therapy for individuals having close contact with people infected with MDR-TB. The WHO recommends a targeted approach based on individual risk assessment.[55] Trials are progressing to ascertain the efficacy and safety of fluoroquinolones and delamanid. These trials will require long follow-ups to confirm the clinical endpoint of absence of disease. Devising TB preventive therapy protocols for various drug resistance patterns and assessing safety and efficacy in different populations is challenging (eg, children, adults, PLHIV, other immunosuppression, or comorbidities).[57][58][59] See StatPearls' companion resource, "Latent Tuberculosis," for more information on latent TB treatment.
+Active Tuberculosis Infection
+The goal of anti-TB therapy is to eradicate disease and eliminate transmission in all cases, an unambiguous goal that is exceedingly difficult to achieve in practice. Historically, anti-TB regimens have required many months of treatment, challenging patient adherence. These challenges exist everywhere and are particularly problematic in parts of the world with the highest TB prevalence, lacking public health infrastructure, and TB literacy. Straightforward and somewhat standardized TB treatment guidelines improve the ease of implementation globally; however, a standard “one-size-fits-all” 6-month regimen may be too long for some and not long enough for others. A pretreatment risk stratification algorithm could optimize and individualize treatment duration.[60][61] 
+The management of TB is very complex. Guidelines from the CDC and WHO provide detailed recommendations on dosing, first- and second-line anti-TB drugs, drug-drug interactions, management of treatment interruption, adverse events from treatment, culture-negative TB, extrapulmonary TB, HIV coinfection, children, advanced age, pregnancy, breastfeeding, and comorbidities (see Image. Drug Regimens for Microbiologically Confirmed Pulmonary Tuberculosis Caused by Drug-Susceptible Organisms).[WHO. TB Centers of Excellence for Training, Education, and Medical Consultation.]
+Centers for Disease Control 2022 Interim Guidance
+Standard anti-TB regimens cure most patients with drug-susceptible pulmonary TB, provided therapy can be completed. Until 2022, the CDC recommendations for drug-susceptible pulmonary TB disease had not changed in 50 years. The long-held standard regimen uses 4 drugs: INH, rifampin, ethambutol, and pyrazinamide. Before the development of this therapeutic combination, streptomycin was the first anti-TB drug used as monotherapy in the 1940s. Streptomycin initially provided significant benefit when administered for 6 months but ultimately failed due to the emergence of resistance.[62] The resistance to monotherapy, along with a better understanding of both the pathophysiology of tuberculosis and drug toxicities, informed decisions that led to the current standard of treatment.[63]
+Current TB treatment has 2 phases. The initial intensive phase provides bactericidal activity to reduce the burden of rapidly replicating mycobacteria, reducing the chances of emerging resistance and decreasing lung inflammation, mortality, and transmission in most cases. The continuation phase sterilizes slowly replicating and dormant tubercle bacilli. In 2022, the CDC announced interim guidance on a 4-month anti-TB regimen for drug-susceptible pulmonary tuberculosis. The regimen consists of an intensive phase of 8 weeks of daily INH, rifapentine, pyrazinamide, and moxifloxacin, followed by a continuation phase of 9 weeks of daily rifapentine, INH, and moxifloxacin. This treatment option is available for patients older than 12, including PLHIV with CD4+ T lymphocyte counts greater than 100 cells/?L and taking an efavirenz-containing antiretroviral therapy regimen in the absence of any other known potential drug-drug interaction. Patients who are pregnant or breastfeeding, require treatment for extrapulmonary TB, use QT-prolonging medications, have a history of prolonged QT syndrome, or weigh less than 40 kg cannot take this regimen due to a lack of clinical trial data.[64][65]
+Until 2022, the CDC standard pulmonary TB treatment had an intensive phase of therapy for 2 months with a 4-drug combination of INH, rifampin, ethambutol, and pyrazinamide. The continuation phase used a 2-drug combination of INH and rifampin for an additional 4 months. Drug susceptibility testing indicating the isolate's sensitivity to INH and rifampin allowed ethambutol discontinuation while maintaining INH, rifampin, and pyrazinamide for the remainder of the intensive phase. Patients undergoing anti-TB therapy require regular monitoring for clinical response and side effects. Evaluate sputum smears and cultures monthly until 2 consecutive cultures are negative. In patients with chest x-rays and evidence of cavitation who remain culture positive at 2 months, the recommendation is to extend the continuation phase for an additional 3 months (ie, a total of 9 months of therapy). People who are malnourished, active smokers, immunosuppressed, or PLHIV or extensive pulmonary disease may require an extended continuation phase.[63][62]
+Drug-Resistant Tuberculosis
+Compared to drug-susceptible TB treatment, drug-resistant TB poses a much greater risk of treatment failure and requires alternative and often prolonged regimens. Extended treatment regimens range from 18 to 21 months and incorporate a variety of first-line, second-line, new, and repurposed agents during the intensive and continuation phases of therapy. New and repurposed agents include but are not limited to delamanid, bedaquiline, pretomanid, linezolid, amoxicillin-clavulanate, meropenem-clavulanate, imipenem-cilastatin, cotrimoxazole, and macrolides. When prolonged regimens and injectable second-line agents are required, the risks of drug toxicities and patient difficulties with adherence are very high. Interventions to support adherence include psychological counseling and patient education, financial and material incentives, and mobile phone text reminders. New and repurposed agents may permit shorter durations of treatment in some circumstances. Adjuvant surgical excision may be necessary in efforts to eradicate cavities and non-viable lung tissue.[66] The WHO and American Thoracic Society/European Respiratory Society/Infectious Diseases Society of America detailed guidelines on managing drug-resistant TB. Clinicians should seek assistance from local health departments when caring for patients with suspected or confirmed drug-resistant TB.[13][67][68][69][70]            
+Bacille Calmette-Guerin Vaccine
+BCG, a live attenuated strain of M bovis, has been a WHO-recommended vaccine for infants and children since 1974. This is the most widely used vaccine worldwide, preventing miliary TB and meningitis in infants in countries with high TB incidence. The vaccine is somewhat protective when administered to infants and children, but the protection wanes over several years. The vaccine does not provide significant protection when administered to adults. As previously discussed, the BCG vaccine can cause false-positive TSTs. The decision to initiate TB preventive drugs in patients who anticipate anti-tumor necrosis factor therapy or transplantation, have a possible history of the BCG vaccine, are IGRA-negative, and TST-positive is difficult. A person with a history of residence in a high TB prevalence region, no known prior TB infection, and a lack of radiological signs of latent or active TB could be at risk of developing reactivation TB once anti-TNF therapy or transplant commences. Discordant results, such as TST-positive/IGRA-negative, are common in people who received the BCG vaccine. No firm cutoff values are available for the size of TST induration in this particular setting. However, initiating TB preventive therapy is not without risks of adverse drug reactions.[71][72][73]
+Unfortunately, this clinical situation cannot be addressed with absolute certainty. The guidelines approach this scenario somewhat indirectly and state the following:  "Performing a second diagnostic test when the initial test is negative is one strategy to increase sensitivity. While this strategy to increase sensitivity may reduce the specificity of diagnostic testing, this may be an acceptable tradeoff in situations in which it is determined that the consequences of missing latent TB infection (ie, not treating individuals who may benefit from therapy) exceed the consequences of inappropriate therapy (ie, hepatotoxicity)." In this complicated situation, the consensus among most experts is to begin a regimen of TB preventive therapy several weeks before the start of the immunosuppressing intervention.[74]
+Differential Diagnosis
+As a result of its myriad manifestations over prolonged periods, the differential diagnosis of TB should include:
+* Any infection causing constitutional symptoms
+* Fevers of unknown origin
+* Pulmonary infections
+* 
+o Bacterial
+o Nontuberculous mycobacteria
+o Viral
+o Fungal
+o Parasitic
+* Neoplasias
+* 
+o Lung
+o Hematologic
+o Metastatic tumors
+o Renal 
+o Peritoneal 
+o Gastrointestinal
+* Autoimmune diseases
+* Sarcoidosis
+* Drug reactions [32]
+Toxicity and Adverse Effect Management
+Potential anti-TB drug toxicities range from mild to life-threatening. Patients must be educated about early signs and symptoms of drug toxicity, instructed about when to discontinue their use, and seek immediate evaluation should they occur. Detailed guidelines provide recommendations for treatment response assessment, adverse drug reaction monitoring, and patient management. The following is a list of commonly occurring adverse events and their associated anti-TB drugs:
+* Hepatitis (malaise, fatigue, fever, anorexia, nausea, dark urine)
+* 
+o INH
+o Bedaquiline
+o Rifampin
+o Pyrazinamide 
+* Peripheral neuropathy
+* 
+o INH
+o Linezolid
+* Ocular toxicity
+* 
+o Ethambutol
+* Rash
+* 
+o Pyrazinamide
+o Ethambutol
+o Fluoroquinolones
+o Amikacin
+o Beta-lactams
+o INH
+o Streptomycin
+o Para-aminosalicylic acid
+* Cranial nerve VIII dysfunction and renal dysfunction
+* 
+o Amikacin
+o Streptomycin
+o Capreomycin
+o Kanamycin
+* Gastrointestinal upset
+* 
+o All anti-TB drugs
+* Myalgias-arthralgias
+* 
+o Bedaquiline
+o Pyrazinamide
+* Anxiety, confusion, psychosis
+* 
+o Cycloserine
+o Fluoroquinolones
+* Hypoglycemia
+* 
+o Fluoroquinolones
+* Tendonitis
+* 
+o Fluoroquinolones [62][75][76][77]
+People with TB and HIV coinfection undergoing antiretroviral therapy present additional challenges. Coadministration of anti-TB and antiretroviral agents can pose significant risks due to adverse reactions and drug-drug interactions. For example, rifamycins cause decreased plasma concentrations of protease inhibitors and nonnucleoside reverse-transcriptase inhibitors. In coinfected individuals, the restoration of immunity may result in clinical deterioration due to immune reconstitution inflammatory syndrome. Excellent references provide discussions of the management of these pharmacological challenges.[27][78][79][80]  
+Prognosis
+The cure rate for patients with drug-susceptible TB who can complete a therapeutic regimen can exceed 95%. Variables such as disease extent, delay in treatment, comorbidities, age, the need for mechanical ventilation, drug resistance, and adverse drug reactions influence the therapy outcome. Novel regimens will likely improve outcomes in people treated for drug-resistant TB. 
+The WHO 2018 global estimates of successful treatment outcomes are as follows:
+* 85% for people with new and relapsed TB
+* 76% of HIV-coinfected people
+* 57% for people with MDR-TB [81]
+More than 80% of TB-associated mortality occurs in LMICs. In 2022, the WHO estimated 1.13 million deaths among HIV-negative people and 167,000 deaths among PLHIV. TB is the leading cause of death in PLHIV. The WHO estimates that 15% of patients with MDR-TB die of disease, and 26% of those deaths are due to XDR-TB.[69] The current estimate of the prognosis of untreated TB is difficult to calculate; it would have to account for regional differences in healthcare resources, those who have either failed or never initiated treatment, those with drug-resistant strains, and people with different underlying comorbidities. Estimates based on pre-chemotherapy era data may be unreliable due to case definition, patient selection, and reporting heterogeneity. The study by Tiemersma, et al estimated a 70% lifetime case fatality among untreated HIV-negative individuals.[82] 
+Complications
+The complications of TB derive from the extent of involvement of the infected organs, as well as the potential toxicities of the drugs used for treatment. Complications occur more frequently in those experiencing socioeconomic consequences of poverty, malnutrition, and wars; immunosuppression, and immunocompromise. Septic shock, airway obstruction, pneumonia, bronchiectasis, empyema, broncho-pleural fistula, hemoptysis, meningitis, osteomyelitis, peritonitis, renal abscess, and infertility are a partial list of potential complications caused by tuberculosis. Hepatitis, optic neuritis and drug-drug interactions are frequent complications associated with anti-TB therapy. 
+From a public health perspective, tuberculosis is predominantly a disease associated with poverty, overcrowding, lack of awareness, lack of political commitment, and lack of clinical expertise. Adherence to multi-pill, prolonged, and occasionally unpleasant drug regimens often leads to truncated treatment that fails to eradicate infection and promotes the emergence of drug resistance. These socioeconomic factors contribute to complications of TB management and are exceedingly difficult to remedy. Most active TB cases result from progression of latent infection rather than community transmission. Active community surveillance, interpreting existing testing modalities, and treating latent TB are complicated. Outreach and follow-up of patients with latent and active TB are equally very complicated. In resource-rich countries many new cases of TB occur in recent immigrants and marginalized groups; lack of access to expert medical care remains a significant complication in those segments of society.
+As a result of these complications, tuberculosis, a disease of antiquity, continues to be responsible for the death of millions of people each year. The complications stemming from tuberculosis will require the implementation of sensitive and specific point-of-use diagnostics, safe and highly active anti-TB drugs, and well-funded public health programs across the globe.
+Deterrence and Patient Education
+Deterrence to TB eradication includes:
+* Social conditions that favor communicability, particularly poverty and overcrowding
+* Lack of political commitment
+* Nonspecific signs and symptoms of disease
+* Asymptomatic disease
+* Failure to consider TB in a differential diagnosis
+* Diagnostic tests that may lack sensitivity and specificity
+* TB illiteracy
+* Pill burden, prolonged duration of treatment, adverse drug effects
+* Poor adherence to treatment regimens
+* Lack of public health resources
+* Absence of robust immunizations that prevent TB infection
+Enhancing Healthcare Team Outcomes
+Tuberculosis is a preventable and curable disease, and the diagnosis, treatment, and prevention require coordination between front-line public health officials, adult and pediatric primary care clinicians, advanced care clinicians, clinical laboratory technologists, pulmonologists, infectious diseases experts, pharmacists, and nurses. Skillful management of TB demands expertise in history-taking, physical examination, and interpreting diagnostic tests, coupled with proficiency in implementing evidence-based treatment regimens tailored to individual patients. Ethically, upholding patient autonomy, confidentiality, and principles of beneficence and non-maleficence ensures patients are involved in decision-making when safeguarding their well-being. Responsibilities are shared among team members, from timely diagnosis to coordinated care transitions and patient education. Effective interprofessional communication fosters collaboration, optimizing care outcomes by exchanging information and promoting shared decision-making. Care coordination ensures seamless continuity of care and addresses psychosocial needs, enhancing patient-centered care, outcomes, safety, and team performance.
+Epidemic-level interventions require the expertise of government officials with training to guide front-line healthcare professionals caring for at-risk and affected patients. Efforts are needed to educate clinicians practicing in under-resourced areas. Clinics specializing in TB are recommended to marginalized segments of the population who are at the highest risk of contracting TB. TB is predominantly a disease associated with poverty, overcrowding, lack of awareness, limitations in public health resources, lack of political commitment, and lack of clinical expertise. None of these complicating factors are easy to remedy. Adherence to multiple-pill, prolonged, and occasionally unpleasant drug regimens leads to truncated treatment, failure to eradicate infection, and the emergence of drug resistance.
+Most active TB cases result from the progression of latent infection rather than community transmission. Active community surveillance, interpreting the results of existing testing modalities, and treating latent TB are all very complicated. Outreach and follow-up of patients with latent and active TB are equally complex. In resource-rich countries, many new cases of TB occur in recent immigrants and marginalized groups; lack of access to expert medical care remains a significant complication. The major complication is finding and allocating funds to achieve the WHO global strategy to eliminate TB. TB, a disease of antiquity, is responsible for the death of millions of people each year. Hopefully, the future of TB will be met with robust vaccine technology, sensitive and specific point-of-use diagnostics, safe and highly active anti-TB drugs, and well-funded public health programs across the globe. The sustained transmission of TB outbreaks is uncommon in the United States. TB elimination requires a focus on identifying latent or inadequately treated TB in populations at higher risk of TB acquisition and treating LTBI and active TB.[83]
+Review Questions
+* Access free multiple choice questions on this topic.
+* Click here for a simplified version.
+* Comment on this article.
+References
+1.
+Cole ST. Learning from the genome sequence of Mycobacterium tuberculosis H37Rv. FEBS Lett. 1999 Jun 04;452(1-2):7-10. [PubMed: 10376668]
+2.
+Cole ST, Brosch R, Parkhill J, Garnier T, Churcher C, Harris D, Gordon SV, Eiglmeier K, Gas S, Barry CE, Tekaia F, Badcock K, Basham D, Brown D, Chillingworth T, Connor R, Davies R, Devlin K, Feltwell T, Gentles S, Hamlin N, Holroyd S, Hornsby T, Jagels K, Krogh A, McLean J, Moule S, Murphy L, Oliver K, Osborne J, Quail MA, Rajandream MA, Rogers J, Rutter S, Seeger K, Skelton J, Squares R, Squares S, Sulston JE, Taylor K, Whitehead S, Barrell BG. Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence. Nature. 1998 Jun 11;393(6685):537-44. [PubMed: 9634230]
+3.
+Lalvani A, Whitworth HS. Progress in interferon-gamma release assay development and applications: an unfolding story of translational research. Ann Transl Med. 2019 Jul;7(Suppl 3):S128. [PMC free article: PMC6685846] [PubMed: 31576335]
+4.
+MacLean E, Kohli M, Weber SF, Suresh A, Schumacher SG, Denkinger CM, Pai M. Advances in Molecular Diagnosis of Tuberculosis. J Clin Microbiol. 2020 Sep 22;58(10) [PMC free article: PMC7512154] [PubMed: 32759357]
+5.
+WHO consolidated guidelines on tuberculosis: Module 3: Diagnosis – Tests for tuberculosis infection. World Health Organization; Geneva: 2022. [PubMed: 36441853]
+6.
+D'Ambrosio L, Centis R, Tiberi S, Tadolini M, Dalcolmo M, Rendon A, Esposito S, Migliori GB. Delamanid and bedaquiline to treat multidrug-resistant and extensively drug-resistant tuberculosis in children: a systematic review. J Thorac Dis. 2017 Jul;9(7):2093-2101. [PMC free article: PMC5542985] [PubMed: 28840010]
+7.
+Sterling TR, Njie G, Zenner D, Cohn DL, Reves R, Ahmed A, Menzies D, Horsburgh CR, Crane CM, Burgos M, LoBue P, Winston CA, Belknap R. Guidelines for the Treatment of Latent Tuberculosis Infection: Recommendations from the National Tuberculosis Controllers Association and CDC, 2020. MMWR Recomm Rep. 2020 Feb 14;69(1):1-11. [PMC free article: PMC7041302] [PubMed: 32053584]
+8.
+Bigi MM, Forrellad MA, García JS, Blanco FC, Vázquez CL, Bigi F. An update on Mycobacterium tuberculosis lipoproteins. Future Microbiol. 2023 Dec;18:1381-1398. [PubMed: 37962486]
+9.
+Warner DF, Koch A, Mizrahi V. Diversity and disease pathogenesis in Mycobacterium tuberculosis. Trends Microbiol. 2015 Jan;23(1):14-21. [PubMed: 25468790]
+10.
+Williams PM, Pratt RH, Walker WL, Price SF, Stewart RJ, Feng PI. Tuberculosis - United States, 2023. MMWR Morb Mortal Wkly Rep. 2024 Mar 28;73(12):265-270. [PMC free article: PMC10986816] [PubMed: 38547024]
+11.
+Schildknecht KR, Pratt RH, Feng PI, Price SF, Self JL. Tuberculosis - United States, 2022. MMWR Morb Mortal Wkly Rep. 2023 Mar 24;72(12):297-303. [PMC free article: PMC10042618] [PubMed: 36952282]
+12.
+WHO consolidated guidelines on tuberculosis: Module 3: diagnosis – rapid diagnostics for tuberculosis detection [Internet]. World Health Organization; Geneva: 2021. [PubMed: 34314130]
+13.
+Karnan A, Jadhav U, Ghewade B, Ledwani A, Shivashankar P. A Comprehensive Review on Long vs. Short Regimens in Multidrug-Resistant Tuberculosis (MDR-TB) Under Programmatic Management of Drug-Resistant Tuberculosis (PMDT). Cureus. 2024 Jan;16(1):e52706. [PMC free article: PMC10879947] [PubMed: 38384625]
+14.
+Drain PK, Bajema KL, Dowdy D, Dheda K, Naidoo K, Schumacher SG, Ma S, Meermeier E, Lewinsohn DM, Sherman DR. Incipient and Subclinical Tuberculosis: a Clinical Review of Early Stages and Progression of Infection. Clin Microbiol Rev. 2018 Oct;31(4) [PMC free article: PMC6148193] [PubMed: 30021818]
+15.
+Lawn SD, Wood R, Wilkinson RJ. Changing concepts of "latent tuberculosis infection" in patients living with HIV infection. Clin Dev Immunol. 2011;2011 [PMC free article: PMC2948911] [PubMed: 20936108]
+16.
+Elkington PT, Friedland JS. Permutations of time and place in tuberculosis. Lancet Infect Dis. 2015 Nov;15(11):1357-60. [PMC free article: PMC4872044] [PubMed: 26321650]
+17.
+Pai M, Behr MA, Dowdy D, Dheda K, Divangahi M, Boehme CC, Ginsberg A, Swaminathan S, Spigelman M, Getahun H, Menzies D, Raviglione M. Tuberculosis. Nat Rev Dis Primers. 2016 Oct 27;2:16076. [PubMed: 27784885]
+18.
+Smith I. Mycobacterium tuberculosis pathogenesis and molecular determinants of virulence. Clin Microbiol Rev. 2003 Jul;16(3):463-96. [PMC free article: PMC164219] [PubMed: 12857778]
+19.
+Russell DG, Cardona PJ, Kim MJ, Allain S, Altare F. Foamy macrophages and the progression of the human tuberculosis granuloma. Nat Immunol. 2009 Sep;10(9):943-8. [PMC free article: PMC2759071] [PubMed: 19692995]
+20.
+Golden MP, Vikram HR. Extrapulmonary tuberculosis: an overview. Am Fam Physician. 2005 Nov 01;72(9):1761-8. [PubMed: 16300038]
+21.
+Hoa NB, Sy DN, Nhung NV, Tiemersma EW, Borgdorff MW, Cobelens FG. National survey of tuberculosis prevalence in Viet Nam. Bull World Health Organ. 2010 Apr;88(4):273-80. [PMC free article: PMC2855599] [PubMed: 20431791]
+22.
+Wood R, Middelkoop K, Myer L, Grant AD, Whitelaw A, Lawn SD, Kaplan G, Huebner R, McIntyre J, Bekker LG. Undiagnosed tuberculosis in a community with high HIV prevalence: implications for tuberculosis control. Am J Respir Crit Care Med. 2007 Jan 01;175(1):87-93. [PMC free article: PMC1899262] [PubMed: 16973982]
+23.
+Urbanowski ME, Ordonez AA, Ruiz-Bedoya CA, Jain SK, Bishai WR. Cavitary tuberculosis: the gateway of disease transmission. Lancet Infect Dis. 2020 Jun;20(6):e117-e128. [PMC free article: PMC7357333] [PubMed: 32482293]
+24.
+Kendall EA, Kitonsa PJ, Nalutaaya A, Erisa KC, Mukiibi J, Nakasolya O, Isooba D, Baik Y, Robsky KO, Kato-Maeda M, Cattamanchi A, Katamba A, Dowdy DW. The Spectrum of Tuberculosis Disease in an Urban Ugandan Community and Its Health Facilities. Clin Infect Dis. 2021 Jun 15;72(12):e1035-e1043. [PMC free article: PMC8204779] [PubMed: 33283227]
+25.
+Kashyap S, Solanki A. Challenges in endobronchial tuberculosis: from diagnosis to management. Pulm Med. 2014;2014:594806. [PMC free article: PMC4147266] [PubMed: 25197570]
+26.
+He W, Tan Y, Song Z, Liu B, Wang Y, He P, Xia H, Huang F, Liu C, Zheng H, Pei S, Liu D, Ma A, Cao X, Zhao B, Ou X, Wang S, Zhao Y. Endogenous relapse and exogenous reinfection in recurrent pulmonary tuberculosis: A retrospective study revealed by whole genome sequencing. Front Microbiol. 2023;14:1115295. [PMC free article: PMC9981662] [PubMed: 36876077]
+27.
+Kwan CK, Ernst JD. HIV and tuberculosis: a deadly human syndemic. Clin Microbiol Rev. 2011 Apr;24(2):351-76. [PMC free article: PMC3122491] [PubMed: 21482729]
+28.
+Bruchfeld J, Correia-Neves M, Källenius G. Tuberculosis and HIV Coinfection. Cold Spring Harb Perspect Med. 2015 Feb 26;5(7):a017871. [PMC free article: PMC4484961] [PubMed: 25722472]
+29.
+Hamada Y, Getahun H, Tadesse BT, Ford N. HIV-associated tuberculosis. Int J STD AIDS. 2021 Aug;32(9):780-790. [PMC free article: PMC8236666] [PubMed: 33612015]
+30.
+Getahun H, Kittikraisak W, Heilig CM, Corbett EL, Ayles H, Cain KP, Grant AD, Churchyard GJ, Kimerling M, Shah S, Lawn SD, Wood R, Maartens G, Granich R, Date AA, Varma JK. Development of a standardized screening rule for tuberculosis in people living with HIV in resource-constrained settings: individual participant data meta-analysis of observational studies. PLoS Med. 2011 Jan 18;8(1):e1000391. [PMC free article: PMC3022524] [PubMed: 21267059]
+31.
+Gadkowski LB, Stout JE. Cavitary pulmonary disease. Clin Microbiol Rev. 2008 Apr;21(2):305-33, table of contents. [PMC free article: PMC2292573] [PubMed: 18400799]
+32.
+Davies PD, Pai M. The diagnosis and misdiagnosis of tuberculosis. Int J Tuberc Lung Dis. 2008 Nov;12(11):1226-34. [PubMed: 18926032]
+33.
+Pagaduan JV, Altawallbeh G. Advances in TB testing. Adv Clin Chem. 2023;115:33-62. [PMC free article: PMC10056534] [PubMed: 37673521]
+34.
+Lewinsohn DM, Leonard MK, LoBue PA, Cohn DL, Daley CL, Desmond E, Keane J, Lewinsohn DA, Loeffler AM, Mazurek GH, O'Brien RJ, Pai M, Richeldi L, Salfinger M, Shinnick TM, Sterling TR, Warshauer DM, Woods GL. Official American Thoracic Society/Infectious Diseases Society of America/Centers for Disease Control and Prevention Clinical Practice Guidelines: Diagnosis of Tuberculosis in Adults and Children. Clin Infect Dis. 2017 Jan 15;64(2):111-115. [PMC free article: PMC5504475] [PubMed: 28052967]
+35.
+Brodie D, Schluger NW. The diagnosis of tuberculosis. Clin Chest Med. 2005 Jun;26(2):247-71, vi. [PubMed: 15837109]
+36.
+Skoura E, Zumla A, Bomanji J. Imaging in tuberculosis. Int J Infect Dis. 2015 Mar;32:87-93. [PubMed: 25809762]
+37.
+Carranza C, Pedraza-Sanchez S, de Oyarzabal-Mendez E, Torres M. Diagnosis for Latent Tuberculosis Infection: New Alternatives. Front Immunol. 2020;11:2006. [PMC free article: PMC7511583] [PubMed: 33013856]
+38.
+Esmail H, Barry CE, Young DB, Wilkinson RJ. The ongoing challenge of latent tuberculosis. Philos Trans R Soc Lond B Biol Sci. 2014;369(1645):20130437. [PMC free article: PMC4024230] [PubMed: 24821923]
+39.
+Menzies D, Gardiner G, Farhat M, Greenaway C, Pai M. Thinking in three dimensions: a web-based algorithm to aid the interpretation of tuberculin skin test results. Int J Tuberc Lung Dis. 2008 May;12(5):498-505. [PubMed: 18419884]
+40.
+Bomanji JB, Gupta N, Gulati P, Das CJ. Imaging in tuberculosis. Cold Spring Harb Perspect Med. 2015 Jan 20;5(6) [PMC free article: PMC4448708] [PubMed: 25605754]
+41.
+Automated Real-Time Nucleic Acid Amplification Technology for Rapid and Simultaneous Detection of Tuberculosis and Rifampicin Resistance: Xpert MTB/RIF Assay for the Diagnosis of Pulmonary and Extrapulmonary TB in Adults and Children: Policy Update. World Health Organization; Geneva: 2013. [PubMed: 25473701]
+42.
+da Silva MP, Cassim N, Ndlovu S, Marokane PS, Radebe M, Shapiro A, Scott LE, Stevens WS. More Than a Decade of GeneXpert®Mycobacterium tuberculosis/Rifampicin (Ultra) Testing in South Africa: Laboratory Insights from Twenty-Three Million Tests. Diagnostics (Basel). 2023 Oct 19;13(20) [PMC free article: PMC10605857] [PubMed: 37892074]
+43.
+Dorman SE, Schumacher SG, Alland D, Nabeta P, Armstrong DT, King B, Hall SL, Chakravorty S, Cirillo DM, Tukvadze N, Bablishvili N, Stevens W, Scott L, Rodrigues C, Kazi MI, Joloba M, Nakiyingi L, Nicol MP, Ghebrekristos Y, Anyango I, Murithi W, Dietze R, Lyrio Peres R, Skrahina A, Auchynka V, Chopra KK, Hanif M, Liu X, Yuan X, Boehme CC, Ellner JJ, Denkinger CM., study team. Xpert MTB/RIF Ultra for detection of Mycobacterium tuberculosis and rifampicin resistance: a prospective multicentre diagnostic accuracy study. Lancet Infect Dis. 2018 Jan;18(1):76-84. [PMC free article: PMC6168783] [PubMed: 29198911]
+44.
+Procop GW. Laboratory Diagnosis and Susceptibility Testing for Mycobacterium tuberculosis. Microbiol Spectr. 2016 Dec;4(6) [PubMed: 28087944]
+45.
+Mathew P, Kuo YH, Vazirani B, Eng RH, Weinstein MP. Are three sputum acid-fast bacillus smears necessary for discontinuing tuberculosis isolation? J Clin Microbiol. 2002 Sep;40(9):3482-4. [PMC free article: PMC130719] [PubMed: 12202598]
+46.
+Wu RI, Mark EJ, Hunt JL. Staining for acid-fast bacilli in surgical pathology: practice patterns and variations. Hum Pathol. 2012 Nov;43(11):1845-51. [PubMed: 22542129]
+47.
+Theron G, Venter R, Calligaro G, Smith L, Limberis J, Meldau R, Chanda D, Esmail A, Peter J, Dheda K. Xpert MTB/RIF Results in Patients With Previous Tuberculosis: Can We Distinguish True From False Positive Results? Clin Infect Dis. 2016 Apr 15;62(8):995-1001. [PMC free article: PMC4803105] [PubMed: 26908793]
+48.
+Ngangue YR, Mbuli C, Neh A, Nshom E, Koudjou A, Palmer D, Ndi NN, Qin ZZ, Creswell J, Mbassa V, Vuchas C, Sander M. Diagnostic Accuracy of the Truenat MTB Plus Assay and Comparison with the Xpert MTB/RIF Assay to Detect Tuberculosis among Hospital Outpatients in Cameroon. J Clin Microbiol. 2022 Aug 17;60(8):e0015522. [PMC free article: PMC9383115] [PubMed: 35861529]
+49.
+Notomi T, Mori Y, Tomita N, Kanda H. Loop-mediated isothermal amplification (LAMP): principle, features, and future prospects. J Microbiol. 2015 Jan;53(1):1-5. [PubMed: 25557475]
+50.
+Bulterys MA, Wagner B, Redard-Jacot M, Suresh A, Pollock NR, Moreau E, Denkinger CM, Drain PK, Broger T. Point-Of-Care Urine LAM Tests for Tuberculosis Diagnosis: A Status Update. J Clin Med. 2019 Dec 31;9(1) [PMC free article: PMC7020089] [PubMed: 31906163]
+51.
+Pillay S, de Vos M, Sohn H, Ghebrekristos Y, Dolby T, Warren RM, Theron G. To Test or Not? Xpert MTB/RIF as an Alternative to Smear Microscopy to Guide Line Probe Assay Testing for Drug-Resistant Tuberculosis. J Clin Microbiol. 2023 Jul 20;61(7):e0001723. [PMC free article: PMC10358166] [PubMed: 37367228]
+52.
+Aggarwal AN, Agarwal R, Sehgal IS, Dhooria S. Adenosine deaminase for diagnosis of tuberculous pleural effusion: A systematic review and meta-analysis. PLoS One. 2019;14(3):e0213728. [PMC free article: PMC6435228] [PubMed: 30913213]
+53.
+Prasad MK, Kumar A, Nalini N, Kumar P, Mishra B, Lata D, Ashok C, Kumar D, Marandi S, Kumar D, Singh S, Mahajan M. Diagnostic Accuracy of Cerebrospinal Fluid (CSF) Adenosine Deaminase (ADA) for Tuberculous Meningitis (TBM) in Adults: A Systematic Review and Meta-Analysis. Cureus. 2023 Jun;15(6):e39896. [PMC free article: PMC10316459] [PubMed: 37404432]
+54.
+Tao L, Ning HJ, Nie HM, Guo XY, Qin SY, Jiang HX. Diagnostic value of adenosine deaminase in ascites for tuberculosis ascites: a meta-analysis. Diagn Microbiol Infect Dis. 2014 May;79(1):102-7. [PubMed: 24629577]
+55.
+WHO consolidated guidelines on tuberculosis: tuberculosis preventive treatment: Module 1: prevention [Internet]. World Health Organization; Geneva: 2020. [PubMed: 32186832]
+56.
+Sadowski C, Belknap R, Holland DP, Moro RN, Chen MP, Wright A, Millet JP, Caylà JA, Scott NA, Borisov A, Gandhi NR. Symptoms and Systemic Drug Reactions in Persons Receiving Weekly Rifapentine Plus Isoniazid (3HP) Treatment for Latent Tuberculosis Infection. Clin Infect Dis. 2023 Jun 16;76(12):2090-2097. [PMC free article: PMC10273365] [PubMed: 36815322]
+57.
+Suryavanshi N, Murrill M, Gupta A, Hughes M, Hesseling A, Kim S, Naini L, Jones L, Smith B, Gupte N, Dawson R, Mave V, Meshram S, Mendoza-Ticona A, Sanchez J, Kumarasamy N, Comins K, Conradie F, Shenje J, Nerette Fontain S, Garcia-Prats A, Asmelash A, Nedsuwan S, Mohapi L, Lalloo U, Cristina Garcia Ferreira A, Okeyo E, Swindells S, Churchyard G, Shah NS. Willingness to Take Multidrug-resistant Tuberculosis (MDR-TB) Preventive Therapy Among Adult and Adolescent Household Contacts of MDR-TB Index Cases: An International Multisite Cross-sectional Study. Clin Infect Dis. 2020 Jan 16;70(3):436-445. [PMC free article: PMC7188234] [PubMed: 30919881]
+58.
+Kasaie P, Pennington J, Gupta A, Dowdy DW, Kendall EA. Trials underestimate the impact of preventive treatment for household contacts exposed to multidrug-resistant tuberculosis: a simulation study. medRxiv. 2023 Feb 08; [PubMed: 36798407]
+59.
+Krishnan S, Wu X, Kim S, McIntire K, Naini L, Hughes MD, Dawson R, Mave V, Gaikwad S, Sanchez J, Mendoza-Ticona A, Gonzales P, Comins K, Shenje J, Fontain SN, Omozoarhe A, Mohapi L, Lalloo UG, Garcia Ferreira AC, Mugah C, Harrington M, Shah NS, Hesseling AC, Churchyard G, Swindells S, Gupta A., AIDS Clinical Trials Group A5300/International Maternal Pediatric Adolescent AIDS Clinical Trials I2003 Protecting Households on Exposure to Newly Diagnosed Index Multidrug-resistant Tuberculosis Patients Feasibility Study Team* (Additional study group members are listed in the Acknowledgment section). 1-Year Incidence of Tuberculosis Infection and Disease Among Household Contacts of Rifampin- and Multidrug-Resistant Tuberculosis. Clin Infect Dis. 2023 Sep 18;77(6):892-900. [PMC free article: PMC10681643] [PubMed: 37227925]
+60.
+Adjobimey M, Behr MA, Menzies D. Individualized Treatment Duration in Tuberculosis Treatment: Precision versus Simplicity. Am J Respir Crit Care Med. 2021 Nov 01;204(9):1013-1014. [PMC free article: PMC8663011] [PubMed: 34432615]
+61.
+Imperial MZ, Phillips PPJ, Nahid P, Savic RM. Precision-Enhancing Risk Stratification Tools for Selecting Optimal Treatment Durations in Tuberculosis Clinical Trials. Am J Respir Crit Care Med. 2021 Nov 01;204(9):1086-1096. [PMC free article: PMC8663006] [PubMed: 34346856]
+62.
+Sotgiu G, Centis R, D'ambrosio L, Migliori GB. Tuberculosis treatment and drug regimens. Cold Spring Harb Perspect Med. 2015 Jan 08;5(5):a017822. [PMC free article: PMC4448591] [PubMed: 25573773]
+63.
+Nahid P, Dorman SE, Alipanah N, Barry PM, Brozek JL, Cattamanchi A, Chaisson LH, Chaisson RE, Daley CL, Grzemska M, Higashi JM, Ho CS, Hopewell PC, Keshavjee SA, Lienhardt C, Menzies R, Merrifield C, Narita M, O'Brien R, Peloquin CA, Raftery A, Saukkonen J, Schaaf HS, Sotgiu G, Starke JR, Migliori GB, Vernon A. Official American Thoracic Society/Centers for Disease Control and Prevention/Infectious Diseases Society of America Clinical Practice Guidelines: Treatment of Drug-Susceptible Tuberculosis. Clin Infect Dis. 2016 Oct 01;63(7):e147-e195. [PMC free article: PMC6590850] [PubMed: 27516382]
+64.
+Carr W, Kurbatova E, Starks A, Goswami N, Allen L, Winston C. Interim Guidance: 4-Month Rifapentine-Moxifloxacin Regimen for the Treatment of Drug-Susceptible Pulmonary Tuberculosis - United States, 2022. MMWR Morb Mortal Wkly Rep. 2022 Feb 25;71(8):285-289. [PubMed: 35202353]
+65.
+Dorman SE, Nahid P, Kurbatova EV, Phillips PPJ, Bryant K, Dooley KE, Engle M, Goldberg SV, Phan HTT, Hakim J, Johnson JL, Lourens M, Martinson NA, Muzanyi G, Narunsky K, Nerette S, Nguyen NV, Pham TH, Pierre S, Purfield AE, Samaneka W, Savic RM, Sanne I, Scott NA, Shenje J, Sizemore E, Vernon A, Waja Z, Weiner M, Swindells S, Chaisson RE., AIDS Clinical Trials Group. Tuberculosis Trials Consortium. Four-Month Rifapentine Regimens with or without Moxifloxacin for Tuberculosis. N Engl J Med. 2021 May 06;384(18):1705-1718. [PMC free article: PMC8282329] [PubMed: 33951360]
+66.
+Calligaro GL, Moodley L, Symons G, Dheda K. The medical and surgical treatment of drug-resistant tuberculosis. J Thorac Dis. 2014 Mar;6(3):186-95. [PMC free article: PMC3949182] [PubMed: 24624282]
+67.
+Stillo J, Frick M, Galarza J, Kondratyuk S, Makone A, McKenna L, Vandevelde W, Winarni P, Agbassi P. Addressing the needs of people with extensively drug-resistant TB through pre-approval access to drugs and research. Public Health Action. 2023 Dec;13(4):126-129. [PMC free article: PMC10703140] [PubMed: 38077718]
+68.
+Gupta A, Juneja S, Babawale V, Rustam Majidovich N, Ndjeka N, Thi Mai Nguyen P, Nargiza Nusratovna P, Robert Omanito D, Tiara Pakasi T, Terleeva Y, Toktogonova A, Waheed Y, Myint Z, Yanlin Z, Sahu S. Global adoption of 6-month drug-resistant TB regimens: Projected uptake by 2026. PLoS One. 2024;19(1):e0296448. [PMC free article: PMC10769048] [PubMed: 38180980]
+69.
+WHO consolidated guidelines on tuberculosis: Module 4: Treatment - Drug-resistant tuberculosis treatment [Internet]. World Health Organization; Geneva: 2020. [PubMed: 32603040]
+70.
+Nahid P, Mase SR, Migliori GB, Sotgiu G, Bothamley GH, Brozek JL, Cattamanchi A, Cegielski JP, Chen L, Daley CL, Dalton TL, Duarte R, Fregonese F, Horsburgh CR, Ahmad Khan F, Kheir F, Lan Z, Lardizabal A, Lauzardo M, Mangan JM, Marks SM, McKenna L, Menzies D, Mitnick CD, Nilsen DM, Parvez F, Peloquin CA, Raftery A, Schaaf HS, Shah NS, Starke JR, Wilson JW, Wortham JM, Chorba T, Seaworth B. Treatment of Drug-Resistant Tuberculosis. An Official ATS/CDC/ERS/IDSA Clinical Practice Guideline. Am J Respir Crit Care Med. 2019 Nov 15;200(10):e93-e142. [PMC free article: PMC6857485] [PubMed: 31729908]
+71.
+World Health Organization BCG vaccine: WHO position paper, February 2018 - Recommendations. Vaccine. 2018 Jun 07;36(24):3408-3410. [PubMed: 29609965]
+72.
+Andersen P, Doherty TM. The success and failure of BCG - implications for a novel tuberculosis vaccine. Nat Rev Microbiol. 2005 Aug;3(8):656-62. [PubMed: 16012514]
+73.
+Qu M, Zhou X, Li H. BCG vaccination strategies against tuberculosis: updates and perspectives. Hum Vaccin Immunother. 2021 Dec 02;17(12):5284-5295. [PMC free article: PMC8903987] [PubMed: 34856853]
+74.
+Lewinsohn DM, Leonard MK, LoBue PA, Cohn DL, Daley CL, Desmond E, Keane J, Lewinsohn DA, Loeffler AM, Mazurek GH, O'Brien RJ, Pai M, Richeldi L, Salfinger M, Shinnick TM, Sterling TR, Warshauer DM, Woods GL. Official American Thoracic Society/Infectious Diseases Society of America/Centers for Disease Control and Prevention Clinical Practice Guidelines: Diagnosis of Tuberculosis in Adults and Children. Clin Infect Dis. 2017 Jan 15;64(2):e1-e33. [PubMed: 27932390]
+75.
+Massud A, Syed Sulaiman SA, Ahmad N, Shafqat M, Chiau Ming L, Khan AH. Frequency and Management of Adverse Drug Reactions Among Drug-Resistant Tuberculosis Patients: Analysis From a Prospective Study. Front Pharmacol. 2022;13:883483. [PMC free article: PMC9211428] [PubMed: 35747749]
+76.
+Treatment of Tuberculosis: Guidelines. 4th ed. World Health Organization; Geneva: 2010. [PubMed: 23741786]
+77.
+Singh KP, Carvalho ACC, Centis R, D Ambrosio L, Migliori GB, Mpagama SG, Nguyen BC, Aarnoutse RE, Aleksa A, van Altena R, Bhavani PK, Bolhuis MS, Borisov S, van T Boveneind-Vrubleuskaya N, Bruchfeld J, Caminero JA, Carvalho I, Cho JG, Davies Forsman L, Dedicoat M, Dheda K, Dooley K, Furin J, García-García JM, Garcia-Prats A, Hesseling AC, Heysell SK, Hu Y, Kim HY, Manga S, Marais BJ, Margineanu I, Märtson AG, Munoz Torrico M, Nataprawira HM, Nunes E, Ong CWM, Otto-Knapp R, Palmero DJ, Peloquin CA, Rendon A, Rossato Silva D, Ruslami R, Saktiawati AMI, Santoso P, Schaaf HS, Seaworth B, Simonsson USH, Singla R, Skrahina A, Solovic I, Srivastava S, Stocker SL, Sturkenboom MGG, Svensson EM, Tadolini M, Thomas TA, Tiberi S, Trubiano J, Udwadia ZF, Verhage AR, Vu DH, Akkerman OW, Alffenaar JWC, Denholm JT. Clinical standards for the management of adverse effects during treatment for TB. Int J Tuberc Lung Dis. 2023 Jul 01;27(7):506-519. [PMC free article: PMC10321364] [PubMed: 37353868]
+78.
+Nanyonga SM, Kitutu FE, Kalyango J, Frank M, Kiguba R. High Burden of Adverse Drug Reactions to Isoniazid Preventive Therapy in People Living With HIV at 3 Tertiary Hospitals in Uganda: Associated Factors. J Acquir Immune Defic Syndr. 2022 Feb 01;89(2):215-221. [PubMed: 34693930]
+79.
+Lazarus G, Tjoa K, Iskandar AWB, Louisa M, Sagwa EL, Padayatchi N, Soetikno V. The effect of human immunodeficiency virus infection on adverse events during treatment of drug-resistant tuberculosis: A systematic review and meta-analysis. PLoS One. 2021;16(3):e0248017. [PMC free article: PMC7932087] [PubMed: 33662024]
+80.
+McIlleron H, Meintjes G, Burman WJ, Maartens G. Complications of antiretroviral therapy in patients with tuberculosis: drug interactions, toxicity, and immune reconstitution inflammatory syndrome. J Infect Dis. 2007 Aug 15;196 Suppl 1:S63-75. [PubMed: 17624828]
+81.
+Chakaya J, Khan M, Ntoumi F, Aklillu E, Fatima R, Mwaba P, Kapata N, Mfinanga S, Hasnain SE, Katoto PDMC, Bulabula ANH, Sam-Agudu NA, Nachega JB, Tiberi S, McHugh TD, Abubakar I, Zumla A. Global Tuberculosis Report 2020 - Reflections on the Global TB burden, treatment and prevention efforts. Int J Infect Dis. 2021 Dec;113 Suppl 1(Suppl 1):S7-S12. [PMC free article: PMC8433257] [PubMed: 33716195]
+82.
+Tiemersma EW, van der Werf MJ, Borgdorff MW, Williams BG, Nagelkerke NJ. Natural history of tuberculosis: duration and fatality of untreated pulmonary tuberculosis in HIV negative patients: a systematic review. PLoS One. 2011 Apr 04;6(4):e17601. [PMC free article: PMC3070694] [PubMed: 21483732]
+83.
+O'Connell J, McNally C, Stanistreet D, de Barra E, McConkey SJ. Ending tuberculosis: the cost of missing the World Health Organization target in a low-incidence country. Ir J Med Sci. 2023 Aug;192(4):1547-1553. [PMC free article: PMC9483873] [PubMed: 36121600]
+Disclosure: Ellis Tobin declares no relevant financial relationships with ineligible companies.
+Disclosure: Debbie Tristram declares no relevant financial relationships with ineligible companies.
+Figures
+
+Clinical Features of Extrapulmonary Tuberculosis. Extrapulmonary tuberculosis extends to several organ systems. Contributed by E Tobin, MD
+
+
+Classes of Technologies and Associated Products to Diagnose Tuberculosis. Several screening tests diagnose, monitor, and determine the stage of tuberculosis. Adapted from: World Health Organization. WHO consolidated guidelines on tuberculosis. Module 3: diagnosis rapid diagnosis for tuberculosis detection, 2021 update. World Health Organization. https://www.who.int/publications/i/item/9789240029415. Published July 7, 2021. Accessed June 25, 2024.
+
+
+Recommendations for Regimens to Treat Latent TB Infection. Various regimens comprise treatment options for 3 to 9 months. Adapted from: Sterling TR, Njie G, Zenner D, et al. Guidelines for the treatment of latent tuberculosis infection: recommendations from the National Tuberculosis Controllers Association and CDC, 2020. MMWR Recomm Rep. 2020;69(1):1-11. doi: 10.15585/mmwr.rr6901a1.
+
+
+Drug Regimens for Microbiologically Confirmed Pulmonary Tuberculosis Caused by Drug-Susceptible Organisms. Several drug regimens are available based on the drug susceptibility of the identified organisms.  Adapted from: Nahid P, Dorman SE, Alipanah N, et al. Official American Thoracic Society/Centers for Disease Control and Prevention/Infectious Diseases Society of America Clinical Practice Guidelines: Treatment of Drug-Susceptible Tuberculosis. Clin Infect Dis. 2016;63(7):e147-e195. doi: 10.1093/cid/ciw376.
+
+
+Tuberculosis Pathophysiology Flow Chart. Physiology of tuberculosis based on the diagnostic pattern. Contributed and created by E Tobin, MD
+Tables
+Table. Tuberculosis Tests and Their Advantages and Disadvantages
+TestAdvantagesDisadvantages   IGRA* High specificity
+* Does not require a return visit for result interpretation* Requires the availability of laboratory and technical personnel
+* Maybe cost-prohibitive in LMIC countries Traditional     TST* Low cost
+* Simple to perform at the point of care
+* Requires few resources* Low specificity
+* Requires a return visit for interpretation  TBSTs* Simple to perform like other TSTs
+* Requires few resources
+* Specificity equivalent to that of IGRAs* Requires a return visit for interpretation
+* High costCopyright © 2025, StatPearls Publishing LLC.
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+Bookshelf ID: NBK441916PMID: 28722945
+

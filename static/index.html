@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TB VQA System</title>
+</head>
+<body>
+
+<h2>Tuberculosis X-ray AI</h2>
+
+<input type="file" id="file"><br><br>
+
+<input type="text" id="question"
+value="Is tuberculosis present in the chest X-ray?" style="width:400px"><br><br>
+
+<button onclick="send()">Predict</button>
+<img id="heatmap" width="400"/>
+<pre id="out"></pre>
+
+<script>
+async function send() {
+    let file = document.getElementById("file").files[0];
+    let q = document.getElementById("question").value;
+
+    let form = new FormData();
+    form.append("file", file);
+    form.append("question", q);
+
+    let res = await fetch("/predict", {
+        method: "POST",
+        body: form
+    });
+
+    let data = await res.json();
+
+    document.getElementById("out").textContent =
+        JSON.stringify(data, null, 2);
+
+        document.getElementById("heatmap").src =
+    "data:image/png;base64," + data.heatmap;
+}
+</script>
+
+</body>
+</html>

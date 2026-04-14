@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TB Detection</title>
+</head>
+<body>
+    <h1>Tuberculosis Detection</h1>
+
+    <input type="file" id="imageInput">
+    <button onclick="predict()">Predict</button>
+
+    <h3>Result:</h3>
+    <p id="result"></p>
+
+    <script>
+        async function predict() {
+            let fileInput = document.getElementById("imageInput");
+            let file = fileInput.files[0];
+
+            let formData = new FormData();
+            formData.append("file", file);
+
+            let response = await fetch("/predict", {
+                method: "POST",
+                body: formData
+            });
+
+            let data = await response.json();
+
+            document.getElementById("result").innerText =
+                "Prediction: " + data.prediction +
+                " | Confidence: " + data.confidence +
+                "\nExplanation: " + data.explanation;
+        }
+    </script>
+</body>
+</html>

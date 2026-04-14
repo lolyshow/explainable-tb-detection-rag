@@ -1,0 +1,64 @@
+resnet50_best.pt
+# virtual environments
+venv/
+env/
+.venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# =========================
+# MODEL CHECKPOINTS (IMPORTANT)
+# =========================
+*.pt
+*.pth
+*.bin
+
+# BUT keep structure if needed:
+# !resnet50_best.pt   (ONLY if you want to track it)
+
+# =========================
+# FASTAPI / LOGS
+# =========================
+*.log
+logs/
+
+
+# =========================
+# PYTORCH / TORCH CACHE
+# =========================
+torch_extensions/
+*.cache
+
+# HuggingFace / SentenceTransformers cache
+.cache/
+huggingface/
+transformers_cache/
+sentence_transformers/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# ENV FILES
+# =========================
+.env
+.env.*
+
+# =========================
+# MISC
+# =========================
+*.tmp
+*.bak

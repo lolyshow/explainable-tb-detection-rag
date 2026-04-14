@@ -1,0 +1,869 @@
+           CHEST RADIOGRAPHY IN TUBERCULOSIS DETECTION
+
+ Summary of current WHO recommendations and guidance on programmatic
+approaches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHO Library Cataloguing-in-Publication Data
+Chest radiography in tuberculosis detection – summary of current WHO recommendations and guidance on programmatic approaches.
+I. World Health Organization. ISBN 978 92 4 151150 6
+Subject headings are available from WHO institutional repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© World Health Organization 2016
+All rights reserved. Publications of the World Health Organization are available on the WHO website (http://www.who.int) or can be purchased from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel.: +41 22 791 3264;
+fax: +41 22 791 4857; email: bookorders@who.int).
+Requests for permission to reproduce or translate WHO publications – whether for sale or for non-commercial distribution – should be addressed to WHO Press through the WHO website (http://www.who.int/about/licensing/copyright_form).
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by the World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall the World Health Organization be liable for damages arising from its use.
+Cover photo: Knut Lönnroth, 2012. Printed in Switzerland.
+WHO/HTM/TB/2016.20
+
+Table of Contents
+Preface	2
+Development process	3
+Acknowledgements	4
+Declarations of interests	4
+Abbreviations	5
+Definitions	5
+1. INTRODUCTION	6
+1.1 Medical imaging	6
+1.2 Radiography	6
+1.3 Chest X-ray for detecting TB	6
+1.4 Overview of the use of chest X-ray in WHO’s policies and guidelines	7
+2. CHEST X-RAY AS A TRIAGE TOOL	10
+2.1 Definition of triaging	10
+2.2 Triaging for TB among people with respiratory complaints	10
+2.3 TB triage algorithm options	12
+3. CHEST X-RAY AS A DIAGNOSTIC AID	17
+3.1 Chest X-ray as a diagnostic aid for respiratory and other intrathoracic diseases	17
+3.2 Chest X-ray as a complement to bacteriological TB tests	17
+3.3 Chest X-ray as part of a comprehensive diagnostic pathway in children	18
+4. CHEST X-RAY AS A SCREENING TOOL FOR PULMONARY TB	20
+4.1 Chest X-ray as a sensitive tool for screening for active TB	20
+4.2 Chest X-ray screening in TB prevalence surveys	22
+4.3 Chest X-ray to rule out active TB before treating latent infection	24
+5. TECHNICAL SPECIFICATION, QUALITY ASSURANCE, QUALITY CONTROL,
+AND SAFETY	25
+5.1 Technologies for chest X-ray and technical specifications	25
+5.2 How to choose chest X-ray technology	26
+5.3 Computer-aided detection of TB	26
+5.4 Quality assurance and quality control	28
+5.5 Safety	29
+6. STRATEGIC PLANNING FOR USING CHEST X-RAY IN NATIONAL TB CARE	31
+Annexes	34
+Annex 1.
+Yield and costs of triage algorithms in a hypothetical population of 100 000 with
+different TB prevalence levels	34
+Annex 2.
+Proportion of TB cases detectable through screening with chest X-ray or by screening
+for chronic cough	37
+References	38
+
+Preface
+
+The End TB Strategy puts renewed emphasis on the need to ensure early and correct diagnosis for all people with tuberculosis (TB) (1). Important progress has been made in improving laboratory services in recent decades. New bacteriological tests for TB diagnosis have become available and their use is now being scaled up (2, 3). Efforts have been made to ensure that people who seek care and have symptoms consistent with TB are correctly triaged and evaluated for TB. Systematic screening for active TB in high- risk groups is being implemented and scaled up in several places (4, 5). However, despite these efforts, many people with TB remain undiagnosed or are diagnosed only after long delays (6).
+Chest radiography, or chest X-ray (CXR), is an important tool for triaging and screening for pulmonary TB, and it is also useful to aid diagnosis when pulmonary TB cannot be confirmed bacteriologically. Although recent diagnostic strategies have given specific prominence to bacteriology, CXR can be used for selecting individuals for referral for bacteriological examination, and the role of radiology remains important when bacteriological tests cannot provide a clear answer. Access to high-quality radiography is limited in many settings. Ensuring the wider and quality-assured use of CXR for TB detection in combination with laboratory- based diagnostic tests recommended by the World Health Organization (WHO), can contribute to earlier TB diagnosis and potentially to closing the TB case-detection gap when used as part of algorithms within a framework of health-system and laboratory strengthening.
+This document summarizes WHO’s recommendations on using CXR for TB triaging, diagnosis and screening. It also outlines a framework for the strategic planning and use of CXR within national TB programmes (NTP). Moreover, the document provides a brief overview of technical specifications, and quality assurance and safety considerations for CXR. However, because these technical aspects are generic and should be addressed as part of the general strengthening of radiography and imaging services, this document does not go into technical details. General radiography guidance is provided elsewhere (7-11).
+The document focuses on CXR, with a major emphasis on detecting pulmonary TB. CXR can be useful for diagnosing other forms of TB (for example, miliary or pericardial TB, or tuberculous effusions) and other imaging techniques are also valuable for TB diagnosis, for example, for extrapulmonary TB, but these topics are not discussed in this document.
+The document is mainly intended for NTPs and partners helping with the planning and implementation of national TB care and prevention efforts. It is not intended to be a clinical guide. The recommendations and principles that are summarized in this document need to be adapted to each setting’s TB epidemiology and health-system capacity.
+
+Development process
+
+A steering group was established in January 2016, which advised WHO on the scope and content of this document. The members of the steering group were Faiz Ahmad Khan, Sevim Ahmedov, Frank Cobelens, Jacob Creswell, Claudia Denkinger, Christopher Gilpin, Michael Kimerling, Knut Lönnroth, Cecily Miller, YaDiul Mukadi, Ikushi Onozaki and Madhukar Pai.
+After consultation with WHO’s Guideline Review Committee, it was determined that the document is not a new guideline but a summary of existing WHO recommendations. Therefore, it did not need to follow WHO’s guideline development process.
+All major WHO publications about TB were reviewed for their relevance to the use of CXR in screening for, triaging and diagnosing TB. Recommendations across all documents were compiled and summarized. An accompanying framework for strategic planning for using CXR within NTPS was developed based on experts’ opinions.
+No systematic literature review was undertaken during the development of this document. The evidence base for the statements made in this document is the same as for those in the cited WHO guidelines and policy frameworks.
+Scenarios for the yield of TB (true positive/true negative and false positive/false negative) for different triaging algorithms were modelled using the ScreenTB tool (12) to illustrate how the different placement of CXR in an algorithm influences yields and costs under different epidemiological scenarios. The model outputs that are included in this document should not be used for forecasting TB detection, but are included merely to demonstrate how variations in algorithms influence TB detection and costs. Readers are advised to develop setting-specific scenarios based on the local TB epidemiology and the best data about test accuracy and costs.
+A first draft was completed in July 2016 and was circulated to experts (see below) for peer review. Based on comments from the peer review, a second draft was prepared ahead of a global consultation held during 28–29 September 2016. The consultation provided additional inputs on the draft document, and the documented was thereafter finalized.
+
+Acknowledgements
+
+The first draft was prepared by Cecily Miller and Knut Lönnroth. The following persons contributed to the development of the document or peer reviewed it, or both: Faiz Ahmad Khan, Sevim Ahmedov, Farhana Amanullah, Samiha Baghdadi, Draurio Barreira, Adriana Velazquez Berumen, Nils Billo, Annemieke Brands, Grania Brigden, Chen-Yuan Chiang, Maarten van Cleeff, Jacob Creswell, Claudia Denkinger, Anna-Marie Celina Garfin, Nebiat Gebreselassie, Sifrash Meseret Gelaw, Wayne van Gemert, Robert Gie, Steve Graham, Rob van Hest, Philip Hopewell, Bogomil Kohlbrenner, Alexei Korobitsyn, Devesh Gupta, Michael Kimerling, Irwin Law, Partha Pratim Mandal, Guy Marks, Giovanni Batista Migliori, Mahshid Nasehi, Nobuyuki Nishikiori, Pierre-Yves Norval, Kosuke Okada, Ikushi Onozaki, Salah-Eddine Ottmani, Madhukar Pai, Tripti Pande, Mario Raviglione, Maria del Rosario Pérez, Anna Scardigli, Eric Stern, Beat Stoll, Etienne- Leroy Terquem, Belay Tessema, Mukund Uplekar, Diana Weil, William Wells, Marieke van der Werf and Christine Whalen.
+
+
+Declarations of interests
+
+The following interests were declared by the experts consulted.
+Declared interests that were deemed not significant
+• Claudia Denkinger: took part in several clinical research projects to evaluate new diagnostic tests against the target product profiles for TB defined through consensus processes led by WHO. These studies were for diagnostic products developed by private sector companies (Cepheid, Epistem, Molbio Diagnostics, Hain Lifescience, Nipro, Becton Dickinson, Alere, YD Diagnostics, Ustar Biotechnologies and Qiagen) that provide access to know-how, equipment and reagents, and contribute through unrestricted donations as per FIND (Foundation for Innovative New Diagnostics) policy.
+• Bogomil Kohlbrenner and Beat Stoll: were employed as researchers on a project to develop appropriate medical devices and appropriate training for health workers in the field of tropical medical imaging; it was a philanthropic project.
+Declared interest that were deemed significant for making recommendations to WHO about whether to develop guidelines for computer-aided detection
+• Faiz Ahmad Khan and Madhukar Pai: received a research grant to study the diagnostic accuracy of CAD4TB (developed by Delft Imaging Systems, Veenendaal, the Netherlands) in collaboration with Interactive Research & Development, who have purchased equipment from the makers of CAD4TB. The developers of CAD4TB are not collaborators or in any way involved in the research. Faiz Ahmad Khan and Madhukar Pai were invited to present the systematic review on CAD for TB detection, provide comments throughout the meeting, and peer-review draft documents. However, they were not part of the decision to advise WHO on the initiation of a CAD guideline development process.
+
+Abbreviations
+
+AFB	acid-fast bacilli
+CAD	computer-aided detection
+CXR	chest X-ray or chest radiography
+HIV	human immunodeficiency virus
+LTBI	latent tuberculosis infection
+MTB	Mycobacterium tuberculosis
+NTP	national tuberculosis programme
+PICO	population, intervention, comparator, outcome QUADAS	Quality Assessment of Diagnostic Accuracy Studies SSM	sputum-smear microscopy
+TB	tuberculosis
+WHO	World Health Organization
+
+
+Definitions
+
+Bacteriologically confirmed TB case: A bacteriologically confirmed case of TB is one from whom a biological specimen tests positive by smear microscopy, culture or WHO-recommended rapid diagnostic (such as the Xpert MTB/RIF assay). All such cases should be notified, regardless of whether TB treatment has started (13).
+Clinically diagnosed TB case: A clinically diagnosed case of TB is one who does not fulfil the criteria for bacteriological confirmation but has been diagnosed with active TB by a clinician or other medical practitioner who has decided to give the patient a full course of anti-TB treatment. This definition includes cases diagnosed on the basis of abnormalities seen on X-ray or histology suggestive of TB, and extrapulmonary cases without laboratory confirmation. Clinically diagnosed cases subsequently found to be bacteriologically positive (before or after starting treatment) should be reclassified as bacteriologically confirmed (13).
+Systematic screening for active TB: is the systematic identification of people with suspected active TB in a predetermined target group, using tests, examinations or other procedures that can be applied rapidly
+(4). Unlike evaluations of those who actively seek care for respiratory symptoms (known as triaging), the systematic screening of individuals for TB is typically initiated by a provider and offered in a systematic way to an apparently healthy target group that has been determined to have a high risk of TB.
+Triaging: For the purpose of this document, triaging is defined as the processes of deciding the diagnostic and care pathways for people seeking healthcare, based on their symptoms, signs, risk markers and test results. Triaging involves assessing the likelihood of various differential diagnoses as a basis for making clinical decisions. It can follow more- or less-standardized protocols and algorithms and may be done in multiple steps.
+
+1. INTRODUCTION
+
+1.1 Medical imaging
+Medical imaging uses different modalities and processes to image the internal structures of the human body for diagnosis and treatment. Imaging has an important role in healthcare for all population groups. In public health and preventive medicine, as well as in both curative and palliative care, effective clinical decisions depend on correctly screening, triaging and diagnosing patients. The use of imaging services is paramount in correctly screening, confirming and documenting the course of many diseases. With the improved availability of medical equipment, global access to medical imaging has increased considerably, but is still insufficient in many settings (14). Medical imaging is a key element within many evidence-based clinical decision-support algorithms, consistent with overarching evidence-based recommendations for disease management (14). As such, medical imaging should be accessible to all and should not be exclusively a hospital service (15).
+
+1.2 Radiography
+Radiography uses X-rays to visualize the internal structures of a patient. X-rays are a form of electromagnetic radiation produced by an X-ray tube. The X-rays pass through the body and are captured behind the patient by film that is sensitive to X-rays or by a digital detector. Different tissues in the body vary in their absorption of X-rays: dense bone absorbs more radiation, but soft tissue allows more to pass through. This variance produces contrasts within the image to give a two-dimensional representation of the three-dimensional structures. As a result, the X-ray image often includes overlapping structures. A thorough knowledge of anatomy is needed to identify an abnormality on an X-ray and understand where it is in the body. Common clinical applications include imaging the chest to assess lung and intrathoracic pathologies; imaging the skeletal system to examine bone structures and diagnose fractures, dislocations or other bone pathologies; imaging the abdomen to assess obstructions or free air or fluid within the abdominal cavity; or imaging the teeth to assess common dental pathologies, such as cavities or abscesses (14).
+
+1.3 Chest X-ray for detecting TB
+Chest X-ray (CXR) is a rapid imaging technique that allows lung abnormalities to be identified. CXR is used to diagnose conditions of the thoracic cavity, including the airways, ribs, lungs, heart and diaphragm.
+CXR has historically been one of the primary tools for detecting tuberculosis (TB), especially pulmonary TB. CXR has high sensitivity for pulmonary TB and thus is a valuable tool to identify TB as a differential diagnosis for patients, especially when the X-ray is read to identify any abnormality that is consistent with TB. However, CXR has poor specificity; although some CXR abnormalities are rather specific for pulmonary TB (for example, cavities), many CXR abnormalities that are consistent with pulmonary TB are seen also in several other lung pathologies and, therefore, are indicative not only of TB but also of other pathologies. Moreover, there is significant intra- and interobserver variation in the reading of CXRs. Relying only on CXR for TB diagnosis leads to overdiagnosis, as well as underdiagnosis (16). Rigorous efforts should always be made to base a TB diagnosis on bacteriological confirmation (sputum-smear microscopy, culture or a molecular test). WHO classifies TB diagnosis into bacteriologically confirmed TB, if it is based on bacteriological confirmation, or clinically diagnosed TB, if it is based on clinical assessment including CXR, but is not confirmed by bacteriological examination (13).
+
+1.4 Overview of the use of chest X-ray in WHO’s policies and guidelines
+For many years, WHO has recommended CXR as a diagnostic tool to be used as a complementary part of the clinical diagnosis of bacteriologically negative TB. As such, CXR has previously been placed at the end of diagnostic algorithms. WHO’s 2003 treatment guidelines for national programmes and the guideline on diagnosing smear-negative pulmonary TB from 2007 recommended that CXR be used after: (i) initial negative bacteriological testing, (ii) a course of broad-spectrum antibiotics and (iii) a second negative round of bacteriological testing (17, 18). However, CXR was recommended to be used directly after initial negative bacteriological testing to diagnose TB in people living with HIV or AIDS and in those considered to be at high risk of HIV infection(18). The 2008 handbook for national tuberculosis control programmes (19), as well as the third edition of the International standards for tuberculosis care in 2014 (20), suggested a more flexible approach, with the possibility of using CXR directly after an initial negative bacteriological test, and not just for people living with HIV.
+None of these guidelines placed CXR as a triage test before bacteriological testing. However, none of the guidelines specifically recommend against using CXR for triaging or diagnostic evaluation of TB, and they emphasized that whenever CXR has been done and shows abnormalities consistent with TB, a bacteriological test for TB must always be performed.
+All the above-mentioned documents emphasized that using CXR to diagnose TB is problematic, given that CXR has low specificity and significant interobserver variation. Moreover, poor access to high-quality radiography equipment and expert interpretation, along with the widespread use of low-quality radiography, were identified as additional barriers for promoting large-scale programmatic use.
+Recently, however, CXR has been promoted as a useful tool that can be placed early in screening and triaging algorithms. An important reason for rethinking the role of CXR in screening and diagnostic algorithms is that numerous national TB prevalence surveys have demonstrated that CXR is the most sensitive screening tool for pulmonary TB and that a significant proportion of people with TB are asymptomatic, at least early in the course of the disease (see Annex 2) (21). Other factors that have contributed to CXR becoming an increasingly accepted part of programmatic approaches to TB care and prevention include:
+• the increased availability of radiography, including digital radiography with its lower running costs and highly portable systems for field use, better image quality and better safety (due to decreased radiation dose) than conventional radiography, as well as possibilities for use for telemedicine;
+• the documented rapidity of results and high throughput capacity, especially of digital CXR;
+• a gradual shift from strictly prioritizing the diagnosis of the most infectious TB cases (that is, bacteriologically confirmed TB, especially sputum smear-positive TB, in persons with persistent cough) to programmatic targets in line with a rights-based vision of universal access to high-quality diagnosis for all people with all forms of TB as well as concern with diagnosis of other lung diseases;
+• the increasing availability of rapid molecular tests with higher sensitivity and specificity than sputum- smear microscopy which allows for higher diagnostic accuracy among people with CXR abnormalities consistent with TB (and, thus, reduces the risk of overdiagnosis). Moreover, available molecular tests have significantly higher costs than sputum smear microscopy, which often necessitates a method of triaging of patients for evaluation for TB.
+
+The limitations of, and recent advances in, CXR are summarized in Box 1.
+
+
+The importance of CXR is reflected by the recommendations about using CXR for screening, triaging and assisting in the diagnosis of TB that have been included in recent policies developed or endorsed by WHO, including:
+• Systematic screening for active tuberculosis: principles and recommendations (4)
+• Guidance for national tuberculosis programmes on the management of tuberculosis in children (22)
+• Tuberculosis prevalence surveys: a handbook (21)
+• Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection (23)
+• the implementation manual for the Xpert MTB/RIF assay (Cepheid, Sunnyvale, CA, United States) (3)
+• International standards for tuberculosis care, third edition (20)
+• Guidelines on the management of latent tuberculosis infection (24).
+Box 2 summarizes the recent recommendations from WHO.
+However, despite the demonstrated utility of CXR and multiple WHO recommendations about when and how to use it, the programmatic and rational use of CXR for TB detection remains limited. The lack of consolidated programmatic guidance is one possible reason, hence the need for this document. Also contributing to its restricted use are the limited availability of radiography in some regions (including a lack of systems and incentives to keep X-ray machines operational), constraints on human resources, insufficient training (including qualification programmes and post-graduate training), a lack of quality assurance programmes and, often, high out-of-pocket costs for patients.
+In the following chapters, the options for using CXR for different elements of TB detection are outlined in more detail. This is followed by a brief summary of technical specifications, and quality control and safety issues. Finally, guidance on the programmatic planning and implementation of CXR is discussed.
+
+
+BOX 2. Summary of recommendations on using chest X-ray (CXR) for TB in recent WHO guidelines and policies
+
+CHEST X-RAY: AN ESSENTIAL TOOL TO END TB
+CXR IS A SENSITIVE TOOL FOR SCREENING FOR ACTIVE TB
+Reference: Systematic screening for active tuberculosis: principles and recommendations (4)
+• CXR has higher sensitivity for pulmonary TB than screening for TB symptoms.
+AN ABNORMAL CXR IS AN INDICATION FOR FULL DIAGNOSTIC EVALUATION
+Reference: International standards for tuberculosis care (20)
+• All patients with unexplained findings suggestive of TB on CXR should be evaluated for TB with a bacteriological diagnostic test.
+• CXR can be used as a supplementary diagnostic aid, although the specificity is low.
+• A bacteriologically confirmed diagnosis is always preferred.
+CXR IS AN IMPORTANT TOOL FOR DIAGNOSING CHILDHOOD TB
+Reference: Guidance for national tuberculosis programmes on the management of tuberculosis in children (22)
+• CXR is useful in diagnosing pulmonary and extrapulmonary TB in children in combination with history, evidence of TB infection and microbiological testing.
+CXR CAN IMPROVE THE EFFICIENCY OF USING THE XPERT MTB/RIF ASSAY
+Reference: implementation manual for the Xpert MTB/RIF assay (3)
+• CXR and further clinical assessment can be used to triage who should be tested with the Xpert MTB/RIF assay to reduce the number of individuals tested and the associated costs, as well as to improve the pre- test probability for TB and, thus, the predictive value of the Xpert MTB/RIF assay.
+CXR CAN ASSIST IN DIAGNOSING TB AMONG PEOPLE LIVING WITH HIV
+Reference: Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection (23)
+• CXR can assist in diagnosing TB among people living with HIV. It is particularly useful for ruling out TB disease before providing treatment for latent TB infection.
+CXR HELPS RULE OUT ACTIVE TB BEFORE TREATING LATENT TB INFECTION
+Reference: Guidelines on the management of latent tuberculosis infection (24)
+• CXR used in combination with symptom screening has the highest sensitivity for detecting TB and, thus, should be used to exclude active TB before initiating treatment of latent TB infection.
+• Individuals with any radiological abnormality or TB symptoms should be investigated further for active TB and other conditions.
+CXR IS AN ESSENTIAL TECHNOLOGY FOR PREVALENCE SURVEYS
+Reference: Tuberculosis prevalence surveys: a handbook (21)
+• CXR is a necessary screening tool to identify survey participants eligible for bacteriological examination; in recent surveys, CXR has proven essential for detecting a large proportion of prevalent TB cases.
+
+
+More information can be found in the following resources:
+• WHO’s diagnostic imaging website (14)
+• The WHO manual of diagnostic imaging: radiographic anatomy and interpretation of the chest and the pulmonary system (7)
+• International standards for tuberculosis care, third edition (20)
+- Standards for TB care in India (25)
+- European Union standards for tuberculosis care (26)
+- Canadian tuberculosis standards, seventh edition (27)
+• Systematic screening for active tuberculosis: principles and recommendations (4)
+• Systematic screening for active tuberculosis: an operational guide (5)
+• Guidelines on the management of latent tuberculosis infection (24)
+• Guidance for national tuberculosis programmes on the management of tuberculosis in children, second edition (22)
+• Tuberculosis prevalence surveys: a handbook (21)
+• Xpert MTB/RIF implementation manual (3)
+• Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection (23)
+• Pocket book of hospital care for children (28)
+• the website for the Practical approach to Lung Health (known as PAL) (29).
+
+2. CHEST X-RAY AS A TRIAGE TOOL
+
+2.1 Definition of triaging
+For the purpose of this document, triaging is defined as the processes of deciding the diagnostic and care pathways for people seeking healthcare, based on their symptoms, signs, risk markers and test results. Triaging involves assessing the likelihood of various differential diagnoses as a basis for making clinical decisions. It can follow more- or less-standardized protocols and algorithms and may be done in multiple steps. Effective triaging that helps to rapidly identify TB is important both for optimizing care for the individual and for ensuring good infection control (30).
+Triaging protocols should be adapted to the disease’s epidemiology in a given setting because the prevalence of different diseases determines the predictive values of symptoms, signs, risk markers and test results.
+Triaging is different from systematic screening in that it focuses on the clinical management of a person seeking healthcare for one or several unexplained complaints or concerns, while systematic screening normally is initiated by a provider and targets apparently healthy individuals with or without risk markers for a given disease; for more information on systematic screening see Systematic screening for active tuberculosis: principles and recommendations (4) and the associated Systematic screening for active tuberculosis: an operational guide (5).
+
+2.2 Triaging for TB among people with respiratory complaints
+Proper triaging of people seeking healthcare with respiratory complaints is essential for diagnosing TB correctly and early, as well as for the early diagnosis of other conditions. Unfortunately, not all people seeking care with symptoms consistent with TB receive an adequate evaluation for TB. These failures result in missed opportunities for detecting TB early and lead to increased disease severity, more complications and a higher risk of poor treatment outcomes for the patients. They also can lead to a greater overall disease burden in the community because they increase the likelihood of transmission of Mycobacterium tuberculosis in health facilities and to family members and others in the community. For this reason, effective and efficient clinical triaging algorithms are of utmost importance; for more information see the International standards for tuberculosis care (20).
+People with pulmonary TB who are seeking care often initially present with non-specific respiratory symptoms that need to be evaluated. Respiratory conditions are among the most common acute and chronic diseases worldwide; they occur in all societies and in all age groups. The heavy burden of respiratory diseases means that their symptoms are some of the most common reasons why patients seek primary healthcare: respiratory complaints (including cough, sputum production, and shortness of breath) often constitute around 20% of the symptoms that prompt a visit to a primary health centre (31); for more information see the website for the Practical approach to Lung Health (known as PAL) (29).
+Thus, respiratory symptoms are both common and non-specific. Most people with respiratory symptoms consistent with TB do not have TB, even in setting where TB is highly endemic. Therefore, it is important to identify in a sensitive and efficient manner those who have a high likelihood of TB among those with respiratory symptoms and to determine the underlying cause of disease for those who are not ultimately diagnosed with TB. Triage algorithms that are appropriate to specific patient populations, the epidemiology of respiratory conditions, and healthcare-system capacity are essential for providing high-quality care.
+Where it is available and feasible in the outpatient primary care setting, CXR can be used as an effective triage test for those seeking care for respiratory complaints. CXR is a sensitive tool for identifying TB, meaning that it identifies most people with a high likelihood of having the disease, while correctly ruling out TB in most persons when the X-ray is read to look for any abnormality consistent with TB. In addition, CXR can help identify other pulmonary conditions, such as lung cancer and occupational lung diseases like silicosis, as well as other intrathoracic diseases that require further diagnostic evaluation. Therefore, CXR is a useful general triage test for pulmonary conditions because it helps identify which type of further diagnostic evaluation patients require to correctly diagnose the cause of their illness. A normal CXR helps
+
+rule out a number of pulmonary conditions and prompts diagnostic evaluation for conditions consistent with no radiological findings, while an abnormal CXR prompts evaluation for conditions consistent with radiographic changes, including but not limited to bacteriological evaluation for TB (Fig. 1). In any case, when used as a triage test, CXR should be followed by further diagnostic evaluation to establish a diagnosis. Generating differential diagnoses for conditions other than TB may be the primary objective of ordering a CXR. Regardless of the reason for obtaining a CXR, it is important that any CXR abnormality consistent with TB be further evaluated with a bacteriological test (20).
+
+FIG. 1. Using chest radiography as a triage tool
+
+AFB: acid-fast bacilli; CXR: chest X-ray; MTB: Mycobacterium tuberculosis, TB: tuberculosis.
+
+CXR may have higher specificity for pulmonary TB than assessing symptoms alone, depending on how the X-ray is read. Therefore, triaging using CXR can help reduce the number of persons who undergo bacteriological TB testing without decreasing the detection of true TB cases. CXR also improves the positive predictive value of subsequent bacteriological tests by increasing the pre-test probability of TB (4).
+Beyond identifying active TB disease, CXR also identifies one of the populations at highest risk of developing TB disease: those who have inactive TB or fibrotic lesions without a history of TB treatment. Once active TB has been excluded, patients with fibrotic lesions should be followed-up, given their high risk for developing active disease (4).
+There is no comprehensive WHO guidance on using CXR in triaging individuals with respiratory symptoms. In the absence of such guidance, this chapter presents options for approaches to triage, and the contribution of CXR to each approach is described.
+
+2.3 TB triage algorithm options
+In this section, different triage algorithms for patients with respiratory complaints are discussed (up to the point of ordering an initial bacteriological test for TB) and compared to help guide the choice of an appropriate algorithm for different situations. At the end of the section, the algorithms are displayed schematically, together with indications of the yield of true positives and false positives for TB and the cost per true TB case detected, based on modelled yields and costs in a hypothetical scenario in which the prevalence of TB is 0.5% (500 cases/100 000 population) among persons entering the triage algorithm (Fig. 2). Details and additional scenarios are provided in Annex 1. The estimated yield shown concerns only bacteriologically confirmed TB, and the yield of false-positive TB corresponds to a false positive only on initial bacteriological testing. Actions to be taken after a positive or negative initial bacteriological test – including further evaluation for TB, drug resistance and for other underlying conditions, as well as the yield of true-positive and false-positive TB based on clinical diagnosis – are discussed in Section 2.3.3. and Chapter 3.
+In line with the progressive realization of universal health coverage, out-of-pocket expenditures for CXR, as well as for bacteriological and other tests, should be minimized (32). Costs should be covered through fair third-party financing. If CXR is used for triaging and the subsequent diagnostic evaluation of patients with respiratory complaints, CXR and bacteriological tests should be free of charge for patients. The algorithm scenarios discussed here and displayed in Fig. 2 and in Annex 1 assume there are no direct costs for patients and estimate the potential magnitude of costs from a healthcare perspective of various approaches to triaging for TB, including using CXR and other tools. When tools are available only on the referral level, additional indirect costs for patients, as well as transport, feasibility and time factors, need to be considered when choosing an appropriate algorithm. Further discussion of CXR infrastructure, planning and financing can be found in Chapter 6.
+
+2.3.1 Optimizing TB triaging when sputum-smear microscopy is used as bacteriological test
+Traditionally, chronic and productive cough (with a duration of longer than 2–3 weeks) has been used by national tuberculosis programmes (NTPs) as a triaging criterion for determining who should undergo sputum-smear microscopy (Algorithm 1). This approach identifies people with an advanced stage of TB, and it is a rational public health approach when the priority is to detect highly infectious pulmonary TB or when CXR is not available. If available, CXR can be used as an additional triage test after initially triaging for chronic cough (Algorithm 2). Because CXR is sensitive, Algorithm 2 has a similar yield to Algorithm 1 of true-positive cases detected with sputum-smear microscopy while reducing the number of persons who need to undergo sputum-smear microscopy. However, the cost can be higher, depending on the cost of CXR as compared with the cost of sputum-smear microscopy. The number of false-positive sputum- smear microscopy results is low for both of these algorithms when the TB prevalence is moderate to high, although it is lower in Algorithm 2, which includes CXR. However, introducing CXR before a bacteriological test can increase the total number of clinically diagnosed cases and, thus, also the total number of false- positive cases, depending on what further diagnostic evaluation and treatment decisions are made for patients with abnormal CXR and negative bacteriological tests (see Section 2.3.3. and Chapter 3).
+Triage algorithms based on chronic cough have a low sensitivity for TB, and, thus, many cases will be missed with this approach, especially in the early stages of disease. Recent TB prevalence surveys have demonstrated that a large proportion of people with bacteriologically confirmed TB do not experience chronic cough (21). Annex 2 shows the proportion detectable through screening with CXR and screening for chronic cough among persons with bacteriologically confirmed TB detected in recent TB prevalence surveys.
+Earlier and more complete detection of TB among people seeking healthcare may, therefore, require bacteriological testing for TB using broader indications, especially in TB-endemic settings. This may include testing all people with any symptom or sign consistent with TB (that is, any one of cough, haemoptysis, fever, night sweats or weight loss) as in Algorithm 3, or testing those with a predefined constellation of symptoms, signs and clinical or population-based risk markers for TB (for example, HIV, other immune- compromising conditions, diabetes, renal failure, smoking, alcohol or substance abuse, undernutrition, poverty, homelessness, history of imprisonment, migration from a TB-endemic setting). The appropriate threshold or indication for applying a bacteriological test depends on the local TB epidemiology. As a guiding principle, the higher the TB prevalence, the broader the indication for TB testing should be.
+
+Testing using a broad indication, such as any symptom consistent with TB, increases the total yield of TB cases detected. However, it can lead to high demands on resources and overloaded laboratories. It also leads to a lower positive predictive value for the bacteriological test result and, thus, a higher risk of false-positive test results. Narrowing symptom criteria will, in most situations, lower the sensitivity while increasing the specificity, and reduce the number who need to undergo bacteriological testing. Using CXR as an additional triage test is especially useful in the context of more inclusive initial symptom triaging, and it can lead to a high total yield with fewer bacteriological tests per detected case and fewer false- positive sputum-smear microscopy results as compared with symptom screening alone (see Algorithm 4). However, introducing CXR into an algorithm that uses smear microscopy as the bacteriological test can increase the cost per true case detected, depending on the relative costs of CXR and microscopy. It can also increase the number of clinically diagnosed cases, of which a substantial proportion may be false positives if proper quality control of clinical diagnosis is not in place (see Section 2.3.3. and Chapter 3).
+Algorithm 5 uses CXR as an initial triage test (regardless of symptoms, signs and other risk markers), which has been suggested as a rigorous triaging approach for healthcare facilities in some hyperendemic settings). It improves the sensitivity of triaging as compared with initial symptom-based triaging and, thus, improves case detection, but it can increase resource demands considerably, including for laboratories. Such an approach is equivalent to systematic TB screening in health facilities, which is further discussed in Chapter 3.
+
+2.3.2 Chest X-ray triaging to optimize use of the Xpert MTB/RIF assay
+As NTPs adopt and roll out the Xpert MTB/RIF assay into routine practice for TB diagnosis, it becomes important to determine how the test can be most efficiently used in evaluating patients with suspected TB; for more information see the Xpert MTB/RIF implementation manual (3).
+In Algorithm 6, replacing sputum-smear microscopy with the Xpert MTB/RIF assay as the primary bacteriological test after initial triaging for chronic cough increases the yield of bacteriologically confirmed TB. However, the cost per true case detected is considerably higher than with an algorithm using sputum- smear microscopy due to the higher costs for the Xpert MTB/RIF assay. One approach to reducing the number of individuals who undergo Xpert MTB/RIF testing without significantly reducing the yield of TB cases detected is to use Algorithm 7; in this algorithm CXR is used as a second triage test after initial triaging for chronic cough, after which patients with abnormal CXR results are referred for Xpert MTB/RIF testing for confirmatory diagnostic evaluation. If CXR is readily available and considerably cheaper than Xpert MTB/RIF testing, which is often the case, especially with digital CXR, this could greatly reduce the cost per true case detected.
+CXR triaging also increases the positive predictive value of Xpert MTB/RIF testing. The specificity of the Xpert MTB/RIF assay for detecting TB is high (99%, with liquid culture as reference standard) (2). However, given that it is not 100%, the positive predictive value of Xpert MTB/ RIF testing may be low when applied to groups with a relatively low TB prevalence. Using CXR as a triage test for those who have chronic cough and then referring those with abnormal results for confirmatory testing with the Xpert MTB/RIF assay results in a higher prevalence of TB in the group tested and, thus, increases the positive predictive value and minimizes false-positive results. Using CXR as a triage test is further discussed in the Xpert MTB/RIF implementation manual (3).
+However, the sensitivity of Algorithms 6 and 7 remains limited due to the low sensitivity of the initial triaging for chronic cough. In order for Xpert MTB/RIF testing to significantly improve early TB detection it may need to be used with a broad indication. Using Xpert MTB/RIF testing as the primary diagnostic test after triaging for any TB symptoms is a highly sensitive approach (see Algorithm 8). However, this algorithm is expensive and requires high-throughput capacity for Xpert MTB/RIF testing. Using CXR as a second triage test is especially valuable when the initial triaging is for any TB symptom (see Algorithm 9). Algorithm 9 can significantly reduce the laboratory burden, cost per true case detected and false-positive bacteriological test results.
+As discussed in Section 2.3.1, introducing CXR before a bacteriological test can increase the total number of clinically diagnosed cases and, thus, also the total number of false-positive cases, depending on what further evaluation and treatment decisions are made for patients with abnormal CXR and negative bacteriological tests. This is more likely when sputum-smear microscopy is used than when Xpert MTB/
+
+RIF testing is used because the Xpert MTB/RIF assay is more sensitive and, therefore, has a much higher negative predictive value than sputum-smear microscopy. This means that the likelihood is low that a person with a negative Xpert MTB/RIF test has TB. It is important that clinicians interpret a negative Xpert MTB/RIF result differently than a negative sputum-smear microscopy result. Although no bacteriological test can completely rule out TB, a clinical diagnosis needs to be considered for a much smaller proportion of persons who are negative by Xpert MTB/RIF testing than for persons who are negative by sputum-smear microscopy (see Chapter 3).
+The most sensitive algorithm is to use CXR for initial triaging regardless of symptoms, followed by Xpert MTB/RIF testing (see Algorithm 10). However, this algorithm is more expensive and results in a higher number of false-positive results than sequential triaging with symptoms and CXR.
+
+FIG. 2. Algorithm options for triaging patients with respiratory complaints consistent with TBa
+
+Triage algorithmCost per true case detected Yield of true-positive results Yield of false-positive results1. Cough followed by microscopy
+
+  
+2. Cough followed by CXR followed by microscopy
+
+  
+3. Any TB symptom followed by microscopy
+
+ 
+4. Any TB symptom followed by CXR followed by microscopy
+
+  
+5. CXR followed by microscopy
+
+  
+6. Cough followed by Xpert MTB/RIF testing
+
+  
+7. Cough followed by CXR followed by Xpert MTB/RIF testing
+
+  
+8. Any TB symptom followed by Xpert MTB/RIF testing
+
+ 
+9. Any TB symptom followed by CXR, followed by Xpert MTB/RIF testing
+
+  
+10. CXR followed by Xpert MTB/RIF testing
+
+  
+CXR: chest X-ray.
+
+a The figure shows the potential yield of triage and the subsequent diagnostic evaluation for TB based on using the indicated tools. The cost and yield indicator values are based on a hypothetical scenario of a triage population of 100 000 with a TB prevalence of 0.5% (500 cases/100 000 population). (Details are available in Annex 1.) The Cost indicator ($) corresponds to the cost per true case detected for each algorithm; $ corresponds to the algorithm with the lowest relative cost per true case detected and $$$$$ corresponds to the algorithm with the highest cost per true case detected. The True-positives indicator (green +) corresponds to the yield of true TB cases (with liquid culture as the gold standard); one green + corresponds to the algorithm with the lowest yield of true-positive cases and five green +++++ signs correspond to the algorithm with the highest yield of true-positive cases. The False-positives indicator (red +) corresponds to the number of false-positive bacteriological test results; one red + corresponds to the algorithm with the lowest number of false-positive test results and five red +++++ signs correspond to the algorithm with the highest number of false-positive results. Note that true and false positive indicators within each algorithm are not proportional and can therefore not be directly compared to assess positive predictive values. Also note that predictive values change with prevalence. See Annex 1 for actual numbers with different prevalence.
+
+2.3.3 Using chest X-ray after a negative bacteriological test result
+A negative initial bacteriological test result may require additional bacteriological testing (see Chapter 3). This can be done in parallel with a CXR if CXR was not done previously. For the diagnosis of non- bacteriologically confirmed TB, CXR has previously been recommended to be performed after a negative bacteriological test result and a trial treatment with broad spectrum antibiotics other than those used to treat TB (17, 18). However, trial treatment with broad spectrum antibiotics is not in line with general principles on the use of antibiotics, which should be reserved for treating a clear indication and not primarily used for diagnostic purposes. Trial treatment with antibiotics is particularly discouraged in children (22).
+Putting CXR at the end of a diagnostic algorithm may sometimes be the only option – for example in primary healthcare facilities where X-ray is not available and patients need to be referred to a secondary care facility. In this case, often patients with symptoms highly suggestive of TB and negative smear microscopy results are then referred to secondary care facilities for further evaluation with CXR. This approach is rational when infectious TB is the priority or if radiography access is limited. However, the approach can lead to delayed TB diagnosis and loss to follow-up during the diagnostic work-up, especially when a bacteriological test with low sensitivity is used, such as sputum-smear microscopy (which misses many true cases).
+One rationale for not doing a CXR before a bacteriological test is to avoid identifying a large group of people as possible TB patients via an early CXR, which can lead, in turn, to false-positive CXR-based clinical diagnosis of TB (see Sections 2.3.1 and 2.3.2, and Chapter 3). However, the risk of a false-positive clinical diagnosis can be reduced by using proper quality control as well as by improving access to sensitive and rapid molecular tests, or culture, or both, which can more effectively rule out TB than sputum-smear microscopy and can, therefore, reduce the number of cases diagnosed based on CXR findings.
+
+2.3.4 Estimating the yield and cost to decide where to place chest X-ray in triaging for TB
+The judgement of whether to expand CXR use as part of triaging for TB and the decision of where to put CXR in a triaging algorithm need to be based on an assessment of the risks of overdiagnosis versus underdiagnosis, and in the context of resource demands, the availability of human resources, the accessibility of CXR, and the feasibility and cost effectiveness. It is also important to consider that if all tools included in a diagnostic algorithm are not located in the same physical location, patients risk being lost in the diagnostic pathway. A case study on CXR in TB detection algorithms in India is provided in box 3.
+It may be helpful to estimate for different triaging protocols the number of CXR investigations and number of bacteriological tests required (and related resource demands), as well as the potential yield (including true positives and false positives, and true negatives and false negatives; see Annex 1 for an example). Unfortunately, the scientific evidence about the performance and cost effectiveness of different triaging algorithms using CXR is limited. The ScreenTB tool (12), initially developed for systematic screening, can be used for preliminary modelling of the theoretical expected yield and related costs required for some triage algorithms and the epidemiological scenarios in a given setting. However, the assumptions (originally put in place for screening) may need to be changed, and the outputs of the tool are only indicative.
+The introduction of any new algorithm should be coupled with careful monitoring and evaluation of its performance, in terms of the yield and the proportion of detected cases that are bacteriologically confirmed (5).
+
+
+BOX 3. Case study on chest radiography in the TB detection algorithms in India
+
+India has the highest TB burden of any country, representing 23% of the total global burden. Although policies requiring mandatory case notification, a new web-based information system and greater engagement with the private sector have led to significant recent increases in case notification, there is still a large case-detection gap. In response, the country is looking for ways to increase case detection, including developing more sensitive approaches for identifying persons who need to be evaluated for TB. CXR has, therefore, returned to the agenda after several decades of marginal programmatic use.
+CXR has long featured in TB detection in India, but its use has varied. In the 1960s, radiography was used for mass TB screening and clinical diagnosis of TB. These uses were accompanied by high rates of clinically
+diagnosed TB. Beginning in the 1990s, with the adoption of DOTS, CXR was still used to diagnose TB but less often because it was placed at the end of the recommended diagnostic algorithms, to be used only after multiple negative smear examinations and a trial course of antibiotics. Accordingly, the amount of training for providers dedicated to the use of CXR decreased substantially over the same period. When India launched its first national TB programme in 1962, District TB Officers were trained at the national level for 3 months. For more than 30 years, the main component of training aimed to help the officers develop skills in the CXR-based diagnosis of TB. After DOTS was introduced in the 1990s, under the Revised National TB Control Programme, training was gradually reduced to 2 weeks. The use of CXR was discouraged because previously TB had been overdiagnosed in the NTP when diagnosis was based on CXR. Consequently, the focus of training shifted to ensuring high-quality smear microscopy, and training in CXR vanished from the human resources development plan. Overall, this led
+to a decrease in the skills needed to evaluate CXRs, an inadequate infrastructure and availability of radiology, and minimal CXR monitoring and quality assurance, especially in peripheral areas. Throughout the period from the 1960s to the present, however, CXR has been widely used in the private sector, where it has been the
+preferred initial tool for TB detection, and it has also been used extensively for clinical diagnosis. No formal quality assurance procedures for CXR and clinical diagnosis in the private sector have been undertaken.
+In 2016, after programme evaluations suggested that only 5% of patients symptomatic for TB were screened completely using the existing diagnostic algorithms, and data from prevalence surveys suggested there would be an additional 30–40% diagnostic yield using CXR as a screening tool, the Ministry of Health and Family Welfare of India recommended revised diagnostic algorithms that feature CXR as an early triage tool for evaluating patients with suspected TB, to be used with bacteriological confirmatory evaluation and continued clinical assessment of bacteriologically negative patients.
+However, the implementation of the revised triage and diagnostic algorithms will likely be hampered by the limited availability of high-quality CXR. Currently, CXR technology is available only in the private sector and at the public sector referral level. Along with limited equipment for CXR, only limited personnel have been trained to deliver and interpret CXRs. Additionally, the financing for radiology services varies by state, and although many states have provisions for free-of-charge CXR in the general health budget for patients with suspected TB, some require fees from patients. Technological innovations may provide future opportunities to address financial and human- resource capacity gaps in CXR access, including by using digital CXR in combination with telemedicine.
+
+More information can be found in the following resources:
+• International standards for tuberculosis care, third edition (20)
+• the website for the Practical approach to Lung Health (known as PAL) (29)
+• Xpert MTB/RIF policy update and implementation manual (2, 3)
+• Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection (23)
+• Systematic screening for active tuberculosis: principles and recommendations (4)
+• Systematic screening for active tuberculosis: an operational guide (5)
+• ScreenTB tool: target prioritization and strategy selection for tuberculosis screening (12).
+
+3. CHEST X-RAY AS A DIAGNOSTIC AID
+
+3.1 Chest X-ray as a diagnostic aid for respiratory and other intrathoracic diseases
+As discussed in Chapter 2, people with respiratory symptoms who are seeking care need to be evaluated not only for TB but for all relevant respiratory diseases, which may include, for example, non-TB infections, diseases of airflow obstruction (such as chronic obstructive pulmonary disease or asthma), neoplasms (such as lung cancer or pulmonary metastasis), occupational lung diseases (such as silicosis) or bronchiectasis. CXR is a useful diagnostic aid for several of these conditions, as well as for diseases that affect extrapulmonary intrathoracic structures (such as mediastinal lymph nodes, the pleura or pericardium). Good quality chest radiographs are essential for proper evaluation.
+CXR should be seen as a tool that can be used in comprehensive pathways for diagnosing respiratory and other intrathoracic diseases. Beyond algorithms for TB diagnosis and treatment, protocols are needed for the proper referral and management of other diseases, in line with the principles of the practical approach to lung health (29).
+CXR is an essential health technology that should be accessible to all. However, because access remains limited in many settings, and it may be available only in tertiary care, the choice to use CXR as a diagnostic aid clearly depends on the availability of and access to CXR (see Chapter 6).
+
+3.2 Chest X-ray as a complement to bacteriological TB tests
+It must be underscored that although CXR is a useful adjunct in diagnosing TB, CXR alone cannot establish a diagnosis. Bacteriological confirmation of TB should always be attempted. The triage algorithms described in the previous chapter show only the steps leading to an initial bacteriological test, but not the subsequent bacteriological testing and clinical assessment that may be required.
+Additional bacteriological testing may be required after a negative initial bacteriological result. This is especially relevant if the initial test is sputum-smear microscopy, which has low sensitivity. For such patients, subsequent Xpert MTB/RIF testing or culture should be done if the clinical suspicion of TB is moderate to high – for example, due to CXR findings consistent with TB.
+Although Xpert MTB/RIF testing is more sensitive than smear microscopy, the sensitivity of the test in a given setting depends on the prevalence of smear-negative TB in the patient population; this is because the Xpert MTB/RIF assay is highly sensitive for smear-positive TB but only moderately sensitive for TB that is smear negative (2). Hence, repeated testing should be considered using the Xpert MTB/RIF assay or culture, or both, after an initially negative Xpert MTB/RIF assay or culture. Culture can improve the sensitivity of bacteriological confirmation, although it typically takes 6–8 weeks before results are available. Considerations for sequential bacteriological testing and suggested bacteriological test algorithms, including for diagnosing drug-resistant TB, are included in WHO’s framework on implementing TB diagnostics as well as in the International standards for tuberculosis care (20, 33).
+Making a clinical diagnosis based on medical history (symptoms, TB exposure, risk markers), signs and CXR findings is sometimes reasonable in persons in whom TB cannot be ruled out despite negative bacteriological tests. In combination with clinical assessment, CXR may provide important circumstantial evidence for clinical diagnosis (20). Repeated CXR examination after a period of time could be considered, as interpretation of image changes could aid in clinical evaluation for TB and other diagnoses.
+Clinical diagnosis is particularly relevant in certain groups for whom it can be difficult to confirm a TB diagnosis with a bacteriological test. This includes patients for whom bacteriological tests tend to have lower sensitivity, such as people living with HIV or people with other immune-compromising conditions. It also includes patients from whom it is difficult to collect samples for bacteriological confirmation, such as young children. Moreover, for seriously ill patients (particularly persons with HIV infection), a clinical decision to start treatment often must be made without waiting for test results. Such patients may die if appropriate treatment is not begun promptly (4, 20, 23). In such patients, CXR can be particularly useful
+
+as a diagnostic aid given the rapidity with which it delivers results. The risks associated with a delayed or missed TB diagnosis in these groups can be higher than the risks associated with a possible false-positive clinical diagnosis, which means that a clinical diagnosis made with a relatively low positive predictive value may be acceptable. However, it should be noted that the accuracy of CXR in these groups may be lower than in other groups. If a patient is not critically ill, follow-up bacteriological testing, repeat CXR and re- evaluation of TB and differential diagnoses should be considered (19, 20).
+Patients in whom a clinical diagnosis of TB has been made should be followed closely to ensure that a non-TB disease has not been misdiagnosed and left untreated. Follow-up should include repeat clinical and radiological assessment. For those who deteriorate or fail to improve, repeat bacteriological testing for TB should be considered (that is, to ensure the initial results were not falsely negative) and also diagnostic testing for non-TB diseases.
+Quality assurance for clinical TB diagnoses is important (see Chapter 5), both to not miss TB cases and to avoid overdiagnosis. Unnecessary TB treatment should be avoided to protect patients from harm and avoid wasting resources, both for patients and society. Moreover, making a false-positive clinical TB diagnosis when the illness has another cause can delay proper diagnosis and treatment of the true illness – for example, lung cancer (34). When an abnormality is present on CXR it is important to consider all possible differential diagnoses. Persons with confirmed or unconfirmed TB may have other concurrent lung conditions.
+Quality assurance involves ensuring high-quality CXR as well as high-quality CXR reading (35), (36). Quality and standardization can be improved by conducting multidisciplinary clinical rounds, convening groups of diagnostic experts and implementing peer review procedures. Monitoring and evaluation are essential. A useful indirect indicator of quality is the proportion of TB cases that have not been bacteriologically confirmed. A high proportion of clinically diagnosed TB may indicate overdiagnosis. A low proportion may indicate underdiagnosis. However, there is no established benchmark for the appropriate proportion of cases of bacteriologically confirmed TB.
+
+3.3 Chest X-ray as part of a comprehensive diagnostic pathway in children
+CXR is useful in the diagnostic evaluation of TB as well as other intrathoracic diseases in children, especially younger children, in whom bacteriological evaluation is commonly negative. It should be part of a comprehensive diagnostic pathway that includes multiple steps, beginning with clinical assessment, the assessment of risk factors and exposure history, and CXR and bacteriological tests, as required. In most cases, children with TB have radiographic changes suggestive of TB (22). Adolescent patients with TB have radiographic changes similar to those seen in adult patients. Good-quality CXRs are essential for proper evaluation (22). A lateral CXR view may be required, especially in younger children and when bacteriological confirmation is challenging. For example, children younger than 4 years are more likely to have primary TB, and a lateral view will be important in identifying mediastinal or hilar lymphadenopathy
+(37). Details are provided in the Guidance for national tuberculosis programmes on the management of tuberculosis in children (22).
+As with adults, there are no specific features on clinical examination that can confirm that the presenting symptoms are due to TB. Every effort should be made to confirm the diagnosis of TB in a child using whatever specimens and laboratory tests are available (22). The Xpert MTB/RIF assay should be used as the initial test in all children suspected of having TB, regardless of their HIV status (2).
+It should be noted that children living with HIV have a substantially elevated risk of TB. The approach to diagnosing TB in children living with HIV is essentially the same as for diagnosis in HIV-negative children. However, this approach can be more challenging in children living with HIV because there is a high incidence of acute and chronic lung diseases other than TB; because children with HIV may have lung disease of more than one cause (multimorbidity), which can mask their response to therapy; and because there is an overlap of radiographic findings in TB and from other HIV-related lung diseases, making CXR less specific for detecting TB in children with HIV (22).
+CXR quality assurance can be especially challenging when CXR is used in children. Radiographers and medical staff require special training on taking and reading CXRs in children, and ensuring this training
+
+occurs is a particular challenge in low- and middle-income countries where there are few paediatric- orientated radiologists.
+More information can be found in the following resources:
+• International standards for tuberculosis care, third edition (20)
+• Guidance for national tuberculosis programmes on the management of tuberculosis in children, second edition (22)
+• Xpert MTB/RIF policy update and implementation manual (2, 3)
+• Consolidated guidelines on the use of antiretroviral drugs for treating and preventing HIV infection (23).
+
+4. CHEST X-RAY AS A SCREENING TOOL FOR PULMONARY TB
+
+4.1 Chest X-ray as a sensitive tool for screening for active TB
+Systematic screening for active pulmonary TB is defined as the “systematic identification of people with suspected active TB in a predetermined target group, using tests, examinations or other procedures that can be applied rapidly” (4). Unlike the evaluation of those who actively seek care for respiratory symptoms (see triaging, Chapter 2), the systematic screening of individuals for TB is typically initiated by a provider and offered in a systematic way to an apparently healthy target group that has been determined to have a high risk of TB.
+Systematic screening implemented within health facilities is a special systematic screening situation in which specific risk groups at high risk of TB are targeted for screening among people seeking care in health facilities – for example, people being treated for diabetes or people living with HIV who are attending a clinic to receive antiretroviral therapy. Systematic screening of all people seeking care in an outpatient department may be considered in a setting where TB is highly endemic. Such an approach can also be seen as aggressive triaging for TB; the same principles for choosing an appropriate screening algorithm apply.
+Systematic screening outside health facilities – such as in the community or in special institutions such as prisons or shelters for homeless people – is often labelled active case finding, which refers to a provider- initiated approach that actively reaches outside the health services. Such screening can help find prevalent cases of TB in the community that might otherwise go undiagnosed and untreated. It often requires screening a large number of people who do not have TB. Costs can be high, and the risk of a false- positive diagnosis is high when TB prevalence in the screened group is low or moderate (4). Because of this, choosing an accurate screening algorithm is critical, and there are specific considerations involved, including how well the screening and diagnostic tools perform in the population to be screened, the trade- off between risks and benefits to the person being screened, the ability of the screening algorithms to detect TB without risking overdiagnosis, and the feasibility and costs (4, 5).
+WHO’s guideline Systematic screening for active tuberculosis: principles and recommendations describes 10 algorithms for screening for TB (4). Eight options include a symptom screen as the initial test (screening either for cough lasting longer than 2 weeks, or screening for any symptom consistent with pulmonary TB, including cough of any duration, haemoptysis, weight loss, fever or night sweats), and two options use CXR as the initial screening test. If symptom screening is used initially, then CXR can be used as a second screen to improve the pre-test probability of the subsequent diagnostic test and to reduce the number of people who need to undergo further diagnostic evaluation. See box 4 for an example of the use of CXR as a tool for TB screening in migrants and refugees.
+As discussed in Chapter 2, symptom screening has a low sensitivity, especially for detecting TB early, which is a primary objective of systematic screening. Nevertheless, symptom screening is a low-cost and feasible approach that may be the only option in some situations. CXR, however, is a good screening tool for pulmonary TB because of its high sensitivity (87% to 98%, depending on how the CXR is interpreted) (4), meaning that up to 98% of those with culture-positive TB who undergo CXR will have an abnormal result. From the perspective of the person being screened, CXR is a valuable tool because it provides rapid screening results for a range of medical conditions beyond TB (21).
+Like symptom screening, CXR has low specificity in an active case-finding situation (46% to 89%, depending on how it is read) (4), meaning that a significant proportion of individuals without TB will have an abnormal test result. This is due, in part, to the fact that CXR identifies many types of lung abnormalities, whether due to TB or to other lung conditions. For this reason, CXR should be used with a bacteriological confirmatory test that has high sensitivity and specificity for TB. However, as discussed in Chapter 2, it is unavoidable that some proportion of persons who screen positive by CXR and who are negative by bacteriological tests will be diagnosed based on CXR and clinical criteria alone. Such patients should be periodically re-evaluated to assess response to treatment for TB and to exclude other diseases that might explain the
+
+radiographic findings. A significant proportion of those with a clinical diagnosis may not, in fact, have TB and, thus, may be treated unnecessarily. At the same time, some of the true TB cases will be missed.
+The proportions of false-positive and false-negative cases found through screening will depend on the TB prevalence in the screened group, on the quality of the laboratory test, and on the rigour used in making clinical diagnoses, including the quality of CXR and CXR reading, as well as the quality of clinical evaluation (4). It is essential to ensure that the diagnostic quality is high, including for clinical diagnosis. It is also important that people invited for screening are well informed about the diagnostic challenges. This is particularly important in the context of screening as compared with triaging, for two reasons: screening is normally provider-initiated rather than patient-initiated (which leads to particular ethical considerations) and the prevalence of TB in the tested group tends to be much lower (which leads to lower positive predictive values).
+Although CXR is the preferred screening tool from the viewpoint of test accuracy, it can be expensive and logistically challenging to use, especially during active case finding when screening is done as an outreach activity outside the health services. The best choice of screening tool for any given situation depends on several factors, including the setting where screening is to be done, the populations to be screened and their epidemiology of TB and associated risk factors, the resources available (such as, human or financial), and the feasibility of various screening options. CXR is a good choice in most screening scenarios, particularly those based in the healthcare setting (see Case study 2) or where it is feasible to utilize mobile X-ray technology, but it will not be feasible in some scenarios. WHO’s Systematic screening for active tuberculosis: an operational guide provides some guidance for the processes of planning screening and choosing an appropriate screening approach (5). The operational guide (5) and the ScreenTB tool (12) can be used to model the potential yield of true-positive and false-positive cases from various screening approaches, as well as costs, which can help in prioritizing the risk groups to be screened and choosing a screening algorithm. As with the discussion of optimizing triage algorithms in section 2.3, the introduction of any new algorithm for screening should be coupled with careful monitoring and evaluation of its performance, in terms of the yield and the proportion of detected cases that are bacteriologically confirmed (5).
+
+
+BOX 4. Case study on the International Organization for Migration’s experience of using digital chest radiography and teleradiology to screen migrants for TB.
+
+The International Organization for Migration (IOM) conducts health assessments for selected immigrants and refugees during the process of resettlement. A key component of the health assessment is radiological screening for TB for migrants from countries with a significant burden of TB. CXR is performed on all adults and on children with indications for TB evaluation (such as a positive tuberculin skin test or interferon-gamma release assay, or being a close contact of a person with TB or HIV). For the detection of TB, an abnormal CXR suggestive of TB is the main criterion for referral for sputum-smear microscopy and culture examination; clinical suspicion is the main criterion for referral for cases with a normal CXR.
+Because this health screening is conducted in an apparently healthy population, TB is usually detected during an early phase of disease, and the findings on CXR are often subtle. Skilled radiologists experienced in interpreting screening CXRs for TB are essential. The difficulty in finding appropriately skilled radiologists, especially in rural areas, prompted the IOM to develop a Global Teleradiology and Quality Control Centre in 2012. The aim was
+to standardize and optimize the quality of CXR used across all IOM health assessments. The centre utilizes a teleradiology system, with web-based applications and live chat for communications and to transfer digital images and provide CXR reports in real time. The centre provides primary CXR reading if necessary, with a turnaround time of 1 hour, as well as quality control and radiology-related technical support to IOM health-assessment field operations globally.
+From 2011 to 2015, IOM conducted health assessments for more than 1.5 million people, of which 1.2 million immigrants and refugees were screened for TB using CXR as part of their health assessment. Among those screened, 5% had CXR findings consistent with TB, and among those almost 7% were diagnosed with TB. Among diagnosed TB cases, 84% were bacteriologically confirmed. The majority were culture-confirmed smear-negative cases.
+
+Total of 1 204 569 screened for TB with CXR: 836 462 immigrants and 368 107 refugees
+
+
+63 884 (5.3%) had findings suggestive of TB: 30 172 (4%) immigrants and 33 712 (9%) refugees
+
+These experiences demonstrate the potential for using CXR to screen a large group of apparently healthy individuals for TB and find a significant number of cases. The high proportion of culture-confirmed smear- negative TB indicates the low sensitivity of smear microscopy and that it is possible to maintain a high standard of bacteriological confirmation with culture. The IOM experience also shows the potential for digital and
+communication technologies to increase access to CXR and to skilled radiology services globally. However, nearly 400 immigrants or 164 refugees needed to be screened to detect 1 case of TB. The cost effectiveness of this
+type of mass screening needs to be considered. The TB detection rate was 2.5 times higher in refugees than in immigrants, which indicates that screening targeted high-risk groups will be more cost-effective than screening all migrants.
+
+
+4.2 Chest X-ray screening in TB prevalence surveys
+In the specific context of a national TB prevalence survey, in which a country’s entire adult population is sampled and tested to determine the population prevalence of TB, screening is applied to identify individuals who should undergo bacteriological examinations. CXR is the most sensitive screening tool for identifying those survey participants with a high probability of having TB. For diagnosis, combining CXR and symptom checklists for screening (with, typically, a positive result in either category being sufficient to warrant further testing) with culture or an alternative bacteriological test with high sensitivity (such as the Xpert MTB/RIF assay), will generate the most accurate prevalence estimate for bacteriologically positive TB (which is the objective a TB prevalence survey). CXR should, therefore, be used for all participants in a survey, regardless of their symptoms or risk markers (21). It should be noted that prevalence surveys
+
+generally do not include children (usually defined as less than 15 years of age), due to ethical concerns and because they require distinct screening and diagnostic procedures, so survey findings do not represent the entire population and cannot be extrapolated to the younger age group.
+The screening strategy recommended by the WHO Global Task Force on TB Impact Measurement is shown in Fig. 3. Those persons with abnormalities on CXR and/or found to have TB-compatible symptoms during the questionnaire screening are eligible for sputum examination with the Xpert MTB/RIF assay or culture, or both. Those who do not have abnormalities or symptoms suggestive of TB during screening are not eligible for bacteriological testing and do not submit sputum samples. For more information, see Tuberculosis prevalence surveys: a handbook (21).
+
+FIG. 3. WHO’s recommended screening strategy for TB prevalence surveys (21)
+
+CXR: chest X-ray.
+
+A screening strategy using symptom screening without CXR screening is not recommended because it will underestimate the true prevalence of TB. Between 23% and 70% of bacteriologically positive cases detected in recent surveys had chronic cough, meaning that, on average, half of bacteriologically confirmed cases will be missed by symptom screening alone (see Annex 2) (21).
+To increase sensitivity, intentional overreading of CXRs should be encouraged in the context of a prevalence survey. That is, participants with any lung abnormality (even if it may not be considered typical of TB) should be referred for bacteriological examination. Overreading should ensure that almost all potential TB cases are referred for sputum examination. Because TB in an immunocompromised person with a high risk of TB, such as an HIV-positive individual or, to a lesser extent, a person with diabetes, often shows atypical manifestations in a CXR, using CXR abnormalities suggestive of TB to identify individuals eligible for sputum examination may not be sensitive enough. Therefore, the recommended definition for screening is any CXR abnormality in the lung (21). Follow-up of participants with abnormal CXR and negative bacteriological exams is sometimes warranted.
+
+4.3 Chest X-ray to rule out active TB before treating latent infection
+Due to the crucial importance of excluding active TB before initiating treatment for latent TB infection (LTBI), one of WHO’s recommendations for managing LTBI in resource-rich settings with a TB incidence of < 100 cases/100 000 population states that before initiating treatment for LTBI, individuals should both be asked about any symptoms of TB and should undergo CXR. Individuals with TB symptoms or any radiological abnormality should be investigated further for active TB and other conditions. For more information, see the Guidelines on the management of latent tuberculosis infection (24). Guidelines for managing LTBI in resource-poor high-burden settings are being developed; presently, in such settings CXR is not usually used for evaluating asymptomatic children under 5 years of age.
+Using the combination of any abnormality in a CXR and/or the presence of any symptoms suggestive of TB (that is, any one of cough, haemoptysis, fever, night sweats, weight loss, chest pain, shortness of breath or fatigue) offers the highest sensitivity and negative predictive value for ruling out TB (24).
+More information can be found in the following resources:
+• Systematic screening for active tuberculosis: principles and recommendations (4)
+• Systematic screening for active tuberculosis: an operational guide (5)
+• Tuberculosis prevalence surveys: a handbook (21)
+• Guidelines on the management of latent tuberculosis infection (24)
+• Screening chest X-ray interpretations and radiographic techniques (10).
+
+5. TECHNICAL SPECIFICATION, QUALITY ASSURANCE, QUALITY CONTROL, AND SAFETY
+
+5.1 Technologies for chest X-ray and technical specifications
+WHO first specified a basic radiological system in 1975. The concept was developed further with a series of revisions. WHO’s guiding principles in designing radiological units have been:
+• the radiological image must be high quality;
+• the equipment must be safe for patients and personnel;
+• the equipment must be easy to install and use;
+• required equipment maintenance should be minimal and quality assured;
+• if necessary, it must be possible to use the equipment with an unreliable electricity supply.
+Two types of technology are used for CXR: analogue (that is, a system using film) or digital. It is important to highlight that both of these technologies employ the same principle of X-ray production (which is non-digital); the difference is the method of recording the result. In conventional systems, the result is recorded and displayed on an X-ray film but in digital systems, the result is recorded on a detector and displayed in a digital format on a computer screen (and it can also be printed on X-ray film or paper or sent to a digital device).
+Digital systems have several advantages over conventional systems. They reduce procedure time, have very low running costs (particularly when a hard copy image is not needed), save on staff requirements because the system is more user-friendly, produce superior image quality, give a lower radiation dose, allow for easier archiving and are more environmentally friendly. Moreover, they allow for telemedicine solutions and can be used for computer-aided reading.
+In 2000, WHO published the Consumer guide for the purchase of X-ray equipment (38), a comprehensive document that was aimed at small hospitals and large primary healthcare centres. The document covered not only technical specifications but also guidance on infrastructure, staffing and protection from radiation. However, because affordable digital technologies were not widely available for resource-poor settings at the time, the guide recommended only conventional X-ray technology with a manual or automatic film processing and development system.
+In 2016, WHO developed technical specifications for the 61 essential medical devices needed by healthcare facilities (39). The specifications for digital imaging systems in that document should help countries procure appropriate equipment. It was compiled by WHO in collaboration with a working group of experts, and will be continually updated. Among the 61 devices, 6 diagnostic X-ray-related devices are included (as of 29 September 2016):
+• the stationary basic diagnostic X-ray system, digital;
+• the mobile basic diagnostic X-ray system, digital;
+• the stationary basic diagnostic X-ray system, analogue;
+• the mobile basic diagnostic X-ray system, analogue;
+• the darkroom automated X-ray film processor; and
+• the daylight automatic X-ray film processor.
+Basic radiography is an essential technology in primary care, such as at health centres and district hospitals. The basic radiography unit (the stationary digital diagnostic X-ray system) has much wider functions than CXR, such as to investigate trauma or gastrointestinal diseases and to perform interventions, such as thoracic intubation, and the fixation or manipulation of fractures and dislocations. Mobile digital basic X-ray systems that can provide radiology services outside the radiology unit, such as in an operating theatre or intensive care unit, are listed in WHO’s 2016 technical specifications as the second unit of radiography needed for hospitals.
+
+In some facilities it is appropriate to have a CXR-specific stationary unit. WHO’s specifications for stationary digital CXR systems are not available, but will be developed by WHO and its partners. Moreover, WHO’s guidelines on radiography are limited to medical facilities. WHO is developing specifications for portable X-ray units, which are already widely used in small medical facilities, for home care, in military and disaster relief operations, for systematic TB screening and for TB prevalence surveys.
+The WHO Global Task Force on TB Impact Measurement strongly recommends that countries do not use fluoroscopy or mass miniature indirect radiography for TB screening because these require a higher radiation dose (21). Since 2009, all national TB prevalence surveys, without exception, have adopted direct CXR technology.
+
+5.2 How to choose chest X-ray technology
+There are many factors to consider when choosing the appropriate X-ray equipment.
+• Settings: For frontline hospitals and health centres, a stationary basic digital diagnostic X-ray system should be considered for the first X-ray unit, as X-ray technology has many diagnostic uses beyond CXR. An X-ray unit used only for CXR could be installed in the radiology department when the demand for CXR is high. For field use, options include a stationary X-ray unit (either in an X-ray van or container) or a portable unit. The choice depends on the accessibility of field sites, a country’s regulations, the climate (temperature) and the daily demand for CXR images.
+• Costs: Costs depend on several factors. It is useful to think about the entire lifetime of the equipment when considering costs. Different technologies have varying levels of initial investment and running costs (including requirements for consumables, operational costs and costs for maintenance and parts). Digital systems have a higher initial cost but often offer savings on consumables (particularly when a hard copy of the CXR image is not necessary) and human resources.
+• Duration of use: Although X-ray equipment is sometimes acquired for a specific purpose or activity, such as for a systematic screening campaign or a prevalence survey, it should be assumed that it will be used for a much longer time period and for other purposes. Therefore, its utility should be considered in terms of its general use.
+• Field conditions: If the equipment is to be used in the field, important factors to consider are portability and power requirements.
+• Personnel: It is important to consider whether skilled personnel will be available to conduct CXR examinations, read the results and maintain the equipment in the setting in which it will be used.
+• Radiation exposure: Although none of the options present dangerous levels of radiation, newer digital technologies provide lower exposure to radiation.
+• Throughput capacity: Digital systems are good for tasks with a heavy workload – such as a prevalence survey, hospital-based systematic screening or active case finding in the community – because they shorten the processing time.
+• Availability of maintenance: Particularly for digital equipment, ensuring maintenance after the initial 1-year warranty period can be difficult in countries where maintenance services are scarce.
+
+5.3 Computer-aided detection of TB
+New technologies for analyzing the results of CXR evaluations are being developed, including computer- aided detection (CAD) software that can analyze digital CXR images for abnormalities and the likelihood of TB being present. Such technology could help reduce interreader variability and delays in reading radiographs when skilled personnel are scarce.
+As of 2016, WHO provides no recommendations on using CAD for TB. A systematic review of five peer reviewed articles published in 2016 concluded that the evidence of CAD’s diagnostic accuracy is limited by the small number of studies of the single commercially available CAD software (CAD4TB, Delft Imaging Systems, Veenendaal, the Netherlands). There were also important methodological limitations to the studies and their findings had limited generalizability (40). To determine whether WHO should initiate a process to develop guidelines on CAD, WHO commissioned an extended systematic review to evaluate
+
+both published and unpublished studies assessing CAD as a tool for evaluating persons with suspected TB and for TB screening (41). The following PICO questions were formulated (PICO refers to population, intervention, comparator, outcome).
+1. What is the diagnostic accuracy of CXR interpreted by CAD for detecting TB confirmed with culture or a molecular test?
+2. Is the diagnostic accuracy of a CXR analyzed with CAD superior, inferior or equivalent to that of a CXR interpreted by a human reader for detecting TB confirmed by culture or a molecular test?
+The review stratified results by use-case: in triage use-case studies, CAD was used for evaluating persons with suspected TB (that is, persons seeking care for TB symptoms); in screening use-case studies, it was used to screen populations at risk that may not be seeking care. The review focused on CAD4TB, the only commercially available CAD program for TB. CAD4TB analyses a digital CXR and produces an abnormality score ranging from 0 to 100, with higher scores indicating greater likelihood of TB. A threshold score is the abnormality score below which TB is considered ruled out. For this to be a generalizable diagnostic test, one would predefine a threshold for each use-case. However, threshold scores are currently not preselected by the test developers.
+Studies were identified through four medical databases as well as the developer of CAD4TB software, projects supported by the Stop TB partnership and researchers in the field. Of the 542 identified citations and studies with unpublished data, 13 were included in the systematic review: 5 published peer reviewed papers, 4 published conference abstracts and 4 unpublished studies. Seven studies were triage use- case, and 6 were screening use-case, of which 6 and 3, respectively, had results that addressed the PICO questions. Results were considered in light of the potential for bias and applicability concerns, and assessed using the QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies 2) approach (http:// www.quadas.org).
+A number of important methodological limitations were identified for both use-cases during quality assessment. The main sources of concern about the potential for bias and limited applicability were the inappropriate exclusion of participants (particularly in screening use-case studies) and how the threshold scores had been operationalized, in particular the use of threshold scores that were not prespecified. Concerns about generalizability also arose from the use of non-commercially available versions of CAD4TB, and from training staff and evaluating the software for CXR within the same study population. Studies were not equally affected by these methodological limitations. Overall, reviewers found that few studies used CAD4TB the way it will be used in the field – that is, with the most up-to-date commercially available version, with a prespecified threshold score and without having undertaken a pilot study to determine which threshold score to use. Furthermore, there was limited or no information about the performance of CAD4TB in several subgroups of interest, including people living with HIV and different age groups, particularly for the screening use-case studies. Finally, data disaggregated by sex or smear status were not available. No pooling of data was done due to the methodological heterogeneity of the reviewed studies, as well as to the low number of studies for each version of CAD4TB.
+Across versions, the software achieved high sensitivity for both use-cases, but with variable specificity. The sensitivity and specificity of the human CXR readers whose performance was compared with that of CAD4TB were variable. In a number of studies, CAD4TB’s threshold score was set to match either the sensitivity or specificity of the human readers, thus limiting the comparisons of accuracy that could be made between the software and human readers. The software’s sensitivity was similar to that of human expert readers in the triage use-case, but it was less specific. Performance varied when compared with non- expert readers. For the screening use-case, data were insufficient to draw conclusions about performance compared with humans.
+Based on the findings of the extended systematic review, WHO has decided not to initiate a guideline development process at the present time. CAD can be used for TB detection for research, ideally following a protocol that contributes to the required evidence base for guideline development. For this purpose, WHO plans to further specify the desirable characteristics of CAD for TB and develop advice on key research questions and appropriate study designs that can address those questions. Broad questions that should be addressed include the following:
+
+• what is the added value of CAD in different places in the diagnostic pathway?
+• what is the added value of CAD in different populations and settings?
+• what should be the threshold scores for different populations or settings?
+• what needs to happen if a patient is symptomatic and a CAD assessment is negative? And what needs to happen if a patient is symptomatic and the CAD assessment is positive but the microbiological test is negative?
+• what is the cost effectiveness of CAD compared with human readers, considering different payment models?
+• what operational or implementation challenges exist for ensuring equitable access?
+• what needs to be done with preliminarily CAD-positive patients? For example, when would a human reader be engaged for final interpretation/reporting in each use case?
+• how could CAD be used as an aid to human CXR readers rather than as a replacement?
+Two possible research strategies have been identified to generate evidence for WHO to issue recommendations on using CAD4TB. When new evidence has been generated, WHO will assess whether a guideline process should start.
+In strategy 1, data from individual patients and digital images from the higher quality studies identified in the extended review would be analysed independently of the CAD4TB developers, using the latest version of the software and pooling the results using a meta-analysis of individual patient data. Although this could provide evidence of sufficient quality for the triage use-case, it would be inadequate for the screening test use-case. Hence, a complementary undertaking in strategy 1 would be to compile a standard panel of CXRs taken from existing databases, and use this panel to evaluate CAD4TB. Potential data sources include completed or ongoing studies that utilize digital CXR in either a triage or screening use-case and also use the required reference standard as defined but that are not utilizing CAD software (in order to avoid the developers having access to the files for software training), TB prevalence surveys and other existing data sets of digital CXR files with appropriate pathology reference standards. The timeline of this strategy is estimated to be 1 year, but it needs to be further clarified.
+Strategy 2 would involve identifying planned or ongoing trials of CAD, or undertaking new studies, and integrating an evaluation of CAD into that research. The main focus would be the screening use-case. Design considerations that would ensure studies are of sufficient quality would include using predefined threshold scores according to the use-case; enrolling important subgroups of patients (defined by sex, age, HIV status, smear status); using CAD for all participants (in triage studies, this would include testing all participants with the reference test; in screening studies, this would include testing at least a subset of asymptomatic persons with the reference test); and for comparison, having human readers who are blinded to CAD scores and microbiological data, and using standardized categories for reporting CXR results. The timeline for this strategy is estimated to be 2–3 years but depends on the ability to integrate an evaluation of CAD into planned studies and the availability of funding.
+
+5.4 Quality assurance and quality control
+There are two major areas of quality assurance for CXR: the quality of CXR imaging and the quality of CXR reading.
+The quality of CXR imaging is associated with the quality of the hardware being used and the quality of the techniques and applications. WHO provides technical specifications for X-ray machines and the equipment related to handling X-ray films and images, as well as checklists and workbooks (http://www. who.int/diagnostic_imaging/publications/en/). The WHO manual of diagnostic imaging is available on the website of the International Society of Radiology (http://www.isradiology.org/isr/books_technique.php)
+(7). Also, the Handbook for district hospitals in resource constrained settings on quality assurance of chest radiography was developed specifically for TB programmes (35).
+Quality control of CXR reading is also essential. Underreading leads to missed opportunities for diagnosing and treating TB, and overreading leads to excess burdens on TB laboratories, as well as possible false-
+
+positive clinical diagnoses (10). Another resource developed specifically for quality assurance in TB programmes in district hospitals is the Handbook for district hospitals in resource constrained settings for the quality improvement of chest X-ray reading in tuberculosis suspects (36).
+In addition to qualifications such as diplomas, masters’ degrees and fellowships, several distance-learning or self-training opportunities are available for ensuring quality control standards. Additionally, some professional societies have developed educational materials, and some of these are listed at the end of this chapter. The International Commission on Radiology Education, part of the International Society of Radiology, provides its own educational materials as well as links to materials from other sources (11).
+Standardized CXR reporting forms and peer review, which may be accomplished by holding regular conferences in hospitals or at local TB diagnostic committees, can be useful for standardizing reading and interpretations. In systematic TB screening campaigns and TB prevalence surveys involving non-specialist screening physicians or clinical officers, a specialist often assesses the primary reading (in what is known as a central reading system). Comparing laboratory results with CXR results can help to improve the quality of radiological screening and diagnosis. Monitoring the proportion of clinically diagnosed cases out of all TB cases can serve as an indicator of diagnostic quality. However, WHO has not defined formal procedures for internal or external quality assessment of CXR interpretation for TB screening and detection.
+
+5.5 Safety
+A proportion of the X-rays used in radiography are absorbed by the body. The potential effects from ionizing radiation depend on the dose. At doses much higher than those of typical diagnostic imaging exams, the damage may be extensive enough to affect tissue function, and the damage may become clinically observable (for example, as skin reddening or burns). Effects of this type are called tissue reactions or deterministic effects, and they occur only if the radiation dose exceeds a certain threshold (42). The long- term risks from ionizing radiation include an increased risk of cancer.
+Direct CXR is a safe technology using a radiation dose of 0.1 mSv, which corresponds to 1/30 of the average annual radiation dose from the environment (3 mSv) and 1/10 of the annual accepted dose of ionizing radiation for the general public (1 mSv). As a point of reference, the radiation dose of one CXR is equivalent to or less than the radiation exposure received during return travel on an intercontinental flight.
+Therefore, exposure to the low radiation doses delivered to patients during a CXR poses a small risk of inducing tissue reactions or cancer in the years to decades following the examination (43). However, it should be noted that a linear non-threshold relationship is assumed between radiation exposure and the risks of effects of this nature. Based on this linear model, the probability of developing cancer is presumed to increase even following exposure to low doses of radiation, although the increase in risk is extremely small. Even though the individual risk associated with radiation exposure from CXR is low, when a large number of individuals are exposed, the associated risks may still constitute a public health issue.
+Children and pregnant women are especially vulnerable to ionizing radiation. Also, children have a longer life expectancy, resulting in a larger window for developing long-term radiation-induced health effects. When imaging small children and infants, exposure parameters should be adjusted from those used for adults to avoid using a higher dose than necessary. Unnecessarily high doses and their associated risks can be substantially reduced without affecting image quality by customizing exposure settings to deliver the lowest radiation dose necessary for providing an image that is fit for the clinical purpose. For pregnant women and the fetus, a CXR does not pose any significant risk, provided that good practices are observed, as the primary beam is targeted away from the pelvis (21).
+Due to the potential risks, the decision to expose patients to radiation during imaging procedures must adhere to two overall principles of radiation protection in medicine: justification and optimization. Justification means that the need for medical imaging should be assessed by weighing the expected benefits against the potential radiation risk, taking into account the benefits and the risks of alternative techniques that do not involve exposure to radiation. The procedure should be judged to do more good than harm. Optimization in medical imaging refers to keeping doses as low as reasonably achievable to obtain a useful image. X-ray personnel should at all times ensure that the benefits of an examination outweigh the potential risks from radiation exposure and that the patient is exposed to as little radiation as possible (14, 44, 45).
+
+Staff performing CXR must be familiar with protection measures for themselves, for patients and for others who may be exposed. Important concepts in radiation protection include consideration of the following areas:
+
+Type of exposure, including:
+• medical exposure (exposure of clients, such as patients and study participants);
+• occupational exposure;
+• public exposure.
+
+Place of exposure, including:
+• controlled areas, such as the X-ray room and areas directly connected to X-ray rooms (used by X-ray staff and assistants during the X-ray examinations);
+• supervised areas, such as areas in the vicinity of the X-ray room, which are usually part of the X-ray department.
+
+Protection measures, including:
+• shielding – that is, barriers of attenuating material around the radiation source, such as concrete walls and lead-containing panels, curtains and windows;
+• distance from the radiation source.
+Preventing exposure for staff and the general public is particularly important when X-ray systems are taken outside of medical facilities, such as during systematic screening using mobile CXR in the community. Tuberculosis prevalence surveys: a handbook provides advice on how to ensure safety in the field (21). When a van with a full size X-ray system with safety and power features appropriate for a hospital is available, the safety standards applied for health facilities can be used. When portable CXR units are placed in non-shielded areas, then restricted areas should be set up, clearly marked and monitored under the guidance of the radiological unit of the survey team. Radiometers and film badge dosimeters should be used, and rules should be devised for how to direct the X-ray beam.
+More information can be found in the following resources:
+• Radiation protection and safety of radiation sources: international basic safety standards, interim edition (46)
+• Tuberculosis prevalence surveys: a handbook (21)
+• WHO’s diagnostic imaging website (14)
+• WHO’s Consumer guide for the purchase of X-ray equipment (38)
+• Handbook for district hospitals in resource constrained settings for the quality improvement of chest X-ray reading in tuberculosis suspects (36)
+• Handbook for district hospitals in resource constrained settings on quality assurance of chest radiography (35)
+• Communicating radiation risks in paediatric imaging (47)
+• International Commission on Radiology Education (42)
+• World Federation of Pediatric Imaging: TB resources (48)
+• Radiographic manifestations of tuberculosis: a primer for clinicians (9)
+• Screening chest X-ray interpretations and radiographic techniques (10).
+
+6. STRATEGIC PLANNING FOR USING CHEST X-RAY IN NATIONAL TB CARE
+
+This chapter describes the strategic planning steps needed to introduce, expand, or systematize the use of CXR in TB care and prevention. Since CXR is not a TB-specific tool, developing a strategic plan for CXR should be done as a part of making general improvements to imaging services in the healthcare sector and within the broader framework of health-system strengthening and providing universal health coverage. This will increase the relevance and acceptance of investments in the technology and related capacity strengthening, and improve the overall efficiency and cost effectiveness of radiography services.
+Accordingly, the strategic planning process should involve all relevant stakeholders interested in introducing or expanding the use of CXR within the health sector. Including all stakeholders can be beneficial because different stakeholders will be able to utilize different sources of funding. However, this strategy may also be hampered by conflicting goals or expectations. If possible, the process needs to be integrated into the development of a national strategic plan for TB care, as well as into the broader national health plan. The level of integration will depend on the structure of the national health system and the level of decentralization in planning, as well as the timing of the strategic planning process at all levels.
+Strategic planning involves:
+1. defining the objective of using CXR in the health system;
+2. performing a situation analysis;
+3. defining specific TB targets to which introducing, expanding or systematizing the use of CXR will contribute;
+4. developing an operational plan, with a detailed budget and financing plan.
+Strategic planning for CXR should begin by defining the objective of using CXR within the health system and within the NTP national strategic plan – for example, it may be used to improve care for patients with respiratory diseases. Planning should then proceed by undertaking a situation analysis to understand the current state of and capacity for CXR in the country, the current epidemiology of TB and the possible contribution of CXR to TB care. Table 1 specifies the relevant questions that should be addressed by the situation analysis; the process should focus on those issues that are most relevant to the stated objective for current and planned use of CXR.
+
+
+Area to assessRelevant issues to be addressedPotential information sources
+CXR capacityDetermine the current state of CXR use in healthcare in the country, within both the public and the private sectors, including:
+• existing infrastructure, equipment (including specifications) and current workload and capacity;
+• existing human resources available to both conduct and read CXRs, and any available measures of their competencies;
+• existing internet connectivity capacity for e-health/telemedicine options, if applicable;
+• percentage of machines that are operational;
+• maintenance arrangements: how are maintenance issues reported and acted upon? What human resources and which budget (or budgets) are used for maintenance?
+• current financing: who pays for new equipment and for ongoing consumables, and from which budget (or budgets)?
+• what is the fee structure for end users, if any, in both the public and private sectors?
+• all stakeholders interested in using CXR and improving its use.Service availability and readiness assessment (known as SARA) surveys;
+national health insurance plans or other payment structuresDetermine existing national policies and regulations affecting the use of radiology, including:
+• its placement on the list of essential diagnostic services for the health service;
+• its placement on the list of essential medical devices;
+• quality assurance and quality control mechanisms;
+• safety policies and practices;
+• other existing national policies regarding the use of radiography, such as policies pertaining to health screening for immigrants or for occupational health screening.National guidelines on radiation safety;
+national screening policies for using CXR, such as to screen immigrants or for occupational health screening, or screening in prisonsMap needs for human resources and capacity strengthening in the public and private sectors for introduction, scale up and quality assurance/quality control; consider:
+• radiologists and radiographers;
+• professional societies;
+• infrastructure for training and capacity strengthening;
+• capacity for e-health/telemedicine options.Professional societies that utilize CXR (such as radiologists and pulmonologists)
+Epidemiology of TBDetermine the current epidemiology of TB in the region, including:
+• the geographical distribution of cases;
+• the age distribution of cases;
+• current case-detection gaps;
+• the current epidemiology of risk factors for TB;
+• any results from prevalence surveys or other research indicating the proportion of bacteriologically confirmed cases reporting no or vague symptoms of TB because this indicates the contribution that CXR could make to case detection;
+• CXR accuracy data from prevalence surveys or other research;
+• the profile of persons with suspected TB and where they would likely enter the health system, or how they could be detected through active case-finding initiatives (including children), as this will determine the current gap in CXR services and the potential workload of CXR.National TB surveillance data;
+WHO’s global TB report; prevalence surveys; other relevant research findings from the country
+ TB activities involving CXRConsider current and planned activities that require increased introduction or scale up of CXR and quality assurance in the country in terms of:
+• improving triaging;
+• improving the clinical diagnosis of TB;
+• improving the diagnosis of childhood TB;
+• implementing systematic screening in risk groups;
+• scaling up detection and treatment of latent TB infection.National strategic plan for TB;
+concept notes from the Global Fund,
+or similar strategic planning for fundingCXR: chest X-ray.
+
+Based on the findings of the situation analysis, the TB control targets that CXR will contribute to need to be defined for its introduction, and for expanding or systematizing its use. For example, it should be specified whether the intended target is to increase case detection, rationalize the use of Xpert MTB/RIF testing or assist with the initiation of treatment for LTBI. Similarly, stakeholders not using CXR for TB should define their targets for introducing or expanding CXR use.
+The operationalization plan for integrating CXR into TB control should then be defined, beginning with the broader questions of CXR technology and placement in the healthcare system, and then using that information to proceed to address more detailed aspects of implementation, such as the following.
+• Where in the health system will CXR will be placed – for example, at the primary healthcare level, at the referral level, in hospitals, in mobile screening units?
+• Which CXR technology is best suited to the planned placement, or the desired improvement in the quality of existing CXR technology? This will be determined largely by the intended uses for CXR – for example, whether it will be used in routine care at primary healthcare centres or in a prevalence survey.
+• What additional infrastructure or equipment will be required, such as vans for mobile screening units or computers and internet connectivity for digital systems?
+• What is the approximate cost of such equipment, both in terms of procurement and ongoing operation and maintenance costs? Detailed budgeting comes later in the process (see below), but rough budget estimates are needed earlier to check that the proposed approaches are broadly affordable and cost effective.
+• What is the place of CXR in triaging, screening and diagnostic algorithms? What possible modifications could be made to current algorithms to make better use of CXR?
+• What is the expected increase in TB detection from the new algorithms or new placement of a CXR system?
+• What human resources are required for CXR use?
+• What are the initial training requirements and ongoing quality assurance requirements for CXR use?
+• Is there a need for technical assistance during the implementation of the operational plan?
+• What is the plan for monitoring and evaluating the use of CXR?
+• What is the plan for any operational research to be conducted in conjunction with CXR use in TB control? How will the associated data security and patient privacy issues be addressed?
+• What implementation steps are required to achieve the defined objectives and targets, and who will perform the steps and when?
+Along with this operational plan, a detailed budget needs to specify who will pay for the costs associated with using CXR, taking into account the different levels and budgeting processes of the entire health system. The budget should show the total cost of implementing and operationalizing CXR activities, the sources of funding and the funding gaps. The NTP, other departments of the ministry of health and other concerned ministries should work together to address the gaps in funding CXR for TB care to ensure the costs are not passed on to patients. Such costs can be catastrophic for individuals already facing severe economic and other stresses as a result of their illness.
+For more details, see WHO’s Toolkit to develop a national strategic plan for TB prevention, care and control (49).
+
+Annexes
+
+Annex 1.
+Yield and costs of triage algorithms in a hypothetical population of 100 000 with different TB prevalence levels
+The yields of true-positive, false-positive, true-negative and false-negative TB diagnoses (using liquid culture as the gold standard), and the cost per true case of TB detected, were modelled for different triage algorithms and different prevalence levels in a hypothetical population of 100 000 persons seeking healthcare.
+Table A1 displays the assumptions about test accuracy that are based on estimates from the systematic review done for the guideline on systematic screening for active TB (4). It should be noted that these estimates are from systematic screening studies (mainly TB prevalence surveys) and are likely to be different in a triage scenario. The reason for using these assumptions is that no data from systematic reviews are available for triage scenarios. The cost estimates are the same as the pre-set values on the ScreenTB tool. The ScreenTB tool (5, 12) can be used to model the yield and costs for these algorithms based on different assumptions.
+
+Table A1. Assumptions used to model the yield and costs per true case of TB detected
+
+TestSensitivitySpecificityTest costsaOperational costsaCough screen0.350.9500.05Any symptom screen0.770.6800.05Digital chest X-ray0.980.751.004.00Sputum-smear microscopy0.610.981.500.50Xpert MTB/RIF assayb0.920.9910.007.00a Costs are per person tested in US dollars.
+b Xpert MTB/RIF assay (Cepheid, Sunnyvale, CA, United States).
+
+Table A2 displays the results of modelling with a TB prevalence of 250 cases per 100 000 population; Table A3 displays the results of modelling with a TB prevalence of 500 cases per 100 000 population; and Table A4 displays the results of modelling with a TB prevalence of 1 000 cases per 100 000 population.
+
+Table A2. Yield and costs per true case of TB detected by triage algorithms in a hypothetical population of 100 000 with a TB prevalence of 250 cases/100 000a
+
+Algorithm    True positive  False positive   False negative    True negativeCost per
+case  Number needed to screenb1 (Prolonged cough  SSM)5310019799 6502861 8872 (Prolonged cough  CXR  SSM)522519899 7256351 9243 (Any symptom  SSM)11763813399 1125928554 (Any symptom  CXR  SSM)11516013599 5901 5828705 (CXR  SSM)14949910199 2513 6946726 (Prolonged cough  Xpert)805017099 7001 1411 2507 (Prolonged cough  CXR  Xpert)791217199 7386711 2668 (Any symptom  Xpert)1773197399 4313 1125659 (Any symptom  CXR  Xpert)174807699 6701 75057510 (CXR  Xpert)2252492599 5014 125445CXR: chest X-ray; SSM: sputum-smear microscopy; Xpert: Xpert MTB/RIF assay (Cepheid, Sunnyvale, CA, United States).
+a The algorithms are described in detail in Chapter 2.
+b This is the number needed to screen to detect one true case.
+
+Table A3. Yield and costs per true case of TB detected by triage algorithms in a hypothetical population of 100 000 with a TB prevalence of 500 cases/100 000a
+
+Algorithm    True positive  False positive   False negative    True negativeCost per
+case  Number needed to screenb1 (Prolonged cough  SSM)10710039399 4001439352 (Prolonged cough  CXR  SSM)1052539599 4753209533 (Any symptom  SSM)23563726598 8632964264 (Any symptom  CXR  SSM)23015927099 3417954355 (CXR  SSM)29949820199 0021 8423356 (Prolonged cough  Xpert)1615033999 4505756227 (Prolonged cough  CXR  Xpert)1581234299 4883476338 (Any symptom  Xpert)35431814699 1821 5622839 (Any symptom  CXR  Xpert)3478015399 42088728910 (CXR  Xpert)4512494999 2512 065222CXR: chest X-ray; SSM: sputum-smear microscopy; Xpert: Xpert MTB/RIF assay (Cepheid, Sunnyvale, CA, United States).
+a The algorithms are described in detail in Chapter 2.
+b This is the number needed to screen to detect one true case.
+
+Table A4. Yield and costs per true case of TB detected by triage algorithms in a hypothetical population of 100 000 with a TB prevalence of 1 000 cases/100 000a
+
+Algorithm    True positive  False positive   False negative    True negativeCost per
+case  Number needed to screenb1 (Prolonged cough  SSM)2149978698 901734682 (Prolonged cough  CXR  SSM)2092579198 9751664793 (Any symptom  SSM)47063453098 3661492134 (Any symptom  CXR  SSM)46015854098 8424012185 (CXR  SSM)59849540298 5059221686 (Prolonged cough  Xpert)3225067898 9502953117 (Prolonged cough  CXR  Xpert)3161268498 9881853178 (Any symptom  Xpert)70831729298 6837861429 (Any symptom  CXR  Xpert)6947930698 92145314510 (CXR  Xpert)9022489898 7521 039111CXR: chest X-ray; SSM: sputum-smear microscopy; Xpert: Xpert MTB/RIF assay (Cepheid, Sunnyvale, CA, United States).
+a The algorithms are described in detail in Chapter 2.
+b This is the number needed to screen to detect one true case.
+
+Annex 2.
+Proportion of TB cases detectable through screening with chest X-ray or by screening for chronic cough
+The results of several recent prevalence surveys are presented below (Table B1), including the proportion of TB cases identified that reported various TB symptoms and that had abnormal CXR results. In particular, the column “Percentage positive only by CXR” demonstrates the potential contribution of CXR to TB detection over screening or triage based on symptoms alone.
+
+Table B1. Proportion of TB cases detectable through screening with chest X-ray or by screening for chronic cough among persons diagnosed with bacteriologically confirmed TB in recent TB prevalence surveysa
+
+Country          No. of bacteriologically confirmed cases     No. symptom positive,
+CXR
+positive     No. symptom positive,
+CXR
+negative     No. symptom negative,
+CXR
+positivePercentage
+  positive by both CXR and symptomsPercentage
+positive only by
+CXRPercentage
+  positive only by symptomsCambodia31490321629691Ethiopia110451253414811Gambia77321233424316Ghana20267158533427Indonesia4262202518152426Laos237111711947503Malawi132256740193051Mongolia24844719018773Myanmar31165123121740Nigeria144761652533611Pakistan34115740142464212Rwanda4015421385310Sudan1124484339387Thailand1424269430664Uganda160631681395110Zambia26511546104433917Zimbabwe10729106427609CXR: chest X-ray.
+a Data from country prevalence surveys or personal communication. Information about sources available upon request.
+
+References
+
+
+
+1. Uplekar M, Weil D, Lonnroth K, Jaramillo E, Lienhardt C, Dias HM, et al. WHO’s new end TB strategy. Lancet. 2015;385(9979):1799-801. doi:10.1016/s0140-
+6736(15)60570-0
+2. World Health Organization. Automated real-time nucleic acid amplification technology for rapid and simultaneous detection of tuberculosis and rifampicin resistance: Xpert MTB/RIF assay for the diagnosis of pulmonary and extrapulmonary TB in adults and children. Policy update. Geneva: World Health Organization; 2013 (WHO/HTM/TB/2013.16; http://apps.who. int/iris/bitstream/10665/112472/1/9789241506335_eng.pdf, accessed 27 September 2016).
+3. World Health Organization. Xpert MTB/RIF implementation manual: technical and operational ‘how-to’; practical considerations. Geneva: World Health Organization;
+2014 (WHO/HTM/TB/2014.1; http://apps.who.int/iris/ bitstream/10665/112469/1/9789241506700_eng.pdf?ua=1, accessed 27 September 2016).
+4. World Health Organization. Systematic screening for active tuberculosis: Principles and recommendations. Geneva: World Health Organization; 2013 (WHO/ HTM/TB/2013.04; http://apps.who.int/iris/ bitstream/10665/84971/1/9789241548601_eng.pdf?ua=1, accessed 27 September 2016).
+5. World Health Organization. Systematic screening for active tuberculosis: an operational guide. Geneva: World Health Organization; 2015 (WHO/HTM/TB/2015.16; http://apps. who.int/iris/bitstream/10665/181164/1/9789241549172_eng. pdf?ua=1, accessed 27 September 2016).
+6. World Health Organization. Global tuberculosis report 2016. Geneva: World Health Organization; 2016 (WHO/ HTM/TB/2016.13; http://apps.who.int/iris/bitstre am/10665/250441/1/9789241565394-eng.pdf?ua=1, accessed 8 November 2016).
+7. Ellis SM, Flower C. The WHO manual of diagnostic imaging: radiographic anatomy and interpretation of the chest and the pulmonary system. Geneva: World Health Organization; 2006; http://apps.who.int/iris/bitstream/10665/43293/1/9241546778_ eng.pdf, accessed 27 September 2016).
+8. World Health Organization. Pattern recognition in diagnostic imaging. Geneva: World Health Organization; 2001 (WHO/DIL/01.2; http://apps.who.int/iris/ bitstream/10665/66843/25/9241546328_eng_LR_part1.pdf, accessed 5 October 2016).
+9. Daley CL, Gotway MB, Jasmer RM. Radiographic Manifestations of Tuberculosis: A Primer for Clinicians, second edition. San Francisco: Curry International Tuberculosis Center; 2011; http://www.currytbcenter.ucsf. edu/products/view/radiographic-manifestations-tuberculosis- primer-clinicians-second-edition-printed-book, accessed 5
+October 2016).
+10. Gelaw SM. Screening chest x-ray interpretations and radiographic techniques. Geneva: International Organization for Migration; 2015; http://publications.iom.int/system/files/ pdf/screening_chest_xray_interpretations.pdf, accessed 27
+September 2015).
+11. International Commission on Radiology Education. In: International Society of Radiology [website]. Reston, VA: International Society on Radiology; 2016 (http://www. isradiology.org/goed_tb_project/imaging.php, accessed 4
+October 2016).
+12. ScreenTB: target prioritization and strategy selection for tuberculosis screening (active case finding). In: World Health Organization [website]. Geneva: World Health Organization, 2016 (https://wpro.shinyapps.io/screen_tb/, accessed 21
+September 2016).
+13. 
+World Health Organization. Definitions and reporting framework for tuberculosis: 2013 revision. Geneva: World Health Organization; 2013 (WHO/HTM/TB/2013.2; http:// apps.who.int/iris/bitstream/10665/79199/1/9789241505345_ eng.pdf?ua=1, accessed 5 October 2016).
+14. Diagnostic imaging - Imaging modalities. In: World Health Organization [website]. Geneva: World Health Organization; 2016 (http://www.who.int/diagnostic_imaging/en/, accessed 4
+July 2016).
+15. World Health Organization. The hospital in rural and urban districts: report of a WHO study group on the functions of hospitals at the first referral level. Geneva: World Health Organization; 1992 (http://apps.who.int/iris/ bitstream/10665/37704/1/WHO_TRS_819.pdf, accessed 5
+October 2016).
+16. Koppaka R, Bock N. How reliable is chest radiography? In: Frieden T, editor. Toman’s tuberculosis: case detection,
+treatment, and monitoring. Questions and answers, second edition. Geneva: World Health Organization; 2004. p.
+51-60 (WHO/HTM/TB/2004.344; http://apps.who.int/iris/
+bitstream/10665/42701/1/9241546034.pdf, accessed 5
+October 2016).
+17. World Health Organization. Treatment of tuberculosis: guidelines for national programmes, third edition. Geneva: World Health Organization; 2003 (WHO/CDS/TB/2003.313; http://apps.who.int/iris/bitstream/10665/67890/1/WHO_CDS_ TB_2003.313_eng.pdf, accessed 5 October 2016).
+18. World Health Organization. Improving the diagnosis and treatment of smear-negative pulmonary and
+extrapulmonary tuberculosis among adults and adolescents: recommendations for HIV-prevalent and resource- constrained settings. Geneva: World Health Organization; 2007 (WHO/HTM/TB/2007.379; http://apps.who.int/iris/ bitstream/10665/69463/1/WHO_HTM_TB_2007.379_eng.pdf, accessed 5 October 2016).
+19. World Health Organization: Implementing the WHO Stop TB Strategy: a handbook for national tuberculosis
+control programmes. Geneva: World Health Organization; 2008 (WHO/HTM/TB/2008.401; http://apps.who.int/iris/ bitstream/10665/43792/1/9789241546676_eng.pdf, accessed 5 October 2016).
+20. TB Care I. International standards for tuberculosis care, third edition. The Hague: TB CARE I; 2014 (http://www.who.int/tb/ publications/ISTC_3rdEd.pdf, accessed 5 October 2016).
+21. World Health Organization. Tuberculosis prevalence surveys: a handbook. Geneva: World Health Organization; 2011 (WHO/HTM/TB/2010.17; http://www.who.int/tb/
+advisory_bodies/impact_measurement_taskforce/resources_ documents/thelimebook/en/, accessed 5 October 2016).
+22. World Health Organization. Guidance for national tuberculosis programmes on the management of tuberculosis in children, second edition. Geneva: World Health Organization; 2014 (WHO/HTM/TB/2014.03; http://apps.who.int/medicinedocs/ documents/s21535en/s21535en.pdf, accessed 5 October 2016).
+23. World Health Organization. Consolidated guidelines on the use of antiretroviral drugs for treating and
+preventing HIV infection: recommendations for a public health approach, second edition. Geneva: World Health Organization; 2016 (http://apps.who.int/iris/
+bitstream/10665/208825/1/9789241549684_eng.pdf?ua=1, accessed 5 October 2016).
+24. World Health Organization. Guidelines on the management of latent tuberculosis infection. Geneva: World Health Organization; 2015 (WHO/HTM/TB/2015.01; http://www. who.int/tb/publications/ltbi_document_page/en/, accessed 5
+October 2016).
+
+25. World Health Organization. Standards for TB Care in India. New Delhi: World Health Organization Country Office for India; 2014 (http://www.searo.who.int/india/mediacentre/
+events/2014/stci_book.pdf, accessed 17 October 2016).
+26. Migliori GB, Zellweger JP, Abubakar I, Ibraim E, Caminero JA, De Vries G, et al. European union standards for tuberculosis care. Eur Respir J. 2012;39(4):807-19. doi:10.1183/09031936.00203811.
+27. Canadian Thoracic Society, Public Health Agency of Canada. Canadian Tuberculosis Standards, seventh edition. Ottawa,
+Ontario: Canadian Thoracic Society, Public Health Agency of Canada; 2013 (http://www.respiratoryguidelines.ca/tb- standards-2013, accessed 17 October 2016).
+28. World Health Organization. Pocket book of hospital care for children: guidelines for the management of
+common illnesses with limited resources. Geneva: World Health Organization; 2005 (http://apps.who.int/iris/ bitstream/10665/43206/1/9241546700.pdf, accessed 8
+November 2016).
+29. Practical approach to Lung Health (PAL). In: World Health Organzation, Tuberculosis [website]. Geneva: World Health Organization; 2016 (http://www.who.int/tb/health_systems/
+pal/en/, 17 October 2016).
+30. World Health Organization. WHO policy on TB infection control in health-care facilities, congregate settings and households. Geneva: World Health Organization; 2009 (WHO/HTM/TB/2009.419; http://apps.who.int/iris/
+bitstream/10665/44148/1/9789241598323_eng.pdf, accessed 27 September 2016).
+31. Ottmani S-E, Scherpbier R, Pio A, Chaulet P, Aït Khaled N, Blanc L, et al, editors. Practical approach to lung health (PAL): a primary healthcare strategy for the integrated management of respiratory conditions in people five years of age and over. Geneva: World Health Organization; 2005 (WHO/HTM/TB/2005.351; http://apps.who.int/iris/ bitstream/10665/69035/1/WHO_HTM_TB_2005.351.pdf, accessed 5 October 2016).
+32. World Helath Organization. The World Health Report. Health systems financing: the path to universal coverage. Geneva: World Health Organization; 2010 (http://apps.who.int/iris/ bitstream/10665/44371/1/9789241564021_eng.pdf, accessed 5 October 2016).
+33. World Health Organization. Implementing tuberculosis diagnostics: policy framework. Geneva: World Health Organization; 2015 (WHO/HTM/TB/2015.11; http://apps. who.int/iris/bitstream/10665/162712/1/9789241508612_eng. pdf?ua=1&ua=1, accessed 5 October 2016).
+34. Frieden T, editor. Toman’s tuberculosis: case detection, treatment, and monitoring. Questions and answers, second edition. Geneva: World Health Organzation; 2004 (WHO/HTM/TB/2004.334; http://apps.who.int/iris/
+bitstream/10665/42701/1/9241546034.pdf, accessed 5
+October 2016).
+35. Tuberculosis Coalition for Technical Assistance. Handbook for district hospitals in resource constrained settings on quality assurance of chest radiography: for better TB control and health system strengthening. The Hague: Tuberculosis Coalition for Technical Assistance; 2008 (http://www.tbcare1.
+org/publications/toolbox/tools/access/XRayQAHandbook.pdf, accessed 5 October 2016).
+36. Tuberculosis Coalition for Technical Assistance. Handbook for District Hospitals in Resource Constrained Settings for the Quality Improvement of Chest X-ray Reading in Tuberculosis Suspects. The Hague: Tuberculosis Coalition for Technical Assistance; 2010 (http://www.challengetb.org/publications/
+tools/ua/XRayQIHandbook.pdf, accessed 5 October 2016).
+37. 
+Gie R. Diagnostic atlas of intrathoracic tuberculosis in children: a guide for low income countries. Paris: International Union Against Tuberculosis and Lung Disease; 2003 (http:// www.theunion.org/what-we-do/publications/technical/english/ pub_diagnostic-atlas_eng.pdf, accessed 5 October 2016).
+38. Holm T. Consumer guide for the purchase of x-ray equipment. Lund, Sweden: WHO Collaborating Centre for General and Continuing Radiological Education; 2000 (WHO/DIL/00.1; http://apps.who.int/iris/handle/10665/66195, accessed 5
+October 2016).
+39. WHO Technical Specification for Medical Devices. In: World Health Organization, Health Technology Management [website]. Geneva: World Health Organization; 2016 (http:// www.who.int/medical_devices/management_use/mde_tech_ spec/en/, accessed 22 September 2016).
+40. Pande T, Cohen C, Pai M, Ahmad Khan F. Computer- aided detection of pulmonary tuberculosis on digital chest radiographs: a systematic review. Int J Tuberc Lung Dis. 2016;20(9):1226-30. doi:10.5588/ijtld.15.0926.
+41. Diagnostic accuracy of CAD4TB: a systematic review. Report to WHO. Geneva: World Health Organization; 2016.
+42. Stewart FA, Akleyev AV, Hauer-Jensen M, Hendry JH, Kleiman NJ, Macvittie TJ, et al. ICRP publication 118: ICRP statement on tissue reactions and early and late effects of radiation
+in normal tissues and organs – threshold doses for tissue reactions in a radiation protection context. Ann ICRP. 2012; 41(1-2):1-322. doi: 10.1016/j.icrp.2012.02.001.
+43. United Nations Scientific Committee on the Effects of Atomic Radiation. Sources and effects of ionizing radiation. UNSCEAR 2008 report to the General Assembly, scientific annexes. New York: United Nations Scientific Committee on
+the Effects of Atomic Radiation; 2008 (http://www.unscear.org/ docs/publications/2008/UNSCEAR_2008_Report_Vol.I.pdf, accessed 5 October 2016).
+44. International Commission on Radiological Protection. The 2007 recommendations of the International Commission on Radiological Protection. Ann ICRP. 2007;37(2-4):1-332.
+45. International Commission on Radiological Protection. ICRP publication 105: radiological protection in medicine. Ann ICRP. 2007;37(6):1–63. doi: 10.1016/j.icrp.2008.08.001.
+46. International Atomic Energy Agency. Radiation protection and safety of radiation sources: International basic safety standards, interim edition. Geneva: International Atomic Energy Agency; 2011 (http://www-pub.iaea.org/MTCD/ publications/PDF/p1531interim_web.pdf, accessed 17
+October 2016).
+47. World Health Organization. Communicating radiation risks in paediatric imaging: information to support healthcare discussions about benefit and risk. Geneva:
+World Health Organization; 2016 (http://apps.who.int/iris/ bitstream/10665/205033/1/9789241510349_eng.pdf?ua=1, accessed 18 October 2016).
+48. WFPI’s TB Corner. In: World Federation of Pediatric Imaging [website]. Boston, MA: World Federation of Pediatric Imaging; 2015 (http://www.wfpiweb.org/Outreach/TBCorner.aspx,
+accessed 19 October 2016).
+49. World Health Organization. Toolkit to develop a national strategic plan for TB prevention, care and control: methodology on how to develop a national strategic plan. Geneva: World Health Organization; 2015 (WHO/HTM/ TB/2015.08; http://www.who.int/tb/publications/NSP_toolkit/ en/, accessed 5 October 2016).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+For further information, please contact:
+World Health Organization
+20, Avenue Appia CH-1211 Geneva 27 Switzerland Global TB Programme
+E-mail: tbdocs@who.int Web site: www.who.int/tb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
