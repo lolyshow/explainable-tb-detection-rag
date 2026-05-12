@@ -4,6 +4,7 @@ venv/
 env/
 .venv/
 
+uploads/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
