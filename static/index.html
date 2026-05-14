@@ -2,79 +2,82 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>TB XAI Detection System</title>
+    <title>Explainable TB Detection</title>
 
     <style>
 
         * {
             box-sizing: border-box;
-            font-family: Arial, sans-serif;
+            font-family: Arial, Helvetica, sans-serif;
         }
 
         body {
             margin: 0;
-            padding: 0;
-            background: #f5f7fb;
-            color: #222;
+            background: #f4f7fb;
+            color: #1e293b;
         }
 
         .container {
-            width: 90%;
-            max-width: 1100px;
+            width: 92%;
+            max-width: 1200px;
             margin: auto;
             padding: 40px 0;
         }
 
-        .title {
+        .hero {
             text-align: center;
             margin-bottom: 40px;
         }
 
-        .title h1 {
+        .hero h1 {
             margin: 0;
-            font-size: 40px;
+            font-size: 42px;
             color: #0f172a;
         }
 
-        .title p {
+        .hero p {
+            margin-top: 12px;
             color: #64748b;
-            margin-top: 10px;
+            line-height: 1.7;
         }
 
         .card {
             background: white;
             border-radius: 18px;
             padding: 30px;
-            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+            box-shadow: 0 6px 24px rgba(0,0,0,0.08);
             margin-bottom: 30px;
         }
 
-        .upload-area {
+        .upload-section {
             display: flex;
             flex-direction: column;
-            gap: 20px;
+            gap: 18px;
         }
 
         input[type="file"],
         input[type="text"] {
+
+            width: 100%;
             padding: 14px;
             border-radius: 10px;
             border: 1px solid #dbe2ea;
-            width: 100%;
             font-size: 15px;
         }
 
         button {
+
             background: #2563eb;
             color: white;
             border: none;
-            padding: 14px;
             border-radius: 10px;
-            cursor: pointer;
+            padding: 15px;
             font-size: 16px;
+            cursor: pointer;
             transition: 0.2s;
         }
 
@@ -82,79 +85,117 @@
             background: #1d4ed8;
         }
 
-        .results {
+        .loading {
+
             display: none;
-            margin-top: 30px;
+            margin-top: 10px;
+            color: #2563eb;
+            font-weight: bold;
         }
 
-        .prediction-grid {
+        .results {
+            display: none;
+        }
+
+        .stats-grid {
+
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
             gap: 20px;
         }
 
-        .stat-box {
+        .stat-card {
+
             background: #eff6ff;
-            padding: 20px;
             border-radius: 14px;
+            padding: 20px;
         }
 
-        .stat-box h3 {
+        .stat-card h3 {
+
             margin: 0;
-            color: #1e3a8a;
             font-size: 14px;
+            color: #1e40af;
         }
 
-        .stat-box p {
+        .stat-card p {
+
             margin-top: 10px;
-            font-size: 24px;
+            font-size: 28px;
             font-weight: bold;
         }
 
-        .heatmap-container {
-            margin-top: 30px;
+        .image-grid {
+
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            margin-top: 20px;
+        }
+
+        .image-box {
             text-align: center;
         }
 
-        .heatmap-container img {
+        .image-box h3 {
+
+            margin-bottom: 16px;
+            color: #0f172a;
+        }
+
+        .image-box img {
+
             width: 100%;
-            max-width: 600px;
-            border-radius: 14px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            border-radius: 16px;
+            box-shadow: 0 5px 24px rgba(0,0,0,0.14);
+            object-fit: contain;
+            background: black;
         }
 
         .rag-box {
-            margin-top: 30px;
-            line-height: 1.8;
+
+            margin-top: 10px;
+            line-height: 1.9;
             font-size: 16px;
             color: #334155;
             white-space: pre-line;
         }
 
-        .loading {
-            display: none;
-            margin-top: 20px;
-            color: #2563eb;
-            font-weight: bold;
+        .footer {
+
+            text-align: center;
+            margin-top: 40px;
+            color: #94a3b8;
+            font-size: 14px;
         }
 
     </style>
+
 </head>
 
 <body>
 
 <div class="container">
 
-    <div class="title">
+    <!-- HERO -->
+
+    <div class="hero">
+
         <h1>Explainable Tuberculosis Detection</h1>
+
         <p>
-            Multimodal AI system using ResNet50, BERT, Explainable AI, and Retrieval-Augmented Generation.
+            AI-powered chest X-ray analysis using ResNet50, BERT,
+            Explainable AI, and Retrieval-Augmented Generation.
         </p>
+
     </div>
+
+
+    <!-- UPLOAD CARD -->
 
     <div class="card">
 
-        <div class="upload-area">
+        <div class="upload-section">
 
             <input type="file" id="file">
 
@@ -165,87 +206,166 @@
             >
 
             <button onclick="sendPrediction()">
-                Analyze X-ray
+                Analyze Chest X-ray
             </button>
 
             <div class="loading" id="loading">
-                Processing image... this may take a few seconds.
+                Processing image... please wait.
             </div>
 
         </div>
 
     </div>
 
+
+    <!-- RESULTS -->
+
     <div class="results" id="results">
 
-        <div class="prediction-grid">
+        <!-- STATS -->
 
-            <div class="stat-box">
+        <div class="stats-grid">
+
+            <div class="stat-card">
                 <h3>Prediction</h3>
                 <p id="answer"></p>
             </div>
 
-            <div class="stat-box">
+            <div class="stat-card">
                 <h3>Confidence</h3>
                 <p id="confidence"></p>
             </div>
 
-            <div class="stat-box">
-                <h3>Explainability Method</h3>
+            <div class="stat-card">
+                <h3>CAM Method</h3>
                 <p id="camMethod"></p>
             </div>
 
         </div>
 
-        <div class="card heatmap-container">
 
-            <h2>Explainability Heatmap</h2>
+        <!-- IMAGES -->
 
-            <img id="heatmap">
+        <div class="card">
+
+            <h2>Explainability Visualization</h2>
+
+            <div class="image-grid">
+
+                <div class="image-box">
+
+                    <h3>Original X-ray</h3>
+
+                    <img id="originalImage">
+
+                </div>
+
+                <div class="image-box">
+
+                    <h3>AI Attention Heatmap</h3>
+
+                    <img id="heatmap">
+
+                </div>
+
+            </div>
 
         </div>
+
+
+        <!-- RAG -->
 
         <div class="card">
 
             <h2>Clinical Explanation</h2>
 
+            <div>
+                <h3>Positioning Report</h3>
+                <div class="rag-box" id="position_report"></div>
+            </div>
+            
             <div class="rag-box" id="ragContext"></div>
 
         </div>
 
     </div>
 
+
+    <!-- FOOTER -->
+
+    <div class="footer">
+        Explainable TB Detection System • FastAPI • PyTorch • XAI
+    </div>
+
 </div>
+
 
 <script>
 
 async function sendPrediction() {
 
     const file = document.getElementById("file").files[0];
+
     const question = document.getElementById("question").value;
 
     if (!file) {
-        alert("Please upload an X-ray image.");
+
+        alert("Please upload a chest X-ray image.");
+
         return;
     }
 
+    // =========================
+    // UI STATES
+    // =========================
+
     document.getElementById("loading").style.display = "block";
+
     document.getElementById("results").style.display = "none";
 
-    let form = new FormData();
+    // =========================
+    // FORM DATA
+    // =========================
+
+    const form = new FormData();
 
     form.append("file", file);
+
     form.append("question", question);
 
+    // =========================
+    // API CALL
+    // =========================
+
     const response = await fetch("/predict", {
+
         method: "POST",
+
         body: form
+
     });
 
     const data = await response.json();
 
+    const r = data.heatmap_report;
+
+    
     // =========================
-    // UPDATE UI
+    // ORIGINAL IMAGE
+    // =========================
+
+    document.getElementById("originalImage").src =
+        URL.createObjectURL(file);
+
+    // =========================
+    // HEATMAP
+    // =========================
+
+    document.getElementById("heatmap").src =
+        "data:image/png;base64," + data.heatmap;
+
+    // =========================
+    // RESULTS
     // =========================
 
     document.getElementById("answer").innerText =
@@ -257,13 +377,22 @@ async function sendPrediction() {
     document.getElementById("camMethod").innerText =
         data.cam_method;
 
+    // =========================
+    // RAG CONTEXT
+    // =========================
+
+    document.getElementById("position_report").innerText =
+        data.position_report;
+
     document.getElementById("ragContext").innerText =
         data.rag_context;
 
-    document.getElementById("heatmap").src =
-        "data:image/png;base64," + data.heatmap;
+    // =========================
+    // SHOW RESULTS
+    // =========================
 
     document.getElementById("loading").style.display = "none";
+
     document.getElementById("results").style.display = "block";
 }
 

@@ -14,7 +14,7 @@ from transformers import AutoTokenizer
 
 from model import ResNet50MedVQA
 from explainability import GradCAM, GradCAMPlusPlus, ScoreCAM
-from rag import retrieve_rag_context, load_corpus
+from rag import retrieve_rag_context,interpret_heatmap_position, load_corpus
 
 
 # =========================
@@ -107,6 +107,63 @@ def encode_image_base64(np_img):
     pil_img.save(buffer, format="PNG")
     return base64.b64encode(buffer.getvalue()).decode()
 
+def compute_heatmap_report(cam: np.ndarray):
+    """
+    Converts CAM into spatial interpretation metadata.
+    """
+
+    h, w = cam.shape
+
+    # Normalize CAM
+    cam_norm = cam / (cam.max() + 1e-8)
+
+    # ---- Activation center (weighted centroid) ----
+    ys, xs = np.where(cam_norm > 0.5)
+
+    if len(xs) == 0:
+        return {
+            "dominant_region": "no significant activation",
+            "activation_center": None,
+            "coverage_percent": 0.0,
+            "interpretation": "No strong abnormal region detected"
+        }
+
+    cx = float(np.mean(xs) / w)
+    cy = float(np.mean(ys) / h)
+
+    # ---- Coverage ----
+    coverage = float(np.mean(cam_norm > 0.5) * 100)
+
+    # ---- Region mapping (simple clinical heuristic) ----
+    region = ""
+
+    if cy < 0.33:
+        region += "upper "
+    elif cy < 0.66:
+        region += "mid "
+    else:
+        region += "lower "
+
+    if cx < 0.5:
+        region += "left lung field"
+    else:
+        region += "right lung field"
+
+    # ---- Interpretation ----
+    if coverage > 25:
+        interp = "Extensive abnormal radiological activation"
+    elif coverage > 10:
+        interp = "Localized suspicious lesion region detected"
+    else:
+        interp = "Minimal focal activation detected"
+
+    return {
+        "dominant_region": region,
+        "activation_center": [round(cx, 3), round(cy, 3)],
+        "coverage_percent": round(coverage, 2),
+        "interpretation": interp
+    }
+
 
 # =========================
 # MAIN INFERENCE FUNCTION
@@ -146,15 +203,17 @@ def run_inference(
     # ---- 4. COMPUTE CAM ----
     cam, class_idx = cam_extractor.compute(img_t, ids, mask)
 
+    report = compute_heatmap_report(cam)
+    
     # ---- 5. PREDICTION ----
     model.eval()
     with torch.no_grad():
         logits, _, _ = model(img_t, ids, mask)
         probs = torch.softmax(logits, dim=1)[0]
-
-    confidence = probs[class_idx].item()
+        confidence = probs[class_idx].item() 
+    
     predicted_answer = ANSWER_VOCAB[class_idx]
-
+    
     # ---- 6. RAG EXPLANATION ----
     rag_text = retrieve_rag_context(
         question=question,
@@ -166,12 +225,14 @@ def run_inference(
     # ---- 7. HEATMAP ----
     overlay = overlay_cam(image_path, cam)
     heatmap_base64 = encode_image_base64(overlay)
-
+    position_report = interpret_heatmap_position(cam) 
     # ---- 8. RETURN OUTPUT ----
     return {
         "answer": predicted_answer,
         "confidence": float(confidence),
         "cam_method": cam_method,
         "rag_context": rag_text,
-        "heatmap": heatmap_base64
+        "position_report": position_report,
+        "heatmap": heatmap_base64,
+        "heatmap_report": report
     }
